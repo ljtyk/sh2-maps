@@ -1,0 +1,226 @@
+[
+ {
+  "world": [
+   -744.0,
+   -633.0
+  ],
+  "sprite": "Icon_AutoMap01_01",
+  "parent": "IconAM01",
+  "color": [
+   255,
+   255,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -666.0,
+   -659.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   649.0,
+   -357.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   201.0,
+   568.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   640.0,
+   -275.0
+  ],
+  "sprite": "Icon_AutoMap01_08",
+  "parent": "IconAM09",
+  "color": [
+   80,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   236.0,
+   608.0
+  ],
+  "sprite": "Icon_AutoMap01_08",
+  "parent": "IconAM09",
+  "color": [
+   80,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   460.0,
+   608.0
+  ],
+  "sprite": "Icon_AutoMap01_08",
+  "parent": "IconAM09",
+  "color": [
+   80,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   460.0,
+   608.0
+  ],
+  "sprite": "Icon_AutoMap01_13",
+  "parent": "IconAM04",
+  "color": [
+   255,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -744.0,
+   -633.0
+  ],
+  "sprite": "Icon_AutoMap01_01",
+  "parent": "IconAM01",
+  "color": [
+   255,
+   255,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -666.0,
+   -659.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   649.0,
+   -357.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   201.0,
+   568.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   640.0,
+   -275.0
+  ],
+  "sprite": "Icon_AutoMap01_08",
+  "parent": "IconAM09",
+  "color": [
+   80,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   236.0,
+   608.0
+  ],
+  "sprite": "Icon_AutoMap01_08",
+  "parent": "IconAM09",
+  "color": [
+   80,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   460.0,
+   608.0
+  ],
+  "sprite": "Icon_AutoMap01_08",
+  "parent": "IconAM09",
+  "color": [
+   80,
+   120,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   460.0,
+   608.0
+  ],
+  "sprite": "Icon_AutoMap01_13",
+  "parent": "IconAM04",
+  "color": [
+   255,
+   120,
+   255,
+   255
+  ]
+ }
+]

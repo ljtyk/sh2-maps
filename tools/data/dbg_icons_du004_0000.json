@@ -1,0 +1,534 @@
+[
+ {
+  "world": [
+   1.0,
+   -252.0
+  ],
+  "sprite": "Icon_AutoMap01_01",
+  "parent": "IconAM01",
+  "color": [
+   255,
+   255,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -177.0,
+   -146.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   160.0,
+   -146.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   136.0,
+   -16.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -136.0,
+   18.0
+  ],
+  "sprite": "Icon_AutoMap01_07",
+  "parent": "IconAM08",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -132.0,
+   219.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -52.0,
+   320.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -41.0,
+   448.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   244.0,
+   226.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   188.0,
+   328.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   174.0,
+   448.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -141.0,
+   321.0
+  ],
+  "sprite": "Icon_AutoMap01_05",
+  "parent": "IconAM06",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -46.0,
+   191.0
+  ],
+  "sprite": "Icon_AutoMap01_04",
+  "parent": "IconAM05",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   0.0,
+   191.0
+  ],
+  "sprite": "Icon_AutoMap01_04",
+  "parent": "IconAM05",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   46.0,
+   191.0
+  ],
+  "sprite": "Icon_AutoMap01_04",
+  "parent": "IconAM05",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   25.0,
+   -194.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   -175.0,
+   316.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   -136.0,
+   18.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -141.0,
+   321.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   1.0,
+   -252.0
+  ],
+  "sprite": "Icon_AutoMap01_01",
+  "parent": "IconAM01",
+  "color": [
+   255,
+   255,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -177.0,
+   -146.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   160.0,
+   -146.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   136.0,
+   -16.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -136.0,
+   18.0
+  ],
+  "sprite": "Icon_AutoMap01_07",
+  "parent": "IconAM08",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -132.0,
+   219.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -52.0,
+   320.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -41.0,
+   448.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   244.0,
+   226.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   188.0,
+   328.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   174.0,
+   448.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -141.0,
+   321.0
+  ],
+  "sprite": "Icon_AutoMap01_05",
+  "parent": "IconAM06",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -46.0,
+   191.0
+  ],
+  "sprite": "Icon_AutoMap01_04",
+  "parent": "IconAM05",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   0.0,
+   191.0
+  ],
+  "sprite": "Icon_AutoMap01_04",
+  "parent": "IconAM05",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   46.0,
+   191.0
+  ],
+  "sprite": "Icon_AutoMap01_04",
+  "parent": "IconAM05",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   25.0,
+   -194.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   -175.0,
+   316.0
+  ],
+  "sprite": "Icon_AutoMap01_02",
+  "parent": "IconAM02",
+  "color": [
+   80,
+   255,
+   80,
+   255
+  ]
+ },
+ {
+  "world": [
+   -136.0,
+   18.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -141.0,
+   321.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ }
+]

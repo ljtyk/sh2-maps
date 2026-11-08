@@ -1,0 +1,114 @@
+{
+ "du001_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du002_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du003_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du003_0020_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du004_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du004_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du005_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du005_0030_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du005_0040_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du007_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du007_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du007_0020_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du007_0030_area_scenes": [
+  "mp_warp_rensei_1"
+ ],
+ "du007_0040_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du007_0050_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du100_0000_area_scenes": [
+  "mp_warp_entrance"
+ ],
+ "du101_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du101_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du101_0020_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1",
+  "mp_warp_soul_2"
+ ],
+ "du101_0030_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1"
+ ],
+ "du101_0040_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1",
+  "mp_warp_soul_2"
+ ],
+ "du101_0050_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1",
+  "mp_warp_soul_2"
+ ],
+ "du102_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du102_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du102_0020_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1"
+ ],
+ "du102_0030_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1",
+  "mp_warp_soul_2"
+ ],
+ "du102_0040_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_2"
+ ],
+ "du103_0000_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du103_0010_area_scenes": [
+  "mp_portal_range"
+ ],
+ "du103_0020_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1"
+ ],
+ "du103_0030_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1",
+  "mp_warp_soul_2"
+ ],
+ "du103_0040_area_scenes": [
+  "mp_portal_range",
+  "mp_warp_soul_1",
+  "mp_warp_soul_2"
+ ]
+}

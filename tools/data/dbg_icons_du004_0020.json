@@ -1,0 +1,366 @@
+[
+ {
+  "world": [
+   -157.0,
+   -109.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -223.0,
+   -251.0
+  ],
+  "sprite": "Icon_AutoMap01_01",
+  "parent": "IconAM01",
+  "color": [
+   255,
+   255,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -182.0,
+   -154.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -182.0,
+   111.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -59.0,
+   -109.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -59.0,
+   -17.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   115.0,
+   24.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   141.0,
+   -17.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   143.0,
+   -109.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   129.0,
+   -154.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -182.0,
+   24.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   26.0,
+   -154.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   4.0,
+   24.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -157.0,
+   -109.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -223.0,
+   -251.0
+  ],
+  "sprite": "Icon_AutoMap01_01",
+  "parent": "IconAM01",
+  "color": [
+   255,
+   255,
+   255,
+   255
+  ]
+ },
+ {
+  "world": [
+   -182.0,
+   -154.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -182.0,
+   111.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -59.0,
+   -109.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -59.0,
+   -17.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   115.0,
+   24.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   141.0,
+   -17.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   143.0,
+   -109.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   129.0,
+   -154.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -182.0,
+   24.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   26.0,
+   -154.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   4.0,
+   24.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ }
+]

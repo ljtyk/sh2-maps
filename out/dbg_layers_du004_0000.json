@@ -1,0 +1,36 @@
+{
+ "n_layers": 4,
+ "y_of_layer": [
+  0.0,
+  5.0,
+  9.0,
+  13.0
+ ],
+ "labels": [
+  "1F",
+  "2F",
+  "3F",
+  "4F"
+ ],
+ "spacing": 4.0,
+ "obs_levels": [
+  0,
+  5,
+  9,
+  13
+ ],
+ "matched": true,
+ "score": [
+  0.9772727272727273,
+  1.0,
+  1.0,
+  1.0
+ ],
+ "support": [
+  44,
+  12,
+  16,
+  40
+ ],
+ "method": "label-corridor"
+}

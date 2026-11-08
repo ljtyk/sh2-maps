@@ -1,0 +1,58 @@
+[
+ {
+  "world": [
+   -494.0,
+   -184.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -584.0,
+   -356.0
+  ],
+  "sprite": "Icon_AutoMap01_03",
+  "parent": "IconAM03",
+  "color": [
+   255,
+   200,
+   40,
+   255
+  ]
+ },
+ {
+  "world": [
+   -494.0,
+   -184.0
+  ],
+  "sprite": "Icon_AutoMap01_06",
+  "parent": "IconAM07",
+  "color": [
+   200,
+   200,
+   200,
+   255
+  ]
+ },
+ {
+  "world": [
+   -584.0,
+   -356.0
+  ],
+  "sprite": "Icon_AutoMap01_03",
+  "parent": "IconAM03",
+  "color": [
+   255,
+   200,
+   40,
+   255
+  ]
+ }
+]

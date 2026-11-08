@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+tools/data/automap_*/
+tools/data/*.npy
+out/msg_common_*.json
+out/commontable.json
+out/web/
+out/_*.png

@@ -1,0 +1,1172 @@
+[
+ {
+  "gimmic_id": "du001_0000_GIMMIC_000",
+  "group": 1,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_000",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du001_0000_GIMMIC_001",
+  "group": 1,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_001",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du001_0010_GIMMICK_001",
+  "group": 2,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_002",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du001_0010_GIMMICK_002",
+  "group": 2,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_003",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0000_GIMMICK_017",
+  "group": 3,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_004",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0000_GIMMICK_018",
+  "group": 3,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_005",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0000_GIMMICK_019",
+  "group": 3,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_006",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0010_GIMMICK_026",
+  "group": 3,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_007",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0010_GIMMICK_027",
+  "group": 3,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_008",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0010_GIMMICK_029",
+  "group": 3,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_010",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0020_GIMMICK_012",
+  "group": 3,
+  "subarea": 0,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_011",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du002_0020_GIMMICK_013",
+  "group": 3,
+  "subarea": 0,
+  "menu": 8,
+  "name_key": "MAP_PORTAL_NAME_012",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du003_0000_GIMMICK_023",
+  "group": 4,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_013",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du003_0000_GIMMICK_024",
+  "group": 4,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_014",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du003_0010_GIMMICK_028",
+  "group": 4,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_015",
+  "area_key": "",
+  "enable": "",
+  "disable": "FLG_MAP_DU003_PORTAL_OFF010"
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_028",
+  "group": 4,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_015",
+  "area_key": "",
+  "enable": "FLG_MAP_DU003_PORTAL_ON020",
+  "disable": "FLG_MAP_DU003_PORTAL_OFF020"
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_029",
+  "group": 4,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_016",
+  "area_key": "",
+  "enable": "",
+  "disable": "FLG_MAP_DU003_PORTAL_OFF020"
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_030",
+  "group": 4,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_017",
+  "area_key": "",
+  "enable": "",
+  "disable": "FLG_MAP_DU003_PORTAL_OFF020"
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_031",
+  "group": 4,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_018",
+  "area_key": "",
+  "enable": "",
+  "disable": "FLG_MAP_DU003_PORTAL_OFF020"
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_028",
+  "group": 4,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_015",
+  "area_key": "",
+  "enable": "FLG_MAP_DU003_PORTAL_ON030",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_029",
+  "group": 4,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_016",
+  "area_key": "",
+  "enable": "FLG_MAP_DU003_PORTAL_ON030",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_030",
+  "group": 4,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_017",
+  "area_key": "",
+  "enable": "FLG_MAP_DU003_PORTAL_ON030",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_031",
+  "group": 4,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_018",
+  "area_key": "",
+  "enable": "FLG_MAP_DU003_PORTAL_ON030",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_057",
+  "group": 5,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_019",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_058",
+  "group": 5,
+  "subarea": 1,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_020",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_059",
+  "group": 5,
+  "subarea": 2,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_021",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_060",
+  "group": 5,
+  "subarea": 3,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_022",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_090",
+  "group": 5,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_122",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0010_GIMMICK_046",
+  "group": 5,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_023",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0010_GIMMICK_047",
+  "group": 5,
+  "subarea": 4,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_024",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du004_0010_GIMMICK_048",
+  "group": 5,
+  "subarea": 6,
+  "menu": 8,
+  "name_key": "MAP_PORTAL_NAME_025",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0000_GIMMICK_018",
+  "group": 6,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_026",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0000_GIMMICK_021",
+  "group": 6,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_027",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0000_GIMMICK_019",
+  "group": 6,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_028",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0020_GIMMICK_009",
+  "group": 6,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_032",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0030_GIMMICK_009",
+  "group": 6,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_029",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0040_GIMMICK_001",
+  "group": 6,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_030",
+  "area_key": "MAP_AREA_NAME_DU005_0040_01",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du005_0040_GIMMICK_002",
+  "group": 6,
+  "subarea": 0,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_031",
+  "area_key": "MAP_AREA_NAME_DU005_0040_01",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0000_GIMMICK_001",
+  "group": 7,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_033",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0000_GIMMICK_002",
+  "group": 7,
+  "subarea": 2,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_034",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0000_GIMMICK_016",
+  "group": 7,
+  "subarea": 6,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_035",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0010_GIMMICK_000",
+  "group": 7,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_036",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0020_GIMMICK_000",
+  "group": 7,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_037",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0020_GIMMICK_001",
+  "group": 7,
+  "subarea": 1,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_038",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0020_GIMMICK_002",
+  "group": 7,
+  "subarea": 3,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_039",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0050_GIMMICK_000",
+  "group": 7,
+  "subarea": 0,
+  "menu": 9,
+  "name_key": "MAP_PORTAL_NAME_040",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du007_0040_GIMMICK_027",
+  "group": 7,
+  "subarea": 0,
+  "menu": 8,
+  "name_key": "MAP_PORTAL_NAME_123",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_004",
+  "group": 100,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_100",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_005",
+  "group": 100,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_101",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_006",
+  "group": 100,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_102",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_009",
+  "group": 100,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_121",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_004",
+  "group": 100,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_103",
+  "area_key": "",
+  "enable": "FLG_MAP_DU101_PORTAL2",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_005",
+  "group": 100,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_104",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_006",
+  "group": 100,
+  "subarea": 0,
+  "menu": 8,
+  "name_key": "MAP_PORTAL_NAME_105",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_007",
+  "group": 100,
+  "subarea": 0,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_106",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_005",
+  "group": 100,
+  "subarea": 0,
+  "menu": 9,
+  "name_key": "MAP_PORTAL_NAME_107",
+  "area_key": "",
+  "enable": "FLG_MAP_DU101_PORTAL3",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_006",
+  "group": 100,
+  "subarea": 0,
+  "menu": 10,
+  "name_key": "MAP_PORTAL_NAME_108",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_008",
+  "group": 100,
+  "subarea": 0,
+  "menu": 12,
+  "name_key": "MAP_PORTAL_NAME_109",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_007",
+  "group": 100,
+  "subarea": 0,
+  "menu": 11,
+  "name_key": "MAP_PORTAL_NAME_110",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_005",
+  "group": 100,
+  "subarea": 0,
+  "menu": 13,
+  "name_key": "MAP_PORTAL_NAME_111",
+  "area_key": "",
+  "enable": "FLG_MAP_DU101_PORTAL4",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_006",
+  "group": 100,
+  "subarea": 0,
+  "menu": 14,
+  "name_key": "MAP_PORTAL_NAME_112",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_007",
+  "group": 100,
+  "subarea": 0,
+  "menu": 17,
+  "name_key": "MAP_PORTAL_NAME_113",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_008",
+  "group": 100,
+  "subarea": 0,
+  "menu": 15,
+  "name_key": "MAP_PORTAL_NAME_114",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_009",
+  "group": 100,
+  "subarea": 0,
+  "menu": 16,
+  "name_key": "MAP_PORTAL_NAME_124",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_001",
+  "group": 100,
+  "subarea": 0,
+  "menu": 18,
+  "name_key": "MAP_PORTAL_NAME_115",
+  "area_key": "",
+  "enable": "FLG_MAP_DU101_PORTAL6",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_002",
+  "group": 100,
+  "subarea": 0,
+  "menu": 19,
+  "name_key": "MAP_PORTAL_NAME_116",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_004",
+  "group": 100,
+  "subarea": 0,
+  "menu": 20,
+  "name_key": "MAP_PORTAL_NAME_118",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_005",
+  "group": 100,
+  "subarea": 0,
+  "menu": 21,
+  "name_key": "MAP_PORTAL_NAME_125",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_023",
+  "group": 100,
+  "subarea": 0,
+  "menu": 22,
+  "name_key": "MAP_PORTAL_NAME_126",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_003",
+  "group": 100,
+  "subarea": 0,
+  "menu": 23,
+  "name_key": "MAP_PORTAL_NAME_117",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0020_GIMMICK_001",
+  "group": 100,
+  "subarea": 0,
+  "menu": 24,
+  "name_key": "MAP_PORTAL_NAME_119",
+  "area_key": "",
+  "enable": "FLG_MAP_DU101_PORTAL5",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du101_0020_GIMMICK_002",
+  "group": 100,
+  "subarea": 0,
+  "menu": 25,
+  "name_key": "MAP_PORTAL_NAME_120",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0000_GIMMICK_003",
+  "group": 101,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_100",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0000_GIMMICK_004",
+  "group": 101,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_101",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0000_GIMMICK_005",
+  "group": 101,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_102",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_004",
+  "group": 101,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_103",
+  "area_key": "",
+  "enable": "FLG_MAP_DU102_PORTAL2",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_005",
+  "group": 101,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_104",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_006",
+  "group": 101,
+  "subarea": 0,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_105",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_008",
+  "group": 101,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_106",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_039",
+  "group": 101,
+  "subarea": 0,
+  "menu": 8,
+  "name_key": "MAP_PORTAL_NAME_107",
+  "area_key": "",
+  "enable": "FLG_MAP_DU102_PORTAL3",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_040",
+  "group": 101,
+  "subarea": 0,
+  "menu": 9,
+  "name_key": "MAP_PORTAL_NAME_108",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_041",
+  "group": 101,
+  "subarea": 0,
+  "menu": 11,
+  "name_key": "MAP_PORTAL_NAME_109",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_042",
+  "group": 101,
+  "subarea": 0,
+  "menu": 10,
+  "name_key": "MAP_PORTAL_NAME_110",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_005",
+  "group": 101,
+  "subarea": 0,
+  "menu": 12,
+  "name_key": "MAP_PORTAL_NAME_111",
+  "area_key": "",
+  "enable": "FLG_MAP_DU102_PORTAL4",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_006",
+  "group": 101,
+  "subarea": 0,
+  "menu": 13,
+  "name_key": "MAP_PORTAL_NAME_112",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_075",
+  "group": 101,
+  "subarea": 0,
+  "menu": 14,
+  "name_key": "MAP_PORTAL_NAME_127",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_009",
+  "group": 101,
+  "subarea": 0,
+  "menu": 17,
+  "name_key": "MAP_PORTAL_NAME_113",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_007",
+  "group": 101,
+  "subarea": 0,
+  "menu": 15,
+  "name_key": "MAP_PORTAL_NAME_114",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_008",
+  "group": 101,
+  "subarea": 0,
+  "menu": 16,
+  "name_key": "MAP_PORTAL_NAME_124",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_004",
+  "group": 101,
+  "subarea": 0,
+  "menu": 18,
+  "name_key": "MAP_PORTAL_NAME_115",
+  "area_key": "",
+  "enable": "FLG_MAP_DU102_PORTAL5",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_005",
+  "group": 101,
+  "subarea": 0,
+  "menu": 19,
+  "name_key": "MAP_PORTAL_NAME_116",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_007",
+  "group": 101,
+  "subarea": 0,
+  "menu": 20,
+  "name_key": "MAP_PORTAL_NAME_118",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_008",
+  "group": 101,
+  "subarea": 0,
+  "menu": 21,
+  "name_key": "MAP_PORTAL_NAME_125",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_039",
+  "group": 101,
+  "subarea": 0,
+  "menu": 22,
+  "name_key": "MAP_PORTAL_NAME_126",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_006",
+  "group": 101,
+  "subarea": 0,
+  "menu": 23,
+  "name_key": "MAP_PORTAL_NAME_117",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0000_GIMMICK_003",
+  "group": 102,
+  "subarea": 0,
+  "menu": 1,
+  "name_key": "MAP_PORTAL_NAME_100",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0000_GIMMICK_004",
+  "group": 102,
+  "subarea": 0,
+  "menu": 2,
+  "name_key": "MAP_PORTAL_NAME_101",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0000_GIMMICK_005",
+  "group": 102,
+  "subarea": 0,
+  "menu": 3,
+  "name_key": "MAP_PORTAL_NAME_102",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_004",
+  "group": 102,
+  "subarea": 0,
+  "menu": 4,
+  "name_key": "MAP_PORTAL_NAME_103",
+  "area_key": "",
+  "enable": "FLG_MAP_DU103_PORTAL2",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_005",
+  "group": 102,
+  "subarea": 0,
+  "menu": 5,
+  "name_key": "MAP_PORTAL_NAME_104",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_006",
+  "group": 102,
+  "subarea": 0,
+  "menu": 7,
+  "name_key": "MAP_PORTAL_NAME_105",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_008",
+  "group": 102,
+  "subarea": 0,
+  "menu": 6,
+  "name_key": "MAP_PORTAL_NAME_106",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_004",
+  "group": 102,
+  "subarea": 0,
+  "menu": 8,
+  "name_key": "MAP_PORTAL_NAME_107",
+  "area_key": "",
+  "enable": "FLG_MAP_DU103_PORTAL3",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_005",
+  "group": 102,
+  "subarea": 0,
+  "menu": 9,
+  "name_key": "MAP_PORTAL_NAME_108",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_006",
+  "group": 102,
+  "subarea": 0,
+  "menu": 11,
+  "name_key": "MAP_PORTAL_NAME_109",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_007",
+  "group": 102,
+  "subarea": 0,
+  "menu": 10,
+  "name_key": "MAP_PORTAL_NAME_110",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_005",
+  "group": 102,
+  "subarea": 0,
+  "menu": 12,
+  "name_key": "MAP_PORTAL_NAME_111",
+  "area_key": "",
+  "enable": "FLG_MAP_DU103_PORTAL4",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_006",
+  "group": 102,
+  "subarea": 0,
+  "menu": 13,
+  "name_key": "MAP_PORTAL_NAME_112",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_007",
+  "group": 102,
+  "subarea": 0,
+  "menu": 16,
+  "name_key": "MAP_PORTAL_NAME_113",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_008",
+  "group": 102,
+  "subarea": 0,
+  "menu": 14,
+  "name_key": "MAP_PORTAL_NAME_114",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_009",
+  "group": 102,
+  "subarea": 0,
+  "menu": 15,
+  "name_key": "MAP_PORTAL_NAME_124",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_001",
+  "group": 102,
+  "subarea": 0,
+  "menu": 17,
+  "name_key": "MAP_PORTAL_NAME_115",
+  "area_key": "",
+  "enable": "FLG_MAP_DU103_PORTAL5",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_002",
+  "group": 102,
+  "subarea": 0,
+  "menu": 18,
+  "name_key": "MAP_PORTAL_NAME_116",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_003",
+  "group": 102,
+  "subarea": 0,
+  "menu": 19,
+  "name_key": "MAP_PORTAL_NAME_118",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_004",
+  "group": 102,
+  "subarea": 0,
+  "menu": 20,
+  "name_key": "MAP_PORTAL_NAME_125",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_005",
+  "group": 102,
+  "subarea": 0,
+  "menu": 21,
+  "name_key": "MAP_PORTAL_NAME_126",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_006",
+  "group": 102,
+  "subarea": 0,
+  "menu": 22,
+  "name_key": "MAP_PORTAL_NAME_117",
+  "area_key": "",
+  "enable": "",
+  "disable": ""
+ }
+]

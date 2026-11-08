@@ -1,0 +1,710 @@
+{
+ "places": {
+  "0": "Marunouchi",
+  "1": "Mansei Realm",
+  "3": "Shinsando",
+  "5": "Shibuya",
+  "6": "Asakusa",
+  "7": "Roppo Realm",
+  "8": "Goshinboku Park",
+  "9": "Karakucho",
+  "10": "Safehouse",
+  "11": "Axis",
+  "12": "Komadori Orphanage",
+  "1001": "East Shipping District (du001)",
+  "1002": "Central Line (du002)",
+  "1003": "Subway Line 14 (du003)",
+  "1004": "Ozaki Hope Towers (du004)",
+  "1005": "24th Ward Municipal Tower (du005)",
+  "1007": "Hachigaya Training Field (du007)",
+  "1100": "Soul Matrix",
+  "1101": "Soul Matrix",
+  "1102": "Soul Matrix",
+  "1103": "Soul Matrix",
+  "1104": "Soul Matrix",
+  "1105": "Soul Matrix",
+  "1999": ""
+ },
+ "areas": [
+  {
+   "place": 0,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI000",
+   "name": "Marunouchi",
+   "name_jp": "丸ノ内"
+  },
+  {
+   "place": 1,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI001",
+   "name": "Mansei Realm",
+   "name_jp": "萬世レルム"
+  },
+  {
+   "place": 3,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI003",
+   "name": "Shinsando",
+   "name_jp": "新参道"
+  },
+  {
+   "place": 5,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI005",
+   "name": "Shibuya",
+   "name_jp": "渋谷"
+  },
+  {
+   "place": 6,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI006",
+   "name": "Asakusa",
+   "name_jp": "浅草"
+  },
+  {
+   "place": 7,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI007",
+   "name": "Roppo Realm",
+   "name_jp": "六宝レルム"
+  },
+  {
+   "place": 8,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI008",
+   "name": "Goshinboku Park",
+   "name_jp": "御神木公園"
+  },
+  {
+   "place": 9,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI009",
+   "name": "Karakucho",
+   "name_jp": "華楽町"
+  },
+  {
+   "place": 10,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI010",
+   "name": "Safehouse",
+   "name_jp": "セーフハウス"
+  },
+  {
+   "place": 10,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI010",
+   "name": "Safehouse",
+   "name_jp": "セーフハウス"
+  },
+  {
+   "place": 11,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI011",
+   "name": "Axis",
+   "name_jp": "アクシス"
+  },
+  {
+   "place": 11,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI011",
+   "name": "Axis",
+   "name_jp": "アクシス"
+  },
+  {
+   "place": 12,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_FI012",
+   "name": "Komadori Orphanage",
+   "name_jp": "養護施設こまどり"
+  },
+  {
+   "place": 1001,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU001",
+   "name": "East Shipping District",
+   "name_jp": "湾岸倉庫東区画"
+  },
+  {
+   "place": 1001,
+   "area": 1,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU001",
+   "name": "East Shipping District",
+   "name_jp": "湾岸倉庫東区画"
+  },
+  {
+   "place": 1001,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU006",
+   "name": "West Shipping District",
+   "name_jp": "湾岸倉庫西区画"
+  },
+  {
+   "place": 1002,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU002",
+   "name": "Central Line",
+   "name_jp": "中央地区放棄路線"
+  },
+  {
+   "place": 1002,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU002",
+   "name": "Central Line",
+   "name_jp": "中央地区放棄路線"
+  },
+  {
+   "place": 1002,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU002",
+   "name": "Central Line",
+   "name_jp": "中央地区放棄路線"
+  },
+  {
+   "place": 1003,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU003",
+   "name": "Subway Line 14",
+   "name_jp": "第14号放棄路線"
+  },
+  {
+   "place": 1003,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU003",
+   "name": "Subway Line 14",
+   "name_jp": "第14号放棄路線"
+  },
+  {
+   "place": 1003,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU003",
+   "name": "Subway Line 14",
+   "name_jp": "第14号放棄路線"
+  },
+  {
+   "place": 1003,
+   "area": 30,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU003",
+   "name": "Subway Line 14",
+   "name_jp": "第14号放棄路線"
+  },
+  {
+   "place": 1003,
+   "area": 40,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU003",
+   "name": "Subway Line 14",
+   "name_jp": "第14号放棄路線"
+  },
+  {
+   "place": 1003,
+   "area": 50,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU003",
+   "name": "Subway Line 14",
+   "name_jp": "第14号放棄路線"
+  },
+  {
+   "place": 1004,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 0,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 0,
+   "sub": 2,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 0,
+   "sub": 3,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 0,
+   "sub": 4,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 2,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 3,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 4,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 5,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 10,
+   "sub": 6,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1004,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU004",
+   "name": "Ozaki Hope Towers",
+   "name_jp": "緒崎ホープタワー"
+  },
+  {
+   "place": 1005,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU005",
+   "name": "24th Ward Municipal Tower",
+   "name_jp": "24区都庁ビル"
+  },
+  {
+   "place": 1005,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU005",
+   "name": "24th Ward Municipal Tower",
+   "name_jp": "24区都庁ビル"
+  },
+  {
+   "place": 1005,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU005",
+   "name": "24th Ward Municipal Tower",
+   "name_jp": "24区都庁ビル"
+  },
+  {
+   "place": 1005,
+   "area": 30,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU005",
+   "name": "24th Ward Municipal Tower",
+   "name_jp": "24区都庁ビル"
+  },
+  {
+   "place": 1005,
+   "area": 40,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU005",
+   "name": "24th Ward Municipal Tower",
+   "name_jp": "24区都庁ビル"
+  },
+  {
+   "place": 1005,
+   "area": 50,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU005",
+   "name": "24th Ward Municipal Tower",
+   "name_jp": "24区都庁ビル"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 2,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 3,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 4,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 5,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 0,
+   "sub": 6,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 10,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 10,
+   "sub": 2,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 10,
+   "sub": 3,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 20,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 20,
+   "sub": 2,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 20,
+   "sub": 3,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 30,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 30,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 40,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 40,
+   "sub": 1,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1007,
+   "area": 50,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU007",
+   "name": "Hachigaya Training Field",
+   "name_jp": "八ヶ谷錬成場"
+  },
+  {
+   "place": 1100,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU100",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1101,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU101",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1101,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU101",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1101,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU101",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1101,
+   "area": 30,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU101",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1101,
+   "area": 40,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU101",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1101,
+   "area": 50,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU101",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1102,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU102",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1102,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU102",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1102,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU102",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1102,
+   "area": 30,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU102",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1102,
+   "area": 40,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU102",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1103,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU103",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1103,
+   "area": 10,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU103",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1103,
+   "area": 20,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU103",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1103,
+   "area": 30,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU103",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1103,
+   "area": 40,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU103",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1104,
+   "area": 0,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU104",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1104,
+   "area": 2000,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU104",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1105,
+   "area": 2000,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU105",
+   "name": "Soul Matrix",
+   "name_jp": "ソウル・マトリクス"
+  },
+  {
+   "place": 1999,
+   "area": 3,
+   "sub": 0,
+   "label": "MAP_PLACE_NAME_DU999",
+   "name": "",
+   "name_jp": ""
+  }
+ ]
+}

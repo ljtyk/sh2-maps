@@ -1,0 +1,1880 @@
+[
+ {
+  "id": "ER51",
+  "number": 51,
+  "title": "Glory Days",
+  "title_jp": "過ぎ去りし栄光",
+  "requester": "Ed",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 30,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 30000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 29,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "I met someone in <tags=\"13\"g=\"1\">Karakucho<tage=\"13\"g=\"1\"> who seemed troubled, so I referred him to Madam Ginko. Now he's got a request up. According to her, he used to be a famous actor... I've picked up some basic idea of movies, but I haven't seen any myself. Apparently this actor's the grandson of the star of the classic <tags=\"13\"g=\"1\">Eliza<tage=\"13\"g=\"1\">. But wait a sec... Maybe I should get to <tags=\"13\"g=\"1\">Karakucho<tage=\"13\"g=\"1\"> and talk to the client myself."
+ },
+ {
+  "id": "ER26",
+  "number": 26,
+  "title": "A New Hee-Home: Part 1",
+  "title_jp": "家を探すホ　一の巻",
+  "requester": "Frost Ichiro",
+  "requesterMapId": 1001,
+  "requester_dun": "du001",
+  "recommendLevel": 4,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 106,
+    "value": 1,
+    "name": "消費アイテム106"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3118,
+    "count": 5,
+    "enemyPlaceType": 1,
+    "mapPlaceId": 1001,
+    "areaId": 0,
+    "dun": "du001",
+    "enemyName": "Tsuchigumo",
+    "spawn_locs": [
+     {
+      "dun": "du001",
+      "floor": 0
+     },
+     {
+      "dun": "du101",
+      "floor": 0
+     }
+    ]
+   }
+  ],
+  "orderText": "I met <tags=\"13\"g=\"1\">Frost Ichiro<tage=\"13\"g=\"1\"> the Jack Frost near the entrance of the <tags=\"13\"g=\"1\">East Shipping District<tage=\"13\"g=\"1\">. He's the eldest of the Jack Frost brothers, and he wants a home where his family can live peacefully. But the area's full of <tags=\"8\"g=\"1\" id=\"NKNR_118\">s, and his brother Frost Jiro's allergic to spiders... so he wants me to beat <tags=\"17\"g=\"1\">5<tage=\"17\"g=\"1\"> <tags=\"8\"g=\"1\" id=\"NKNR_118\">s for his brother. I guess even demons can have allergies?"
+ },
+ {
+  "id": "ER48",
+  "number": 48,
+  "title": "That Which Lurks in Shadow",
+  "title_jp": "その闇に潜むもの",
+  "requester": "Madam Ginko",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 70,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 168,
+    "value": 1,
+    "name": "消費アイテム168"
+   }
+  ],
+  "targets": [],
+  "orderText": "This time, our client is <tags=\"13\"g=\"1\">Madam Ginko<tage=\"13\"g=\"1\"> herself. She says there's a serious <tags=\"13\"g=\"1\">threat<tage=\"13\"g=\"1\"> approaching... and preparing for this threat is the entire reason she runs Cretaceous in the first place. For now, I've gotta head to the <tags=\"13\"g=\"1\">Lower Area<tage=\"13\"g=\"1\"> of <tags=\"13\"g=\"1\">Subway Line 14<tage=\"13\"g=\"1\"> and check for anything suspicious."
+ },
+ {
+  "id": "ER37",
+  "number": 37,
+  "title": "Mad Dog",
+  "title_jp": "アンガー・ドッグ",
+  "requester": "Saki",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 35,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 50000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "Another request from <tags=\"13\"g=\"1\">Saki<tage=\"13\"g=\"1\">. If this is anything like her other jobs, there's gonna be a fight involved. I'd better stock up and head to <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\">. "
+ },
+ {
+  "id": "ER52",
+  "number": 62,
+  "title": "Mistiqal Maiden",
+  "title_jp": "彼女はマショウの女の子",
+  "requester": "???",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 15,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I met a <tags=\"13\"g=\"1\">strange girl<tage=\"13\"g=\"1\"> in <tags=\"13\"g=\"1\">Roppo Realm<tage=\"13\"g=\"1\">. She wasn't doing too well... She said she was hungry, but she wanted <tags=\"13\"g=\"1\">Mistiques<tage=\"13\"g=\"1\">. As in, the Mistiques you get from loyal demons and attach to your COMP. Something's not adding up here, but... the girl seems harmless, so if I've got any spare Mistiques, I guess I could hand one over."
+ },
+ {
+  "id": "ER34",
+  "number": 34,
+  "title": "Many Birds, One Stone",
+  "title_jp": "珍鳥、空を舞う",
+  "requester": "Saki",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 16,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 25000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 2037,
+    "count": 20,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "Zhen",
+    "spawn_locs": [
+     {
+      "dun": "du001",
+      "floor": 0
+     }
+    ]
+   }
+  ],
+  "orderText": "Got another job from <tags=\"13\"g=\"1\">Saki<tage=\"13\"g=\"1\">, the bounty hunter Summoner. Let's head to <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER47",
+  "number": 47,
+  "title": "Academics Wanted (Yes, Again)",
+  "title_jp": "三度、知識自慢求ム",
+  "requester": "Kyuta",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 59,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 180000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "Another job from that Summoner <tags=\"13\"g=\"1\">Kyuta<tage=\"13\"g=\"1\">. If he needs help with another quiz, I take it he hasn't tracked down that inheritance yet."
+ },
+ {
+  "id": "ER93",
+  "number": 54,
+  "title": "Unforgettable",
+  "title_jp": "忘れられない人",
+  "requester": "Nana",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 39,
+  "questType": 1,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 121,
+    "value": 3,
+    "name": "消費アイテム121"
+   }
+  ],
+  "targets": [],
+  "orderText": "This time, the client was <tags=\"13\"g=\"1\">Nana<tage=\"13\"g=\"1\"> herself. Her dad's death hit her hard, but she wants to learn more about him. That way, she can learn more about herself... She's a tough kid. Apparently, Mangetsu and Gen Mayumi were working on the same research. We might find something back at <tags=\"13\"g=\"1\">Mangetsu's hideout<tage=\"13\"g=\"1\"> in the <tags=\"13\"g=\"1\">Central Line<tage=\"13\"g=\"1\">. Let's take Nana to the hideout."
+ },
+ {
+  "id": "ER29",
+  "number": 29,
+  "title": "A New Hee-Home: Part 4",
+  "title_jp": "家を探すホ　四の巻",
+  "requester": "Frost Shiro",
+  "requesterMapId": 1004,
+  "requester_dun": "du004",
+  "recommendLevel": 36,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 140,
+    "value": 2,
+    "name": "消費アイテム140"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3106,
+    "count": 5,
+    "enemyPlaceType": 1,
+    "mapPlaceId": 1004,
+    "areaId": 0,
+    "dun": "du004",
+    "enemyName": "Orobas",
+    "spawn_locs": [
+     {
+      "dun": "du004",
+      "floor": 10
+     },
+     {
+      "dun": "du101",
+      "floor": 30
+     },
+     {
+      "dun": "du103",
+      "floor": 20
+     }
+    ]
+   }
+  ],
+  "orderText": "I met the... \"well-traveled\" Jack Frost <tags=\"13\"g=\"1\">Frost Shiro<tage=\"13\"g=\"1\"> at <tags=\"13\"g=\"1\">Ozaki Hope Towers<tage=\"13\"g=\"1\">. He claims he's a genius, and he peppers all his speech with foreign words, but I don't know if that's how polyglots actually talk. Anyhow, he wants me to beat <tags=\"17\"g=\"1\">5<tage=\"17\"g=\"1\"> <tags=\"8\"g=\"1\" id=\"NKNR_106\"> because his brother's allergic to... two-legged horses...? Look, I don't know, man. It's a big world. That could be a real allergy."
+ },
+ {
+  "id": "ER16",
+  "number": 16,
+  "title": "The Gunsmith",
+  "title_jp": "賢銃職人",
+  "requester": "Tatara",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 14,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 3000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3030,
+    "count": 3,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "Qing Long",
+    "spawn_locs": [
+     {
+      "dun": "du002",
+      "floor": 0
+     },
+     {
+      "dun": "du102",
+      "floor": 0
+     },
+     {
+      "dun": "du103",
+      "floor": 0
+     }
+    ]
+   }
+  ],
+  "orderText": "We've got a job from <tags=\"13\"g=\"1\">Tara<tage=\"13\"g=\"1\">, the owner of <tags=\"13\"g=\"1\">COMP Smith<tage=\"13\"g=\"1\"> over in <tags=\"13\"g=\"1\">Mansei Realm<tage=\"13\"g=\"1\">. She needs some help with her work, but I have no idea what she expects me to do about it. Am I gonna learn how to upgrade COMPs?"
+ },
+ {
+  "id": "ER07",
+  "number": 7,
+  "title": "Merch Search",
+  "title_jp": "捜して変身グッズ",
+  "requester": "Yume",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 6,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 22,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "This one's from <tags=\"13\"g=\"1\">Yume<tage=\"13\"g=\"1\">, the checkout girl at <tags=\"13\"g=\"1\">De La Mancha<tage=\"13\"g=\"1\"> in <tags=\"13\"g=\"1\">Karakucho<tage=\"13\"g=\"1\">. Let's go see what's up."
+ },
+ {
+  "id": "ER03",
+  "number": 3,
+  "title": "Dark Night Rises",
+  "title_jp": "グローリー・ナイトメア",
+  "requester": "Masayoshi",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 58,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 385,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "Another request from <tags=\"13\"g=\"1\">Masayoshi<tage=\"13\"g=\"1\">. This time, though, it's for \"something only I can help with\"... Wonder what's going on."
+ },
+ {
+  "id": "ER38",
+  "number": 38,
+  "title": "Lady on the Mind",
+  "title_jp": "意中の女",
+  "requester": "Teruya",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 5,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 3000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "The client's a guy working at a host club in <tags=\"13\"g=\"1\">Karakucho<tage=\"13\"g=\"1\">. He needs our help <tags=\"13\"g=\"1\">finding someone<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER33",
+  "number": 33,
+  "title": "Vengeance Claimed",
+  "title_jp": "復讐するは彼にあり",
+  "requester": "Saki",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 8,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 5000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 0,
+    "count": 0,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "The client's another Summoner this time. Sounds like we're going after a <tags=\"13\"g=\"1\">criminal Summoner<tage=\"13\"g=\"1\"> who's been abusing their powers... The client's waiting at <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER22",
+  "number": 22,
+  "title": "...Scientist",
+  "title_jp": "END OF...",
+  "requester": "Victor",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 45,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 140000,
+    "name": ""
+   },
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 2,
+    "id": 42,
+    "count": 0,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Another request from <tags=\"13\"g=\"1\">Victor<tage=\"13\"g=\"1\">. I'd better head to the <tags=\"13\"g=\"1\">Cirque du Goumaden<tage=\"13\"g=\"1\"> in Roppo Realm."
+ },
+ {
+  "id": "ER04",
+  "number": 4,
+  "title": "Does Aion Dream of Electric Sheep?",
+  "title_jp": "Aionは夢を見るか？",
+  "requester": "Flamma",
+  "requesterMapId": 11,
+  "requester_dun": null,
+  "recommendLevel": 5,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 383,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "<tags=\"13\"g=\"1\">Flamma<tage=\"13\"g=\"1\">'s called me to the Axis for a specific assignment. For context, Aion's constantly scanning the internet to collect data from devices all over the world. Except over the past month, the devices Aion's been accessing are getting destroyed. So Flamma wants me to investigate one of those cases. Not every day Flamma directly asks for my help, so I'll see what I can do for her. The plan is to pick up a broken <tags=\"13\"g=\"1\">COMP<tage=\"13\"g=\"1\"> that belonged to this Summoner guy <tags=\"13\"g=\"1\">Akira<tage=\"13\"g=\"1\">. He's apparently a regular at <tags=\"13\"g=\"1\">Heidrun<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER11",
+  "number": 11,
+  "title": "An Earring, A Memory, and Me",
+  "title_jp": "ぼくと記憶とイヤリング",
+  "requester": "Mannequin",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 15,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 24,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Another request from <tags=\"13\"g=\"1\">Mannequin<tage=\"13\"g=\"1\">. He's got us <tags=\"13\"g=\"1\">looking for another rare find<tage=\"13\"g=\"1\">, and it sounds like this one ended up with a Summoner too. Might as well finish what I started..."
+ },
+ {
+  "id": "ER32",
+  "number": 32,
+  "title": "The Wolf Who Cried Wolf Again",
+  "title_jp": "オホカミ少年リターンズ",
+  "requester": "Makami",
+  "requesterMapId": 1001,
+  "requester_dun": "du001",
+  "recommendLevel": 46,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 75000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I bumped into that <tags=\"13\"g=\"1\">Makami<tage=\"13\"g=\"1\"> from the <tags=\"13\"g=\"1\">West Shipping District<tage=\"13\"g=\"1\"> again. Sounds like all that lying got him in trouble with a really <tags=\"13\"g=\"1\">vicious demon<tage=\"13\"g=\"1\">, and now they're out for blood. It's his own fault, and he kind of had it coming... but I'd feel bad ignoring a cry for help, even if it is from him. I guess I'll help one last time, for the sake of this \"brother\" of his. The enemy demon's at the <tags=\"13\"g=\"1\">Central Line<tage=\"13\"g=\"1\">, in the room where I fought the other target before."
+ },
+ {
+  "id": "ER19",
+  "number": 19,
+  "title": "Mock the Invisible World",
+  "title_jp": "VICTOR",
+  "requester": "Victor",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 17,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 50000,
+    "name": ""
+   },
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 2,
+    "id": 143,
+    "count": 0,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "This request is from <tags=\"13\"g=\"1\">Victor<tage=\"13\"g=\"1\">, master of the <tags=\"13\"g=\"1\">Cirque du Goumaden<tage=\"13\"g=\"1\"> in Roppo Realm. He's loud, eccentric, and hard to talk to, but Madam Ginko seems to think pretty highly of him. I'll be helping with his experiments, but... what exactly will that entail?"
+ },
+ {
+  "id": "ER44",
+  "number": 44,
+  "title": "Vanity, Calamity, Humanity",
+  "title_jp": "才・災・差異",
+  "requester": "Makiko",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 50,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 200000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 36,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "This request is from someone on the <tags=\"13\"g=\"1\">24th Ward Municipal Tower<tage=\"13\"g=\"1\">'s staff. Sounds like we're seeing repercussions from Figue's choice already... I'm her partner, so I need to handle this."
+ },
+ {
+  "id": "ER28",
+  "number": 28,
+  "title": "A New Hee-Home: Part 3",
+  "title_jp": "家を探すホ　三の巻",
+  "requester": "Frost Saburo",
+  "requesterMapId": 1003,
+  "requester_dun": "du003",
+  "recommendLevel": 22,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 139,
+    "value": 2,
+    "name": "消費アイテム139"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3101,
+    "count": 5,
+    "enemyPlaceType": 1,
+    "mapPlaceId": 1003,
+    "areaId": 0,
+    "dun": "du003",
+    "enemyName": "Shiisaa",
+    "spawn_locs": [
+     {
+      "dun": "du003",
+      "floor": 0
+     },
+     {
+      "dun": "du101",
+      "floor": 10
+     },
+     {
+      "dun": "du102",
+      "floor": 10
+     },
+     {
+      "dun": "du103",
+      "floor": 10
+     }
+    ]
+   }
+  ],
+  "orderText": "I met another Jack Frost in the <tags=\"13\"g=\"1\">Upper Area<tage=\"13\"g=\"1\"> of Subway Line 14: <tags=\"13\"g=\"1\">Frost Saburo<tage=\"13\"g=\"1\">, a Frost with a strange way of talking. He told me he's been out making money somewhere far away... I guess that explains why he sounds like that. Anyway, the point is he wants me to take out <tags=\"13\"g=\"1\">5<tage=\"13\"g=\"1\"> <tags=\"8\"g=\"1\" id=\"NKNR_101\">s, 'cause his little brother's allergic to them. Let's hee-go."
+ },
+ {
+  "id": "ER08",
+  "number": 8,
+  "title": "Raiders of the Lost Gift",
+  "title_jp": "失われたプレゼント",
+  "requester": "Yume",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 26,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 32,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Got another request from <tags=\"13\"g=\"1\">Yume<tage=\"13\"g=\"1\">, the girl from <tags=\"13\"g=\"1\">De La Mancha<tage=\"13\"g=\"1\">. From what Madam Ginko says, Yume's got a pretty substantial spiritual presence even as a normal person, but that's what keeps drawing all these demonic messes her way. I'd better help her out."
+ },
+ {
+  "id": "ER41",
+  "number": 41,
+  "title": "Requiem for a G",
+  "title_jp": "レクイエムを捧ぐ",
+  "requester": "R.S.",
+  "requesterMapId": 1001,
+  "requester_dun": "du001",
+  "recommendLevel": 58,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 181,
+    "value": 1,
+    "name": "消費アイテム181"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 2081,
+    "count": 14,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "Valkyrie",
+    "spawn_locs": [
+     {
+      "dun": "du001",
+      "floor": 10
+     }
+    ]
+   }
+  ],
+  "orderText": "Madam Ginko says a letter for me arrived at Club Cretaceous. Thing is... it's addressed from <tags=\"13\"g=\"1\">R.S.<tage=\"13\"g=\"1\"> In other words, the Summoner Arrow and I beat back when we first met. Somehow I doubt he could've come back to life, but... I should probably go investigate at the <tags=\"13\"g=\"1\">West Shipping District<tage=\"13\"g=\"1\"> anyway."
+ },
+ {
+  "id": "ER35",
+  "number": 35,
+  "title": "Night of the Living Snowman",
+  "title_jp": "バッド・ナイト",
+  "requester": "Masayoshi",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 46,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 70000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "It's the detective <tags=\"13\"g=\"1\">Masayoshi<tage=\"13\"g=\"1\"> again. Let's drop by <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\"> and see what he wants this time."
+ },
+ {
+  "id": "ER36",
+  "number": 36,
+  "title": "Curiosity Shopper",
+  "title_jp": "イージー・コレクター",
+  "requester": "Wyatt",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 5,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 10000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 26,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "This job's gonna have us helping a veteran Summoner. It sounds like he needs help <tags=\"13\"g=\"1\">tracking something down<tage=\"13\"g=\"1\">... The client's over in <tags=\"13\"g=\"1\">Mansei Realm<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER02",
+  "number": 2,
+  "title": "Girl's Night Out",
+  "title_jp": "ロンリーナイト・ガール",
+  "requester": "Masayoshi",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 20,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 382,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "We got another request from the detective, Masayoshi. This time, though, Madam Ginko made it sound a little ominous... I should go to <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\"> and see what's up."
+ },
+ {
+  "id": "ER15",
+  "number": 15,
+  "title": "A Woman of Many Faces",
+  "title_jp": "渡る世間に彼女あり",
+  "requester": "Lina",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 50,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I got another request from <tags=\"13\"g=\"1\">Lina<tage=\"13\"g=\"1\">. Madam Ginko says her approach to her work comes from experience and conviction as a merchant, but I don't know if it counts as \"conviction\" if she'll do anything for money..."
+ },
+ {
+  "id": "ER96",
+  "number": 57,
+  "title": "Nana's Lonely Heart",
+  "title_jp": "ひとりぼっちのナナ",
+  "requester": "Madam Ginko",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 63,
+  "questType": 1,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 168,
+    "value": 1,
+    "name": "消費アイテム168"
+   },
+   {
+    "type": 1,
+    "id": 155,
+    "value": 1,
+    "name": "消費アイテム155"
+   }
+  ],
+  "targets": [],
+  "orderText": "This request comes direct from <tags=\"13\"g=\"1\">Madam Ginko<tage=\"13\"g=\"1\">. Our job's to eliminate a \"harmful\" Lost Number... but Nana's not necessarily a threat. We need to prove that she's not \"harmful\"—not just to Yatagarasu, but to herself. Nana should be waiting for us at <tags=\"13\"g=\"1\">Hachigaya Training Field<tage=\"13\"g=\"1\">, where we were before."
+ },
+ {
+  "id": "ER20",
+  "number": 20,
+  "title": "Accursed Creator",
+  "title_jp": "INTEREST",
+  "requester": "Victor",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 24,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 60000,
+    "name": ""
+   },
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 2,
+    "id": 62,
+    "count": 0,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Got another job from the <tags=\"13\"g=\"1\">Cirque du Goumaden<tage=\"13\"g=\"1\">'s weird old ringmaster. I guess Victor's taken a shine to me... not that I mind, since I always like learning more about his work."
+ },
+ {
+  "id": "ER12",
+  "number": 12,
+  "title": "A Brooch, A Fresh Start, and Me",
+  "title_jp": "ぼくとブローチと再始動",
+  "requester": "Mannequin",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 30,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "This'll be the third request from <tags=\"13\"g=\"1\">Mannequin<tage=\"13\"g=\"1\">, which means it's time to hunt down the last accessory. <tags=\"3\"g=\"1\" id=\"Key_028\">, I think. Let's head to <tags=\"13\"g=\"1\">Zafiro<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER17",
+  "number": 17,
+  "title": "Master and Apprentice",
+  "title_jp": "獅子相承",
+  "requester": "Tatara",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 34,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3147,
+    "count": 3,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "Quetzalcoatl",
+    "spawn_locs": [
+     {
+      "dun": "du004",
+      "floor": 0
+     },
+     {
+      "dun": "du101",
+      "floor": 30
+     },
+     {
+      "dun": "du102",
+      "floor": 20
+     }
+    ]
+   }
+  ],
+  "orderText": "Another job from <tags=\"13\"g=\"1\">Tara<tage=\"13\"g=\"1\">. I'd better go drop by <tags=\"13\"g=\"1\">COMP Smith<tage=\"13\"g=\"1\"> in Mansei Realm."
+ },
+ {
+  "id": "ER09",
+  "number": 9,
+  "title": "Priceless Treasure",
+  "title_jp": "たった1つの宝物",
+  "requester": "Yume",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 46,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "We've got another request from <tags=\"13\"g=\"1\">Yume<tage=\"13\"g=\"1\">. It sounds like something's going on with her brother... I'd better head to <tags=\"13\"g=\"1\">De La Mancha<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER23",
+  "number": 23,
+  "title": "A Christmas Memory",
+  "title_jp": "クリスマスの思ひで",
+  "requester": "Ako",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 20,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 384,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "According to Madam Ginko, the client here's looking for <tags=\"13\"g=\"1\">someone I know well<tage=\"13\"g=\"1\">. That definitely narrows it down... Wonder who it is. I'd better head to <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER97",
+  "number": 58,
+  "title": "A Homecoming",
+  "title_jp": "帰りたい場所",
+  "requester": "Arrow",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 50,
+  "questType": 0,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 1310,
+    "value": 5,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "This one's a request from Arrow. He deciphered the <tags=\"3\"g=\"1\" id=\"Key_040\">, and he wants it delivered to Nana. As to <tags=\"13\"g=\"1\">where she'd be<tage=\"13\"g=\"1\">... One place comes to mind. Maybe I can get us a table."
+ },
+ {
+  "id": "ER01",
+  "number": 1,
+  "title": "Phantom of the Night",
+  "title_jp": "ミッドナイト・ファントム",
+  "requester": "Masayoshi",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 9,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 381,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "The client's a detective. We'll find him in <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\">, so let's go talk to him."
+ },
+ {
+  "id": "ER06",
+  "number": 6,
+  "title": "Hopes, Dreams, and Aion",
+  "title_jp": "Aionと夢を見る",
+  "requester": "Flamma",
+  "requesterMapId": 11,
+  "requester_dun": null,
+  "recommendLevel": 46,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 387,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "Flamma's got an update. Apparently she's identified the demon trying to obstruct Aion's data collection: <tags=\"13\"g=\"1\">Pazuzu<tage=\"13\"g=\"1\">, an ancient wind demon with a real nasty edge to him. Sounds like he's in <tags=\"13\"g=\"1\">Tower C of the Ozaki Hope Towers<tage=\"13\"g=\"1\">... Gotta say, I've got a bad feeling about this. We'd better take him down, and fast."
+ },
+ {
+  "id": "ER43",
+  "number": 43,
+  "title": "Fatal Countdown",
+  "title_jp": "死へのカウントダウン",
+  "requester": "Akito",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 40,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 100000,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 33,
+    "count": 3,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Madam Ginko says the client's father is about to commit suicide. No time to waste. The client's in <tags=\"13\"g=\"1\">Karakucho<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER40",
+  "number": 40,
+  "title": "Farewell, My Love",
+  "title_jp": "愛しき人にさよならを",
+  "requester": "Mermaid",
+  "requesterMapId": 1004,
+  "requester_dun": "du004",
+  "recommendLevel": 38,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 80000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I met a <tags=\"13\"g=\"1\">Mermaid<tage=\"13\"g=\"1\"> demon in the <tags=\"13\"g=\"1\">Ozaki Hope Towers<tage=\"13\"g=\"1\">. Her old master, <tags=\"13\"g=\"1\">Hans<tage=\"13\"g=\"1\">, quit being a Summoner, and now she's looking for him so she can chew him out. Let's see, Hans... Can't say the name rings a bell. Apparently he said he was going to work in a <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\"> store called <tags=\"13\"g=\"1\">Undine<tage=\"13\"g=\"1\">..."
+ },
+ {
+  "id": "ER50",
+  "number": 50,
+  "title": "That Which Lies Ahead",
+  "title_jp": "その先に待つもの",
+  "requester": "Madam Ginko",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 90,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 168,
+    "value": 1,
+    "name": "消費アイテム168"
+   }
+  ],
+  "targets": [],
+  "orderText": "The <tags=\"13\"g=\"1\">threat<tage=\"13\"g=\"1\"> has arrived. Demons are launching attacks all across the city, but if I can take down the one driving them all forward, I can end this for good. Their leader's at the <tags=\"13\"g=\"1\">Municipal Tower<tage=\"13\"g=\"1\">. Let's end this before our defenses break down."
+ },
+ {
+  "id": "ER10",
+  "number": 10,
+  "title": "A Necklace, A Movie, and Me",
+  "title_jp": "ぼくと映画とネックレス",
+  "requester": "Mannequin",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 5,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 23,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "This is a request from <tags=\"13\"g=\"1\">Mannequin<tage=\"13\"g=\"1\">, the guy working at <tags=\"13\"g=\"1\">Zafiro<tage=\"13\"g=\"1\"> in <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\">. Sounds like we need to help out before he gets in over his head... Let's go check it out."
+ },
+ {
+  "id": "ER39",
+  "number": 39,
+  "title": "The Little Sister",
+  "title_jp": "リトル・シスター",
+  "requester": "Mei",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 20,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 12000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "The client this time is a lady who works at a cabaret club in <tags=\"13\"g=\"1\">Karakucho<tage=\"13\"g=\"1\">. She's looking for her <tags=\"13\"g=\"1\">older brother<tage=\"13\"g=\"1\">, who's gone missing."
+ },
+ {
+  "id": "ER18",
+  "number": 18,
+  "title": "Light at the End of the Tunnel",
+  "title_jp": "雲外蒼天",
+  "requester": "Tatara",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 49,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3148,
+    "count": 3,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "Vritra",
+    "spawn_locs": [
+     {
+      "dun": "du001",
+      "floor": 10
+     },
+     {
+      "dun": "du007",
+      "floor": 0
+     },
+     {
+      "dun": "du101",
+      "floor": 50
+     },
+     {
+      "dun": "du102",
+      "floor": 40
+     },
+     {
+      "dun": "du103",
+      "floor": 40
+     }
+    ]
+   }
+  ],
+  "orderText": "Got another job from <tags=\"13\"g=\"1\">Tara<tage=\"13\"g=\"1\">. Seems like she's still struggling, though... Let's go hear what's on her mind."
+ },
+ {
+  "id": "ER46",
+  "number": 46,
+  "title": "Academics Wanted (Again)",
+  "title_jp": "再度、知識自慢求ム",
+  "requester": "Kyuta",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 38,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 24000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "It's another request from the guy who hired me for the quiz box. But didn't we already figure out the answers? Maybe he ran into complications... I should go find him in <tags=\"13\"g=\"1\">Roppo Realm<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER82",
+  "number": 60,
+  "title": "Hachigaya Hokudo Crackdown",
+  "title_jp": "八ヶ谷北堂掃討戦",
+  "requester": "Natsuki",
+  "requesterMapId": 1007,
+  "requester_dun": "du007",
+  "recommendLevel": 61,
+  "questType": 2,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 500000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I got a request from the Yatagarasu Summoner on <tags=\"13\"g=\"1\">B15F<tage=\"13\"g=\"1\"> of the <tags=\"13\"g=\"1\">Hachigaya Training Field<tage=\"13\"g=\"1\">. Yatagarasu's investigating further, and they found another <tags=\"13\"g=\"1\">powerful demon<tage=\"13\"g=\"1\"> on the <tags=\"13\"g=\"1\">top floor<tage=\"13\"g=\"1\"> of the <tags=\"13\"g=\"1\">Hokudo<tage=\"13\"g=\"1\">. All these Yatagarasu folks asking for my help... Maybe I'm getting a little famous around here. Maybe a little too famous. Ah, but whatever... It's fine as long as they don't make trouble for us. Anyhow, time to go search the Nando."
+ },
+ {
+  "id": "ER45",
+  "number": 45,
+  "title": "Academics Wanted",
+  "title_jp": "知識自慢求ム",
+  "requester": "Kyuta",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 14,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 6000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "It sounds like this job requires a lot of <tags=\"13\"g=\"1\">knowledge<tage=\"13\"g=\"1\"> about demons... I guess it's technically perfect for me, since Aion's all about gathering information. Let's go meet up with the guy in <tags=\"13\"g=\"1\">Roppo Realm<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER30",
+  "number": 30,
+  "title": "A New Hee-Home: Part 5",
+  "title_jp": "家を探すホ　五の巻",
+  "requester": "Frost Goro",
+  "requesterMapId": 1005,
+  "requester_dun": "du005",
+  "recommendLevel": 50,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 146,
+    "value": 1,
+    "name": "消費アイテム146"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3041,
+    "count": 5,
+    "enemyPlaceType": 1,
+    "mapPlaceId": 1005,
+    "areaId": 0,
+    "dun": "du005",
+    "enemyName": "Baihu",
+    "spawn_locs": [
+     {
+      "dun": "du005",
+      "floor": 0
+     },
+     {
+      "dun": "du005",
+      "floor": 10
+     },
+     {
+      "dun": "du007",
+      "floor": 0
+     },
+     {
+      "dun": "du101",
+      "floor": 50
+     },
+     {
+      "dun": "du102",
+      "floor": 40
+     },
+     {
+      "dun": "du103",
+      "floor": 40
+     }
+    ]
+   }
+  ],
+  "orderText": "I met Frost Goro, fifth of the Frost Brothers, at the <tags=\"13\"g=\"1\">Municipal Tower<tage=\"13\"g=\"1\">. The way he was talking kind of freaked me out at first, but it sounds like he wants me to beat <tags=\"17\"g=\"1\">5<tage=\"17\"g=\"1\"> <tags=\"8\"g=\"1\" id=\"NKNR_041\">s because his dad's allergic to white tigers. Also, the reason he talks so weird is apparently because... he was abducted by aliens. So, you know. I guess this is my life now."
+ },
+ {
+  "id": "ER91",
+  "number": 52,
+  "title": "Rumors of a Summoner",
+  "title_jp": "ウワサのサマナー",
+  "requester": "Galahad",
+  "requesterMapId": 3,
+  "requester_dun": null,
+  "recommendLevel": 10,
+  "questType": 1,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 20000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "There's been an incident where a student was attacked by a \"<tags=\"13\"g=\"1\">monster<tage=\"13\"g=\"1\">.\" We should go to <tags=\"13\"g=\"1\">Shinsando<tage=\"13\"g=\"1\"> and ask the client for some details."
+ },
+ {
+  "id": "ER21",
+  "number": 21,
+  "title": "Deepest Mysteries of Creation",
+  "title_jp": "CLUE",
+  "requester": "Victor",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 31,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 90000,
+    "name": ""
+   },
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 2,
+    "id": 55,
+    "count": 0,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Another request from <tags=\"13\"g=\"1\">Victor<tage=\"13\"g=\"1\">, the <tags=\"13\"g=\"1\">Cirque du Goumaden<tage=\"13\"g=\"1\">'s resident ringmaster. That means I'm bound for Roppo Realm."
+ },
+ {
+  "id": "ER25",
+  "number": 25,
+  "title": "A Wintry Friend",
+  "title_jp": "おねえちゃんのために",
+  "requester": "Ichika",
+  "requesterMapId": 12,
+  "requester_dun": null,
+  "recommendLevel": 45,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 389,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "This is a request from <tags=\"13\"g=\"1\">Ichika<tage=\"13\"g=\"1\">... as in, the girl at <tags=\"13\"g=\"1\">Komadori<tage=\"13\"g=\"1\">. Wonder if something's happened... I should go talk to her."
+ },
+ {
+  "id": "ER24",
+  "number": 24,
+  "title": "The Heartbreaker",
+  "title_jp": "怪しいアイツ",
+  "requester": "Ash",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 35,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 388,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "This request comes from <tags=\"13\"g=\"1\">Ash<tage=\"13\"g=\"1\">. And it sounds like it has something to do with Saizo. I wonder what's going on...? Well, I'll find Ash in <tags=\"13\"g=\"1\">Roppo Realm<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER05",
+  "number": 5,
+  "title": "Story of Your Love",
+  "title_jp": "愚かな愛の物語",
+  "requester": "Flamma",
+  "requesterMapId": 11,
+  "requester_dun": null,
+  "recommendLevel": 25,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 386,
+    "value": 1,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "<tags=\"13\"g=\"1\">Flamma<tage=\"13\"g=\"1\"> needs our help. Apparently, while investigating the case of <tags=\"13\"g=\"1\">devices being destroyed<tage=\"13\"g=\"1\">, she received a message saying her interference would be “punished.\" The message came from a standard smartphone, owned by a <tags=\"13\"g=\"1\">host<tage=\"13\"g=\"1\"> named <tags=\"13\"g=\"1\">Teruya<tage=\"13\"g=\"1\">... If I remember right, that's the same guy outside Cretaceous who got shot down by the Summoner, Chris. Sounds like a good time to check up on him. "
+ },
+ {
+  "id": "ER14",
+  "number": 14,
+  "title": "All's Fair in Love and Commerce",
+  "title_jp": "金の切れ目が縁の切れ目",
+  "requester": "Lina",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 30,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 4,
+    "id": 0,
+    "value": 0,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "Another request from <tags=\"13\"g=\"1\">Lina<tage=\"13\"g=\"1\">, huh? Looks like we'll be helping her out with <tags=\"13\"g=\"1\">work<tage=\"13\"g=\"1\"> again. If it's another handoff like last time, this'll be a breeze."
+ },
+ {
+  "id": "ER42",
+  "number": 42,
+  "title": "Close My Eyes and Think of You",
+  "title_jp": "瞳を閉じて君を想う",
+  "requester": "Sakuro",
+  "requesterMapId": 1002,
+  "requester_dun": "du002",
+  "recommendLevel": 18,
+  "questType": 0,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 121,
+    "value": 1,
+    "name": "消費アイテム121"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 0,
+    "id": 28,
+    "count": 1,
+    "enemyPlaceType": 0,
+    "mapPlaceId": 1000,
+    "areaId": 0,
+    "dun": null,
+    "enemyName": "",
+    "spawn_locs": []
+   }
+  ],
+  "orderText": "Our client this time is one of the people living in the <tags=\"13\"g=\"1\">Central Line<tage=\"13\"g=\"1\">. They'll be somewhere in the <tags=\"13\"g=\"1\">Middle Area<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER81",
+  "number": 59,
+  "title": "Hachigaya Seido Crackdown",
+  "title_jp": "八ヶ谷西堂掃討戦",
+  "requester": "Fuyuhiko",
+  "requesterMapId": 1007,
+  "requester_dun": "du007",
+  "recommendLevel": 61,
+  "questType": 2,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 500000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I got a request from the Yatagarasu Summoner on <tags=\"13\"g=\"1\">B11F<tage=\"13\"g=\"1\"> of <tags=\"13\"g=\"1\">Hachigaya Training Field<tage=\"13\"g=\"1\">. There's a powerful <tags=\"13\"g=\"1\">demon<tage=\"13\"g=\"1\"> on the <tags=\"13\"g=\"1\">highest floor<tage=\"13\"g=\"1\"> of the <tags=\"13\"g=\"1\">Seido<tage=\"13\"g=\"1\">, and it's keeping him from investigating the area. This place is a training ground for Yatagarasu agents... Sticking around here might get me some useful experience and some cool finds. This could work out for both of us."
+ },
+ {
+  "id": "ER49",
+  "number": 49,
+  "title": "That Which Thirsts for Blood",
+  "title_jp": "その命を狙うもの",
+  "requester": "Madam Ginko",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 80,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 168,
+    "value": 1,
+    "name": "消費アイテム168"
+   }
+  ],
+  "targets": [],
+  "orderText": "It sounds like the <tags=\"13\"g=\"1\">coming threat<tage=\"13\"g=\"1\"> is bringing all kinds of deadly demons out of the woodwork. Now, I've got to put one of them down. My job's to hunt down the <tags=\"13\"g=\"1\">Dakini<tage=\"13\"g=\"1\"> in the <tags=\"13\"g=\"1\">Ozaki Hope Towers<tage=\"13\"g=\"1\">. She'll be on the <tags=\"13\"g=\"1\">3rd floor<tage=\"13\"g=\"1\"> of <tags=\"13\"g=\"1\">Tower B<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER94",
+  "number": 55,
+  "title": "A Girl's Resolve",
+  "title_jp": "彼女の決意",
+  "requester": "Nana",
+  "requesterMapId": 7,
+  "requester_dun": null,
+  "recommendLevel": 49,
+  "questType": 2,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 149,
+    "value": 1,
+    "name": "消費アイテム149"
+   },
+   {
+    "type": 1,
+    "id": 121,
+    "value": 2,
+    "name": "消費アイテム121"
+   }
+  ],
+  "targets": [],
+  "orderText": "<tags=\"13\"g=\"1\">Nana<tage=\"13\"g=\"1\">'s asked for our help with another job. Sounds like we'll need to go beat a demon in Subway Line 14 with her, but... I think we'd better get some more details from her at <tags=\"13\"g=\"1\">Cirque du Goumaden<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER27",
+  "number": 27,
+  "title": "A New Hee-Home: Part 2",
+  "title_jp": "家を探すホ　二の巻",
+  "requester": "Frost Jiro",
+  "requesterMapId": 1002,
+  "requester_dun": "du002",
+  "recommendLevel": 11,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 118,
+    "value": 2,
+    "name": "消費アイテム118"
+   }
+  ],
+  "targets": [
+   {
+    "label": "",
+    "text": "",
+    "type": 1,
+    "id": 3092,
+    "count": 5,
+    "enemyPlaceType": 1,
+    "mapPlaceId": 1002,
+    "areaId": 0,
+    "dun": "du002",
+    "enemyName": "Zhu Tun She",
+    "spawn_locs": [
+     {
+      "dun": "du002",
+      "floor": 10
+     },
+     {
+      "dun": "du102",
+      "floor": 0
+     }
+    ]
+   }
+  ],
+  "orderText": "I met <tags=\"13\"g=\"1\">Frost Jiro<tage=\"13\"g=\"1\">, the polite Jack Frost, at the <tags=\"13\"g=\"1\">Middle Area<tage=\"13\"g=\"1\"> of the <tags=\"13\"g=\"1\">Central Line<tage=\"13\"g=\"1\">. He's the second oldest of the Jack Frost brothers, and he wants a home where they can live quietly. But this place is full of <tags=\"8\"g=\"1\" id=\"NKNR_092\">s, and the third-oldest brother, Frost Saburo, is allergic to pigs. So now he wants me to beat <tags=\"17\"g=\"1\">5<tage=\"17\"g=\"1\"> <tags=\"8\"g=\"1\" id=\"NKNR_092\">s for his brother's sake."
+ },
+ {
+  "id": "ER92",
+  "number": 53,
+  "title": "Problem Child",
+  "title_jp": "問題児",
+  "requester": "Brodie",
+  "requesterMapId": 1001,
+  "requester_dun": "du001",
+  "recommendLevel": 29,
+  "questType": 1,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 173,
+    "value": 2,
+    "name": "消費アイテム173"
+   }
+  ],
+  "targets": [],
+  "orderText": "After the incident in Shinsando, there've been a ton of similar <tags=\"13\"g=\"1\">assaults<tage=\"13\"g=\"1\"> all over the city. Cretaceous is being flooded with requests to investigate the incidents, and it looks like I'm in charge of checking out the <tags=\"13\"g=\"1\">Shipping District<tage=\"13\"g=\"1\">. Let's get to it."
+ },
+ {
+  "id": "ER95",
+  "number": 56,
+  "title": "Last Stop",
+  "title_jp": "終着駅",
+  "requester": "Nana",
+  "requesterMapId": 9,
+  "requester_dun": null,
+  "recommendLevel": 55,
+  "questType": 1,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 168,
+    "value": 1,
+    "name": "消費アイテム168"
+   },
+   {
+    "type": 1,
+    "id": 170,
+    "value": 1,
+    "name": "消費アイテム170"
+   }
+  ],
+  "targets": [],
+  "orderText": "This'll be our third job from <tags=\"13\"g=\"1\">Nana<tage=\"13\"g=\"1\">. We got permission to check out Gen Mayumi's research facility. Whatever's making these <tags=\"13\"g=\"1\">Lost Numbers<tage=\"13\"g=\"1\"> appear is bound to be at the <tags=\"13\"g=\"1\">research facility in Hachigaya<tage=\"13\"g=\"1\">, along with the truth Nana's looking for... whatever that ends up being."
+ },
+ {
+  "id": "ER31",
+  "number": 31,
+  "title": "The Wolf Who Cried Wolf",
+  "title_jp": "オホカミ少年",
+  "requester": "Makami",
+  "requesterMapId": 1002,
+  "requester_dun": "du002",
+  "recommendLevel": 19,
+  "questType": 2,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 0,
+    "id": 0,
+    "value": 8000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "I met a crying <tags=\"13\"g=\"1\">Makami<tage=\"13\"g=\"1\"> in the <tags=\"13\"g=\"1\">Middle Area<tage=\"13\"g=\"1\"> of the <tags=\"13\"g=\"1\">Central Line<tage=\"13\"g=\"1\">. He told me a <tags=\"13\"g=\"1\">demon with a scary face<tage=\"13\"g=\"1\"> came to the <tags=\"13\"g=\"1\">Upper Area<tage=\"13\"g=\"1\"> and kicked him out of his home... I know it's a dog-eat-dog world, especially for demons, but making a kid cry is pretty rotten. I'm gonna go teach him a lesson."
+ },
+ {
+  "id": "ER83",
+  "number": 61,
+  "title": "Tribute and Worship",
+  "title_jp": "大神拝謁之探索",
+  "requester": "Shogetsu",
+  "requesterMapId": 1007,
+  "requester_dun": "du007",
+  "recommendLevel": 99,
+  "questType": 1,
+  "isDLC": 1,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 390,
+    "value": 1,
+    "name": ""
+   },
+   {
+    "type": 0,
+    "id": 0,
+    "value": 5000000,
+    "name": ""
+   }
+  ],
+  "targets": [],
+  "orderText": "A job direct from <tags=\"13\"g=\"1\">Yatagarasu<tage=\"13\"g=\"1\">. Probably another one at the <tags=\"13\"g=\"1\">Hachigaya Training Field<tage=\"13\"g=\"1\">. They're asking for me specifically, so it seems like a chance to get into their good books. The client's at the entrance of the <tags=\"13\"g=\"1\">training field<tage=\"13\"g=\"1\">."
+ },
+ {
+  "id": "ER13",
+  "number": 13,
+  "title": "Money Makes the World Go Round",
+  "title_jp": "金は天下の回り物",
+  "requester": "Lina",
+  "requesterMapId": 1,
+  "requester_dun": null,
+  "recommendLevel": 10,
+  "questType": 1,
+  "isDLC": 0,
+  "rewards": [
+   {
+    "type": 1,
+    "id": 123,
+    "value": 2,
+    "name": "消費アイテム123"
+   }
+  ],
+  "targets": [],
+  "orderText": "We've got a job from <tags=\"13\"g=\"1\">Lina<tage=\"13\"g=\"1\">, the proprietress of <tags=\"13\"g=\"1\">Yang Yang Palace<tage=\"13\"g=\"1\"> over in <tags=\"13\"g=\"1\">Mansei Realm<tage=\"13\"g=\"1\">. According to Madam Ginko, Lina's pretty picky about her business associates... but I'm sure it'll be fine."
+ }
+]

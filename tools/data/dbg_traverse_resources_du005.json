@@ -1,0 +1,247 @@
+[
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 3410710796506922255
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 0,
+   "m_PathID": -9193396705388369362
+  },
+  "m_Name": "",
+  "m_TraverseData": {
+   "PlaceID": 1005,
+   "AreaID": 40,
+   "SubAreaID": 0,
+   "ChipW": 320,
+   "ChipH": 320,
+   "ChipFlagMask": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "ChipFlagOpened": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "MapTextureW": 5120,
+   "MapTextureH": 5120,
+   "GridCount": 5,
+   "GridResolution": 1024,
+   "OrthoSize": 80.0,
+   "WallList": []
+  },
+  "m_PrefabMask": {
+   "m_FileID": 0,
+   "m_PathID": -2874212255592036365
+  },
+  "m_PrefabMaps": {
+   "m_FileID": 0,
+   "m_PathID": 322495713246798179
+  },
+  "m_PrefabIcon": {
+   "m_FileID": 0,
+   "m_PathID": -379697105387229326
+  },
+  "m_AnchorOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_IsMergeArea": 0,
+  "m_MergeAreaIDs": []
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 533567502072026017
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 0,
+   "m_PathID": -9193396705388369362
+  },
+  "m_Name": "",
+  "m_TraverseData": {
+   "PlaceID": 1005,
+   "AreaID": 0,
+   "SubAreaID": 0,
+   "ChipW": 320,
+   "ChipH": 320,
+   "ChipFlagMask": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "ChipFlagOpened": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "MapTextureW": 5120,
+   "MapTextureH": 5120,
+   "GridCount": 5,
+   "GridResolution": 1024,
+   "OrthoSize": 80.0,
+   "WallList": []
+  },
+  "m_PrefabMask": {
+   "m_FileID": 0,
+   "m_PathID": -5780483815783296481
+  },
+  "m_PrefabMaps": {
+   "m_FileID": 0,
+   "m_PathID": 4684075744703271130
+  },
+  "m_PrefabIcon": {
+   "m_FileID": 0,
+   "m_PathID": -3212936131981970663
+  },
+  "m_AnchorOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_IsMergeArea": 0,
+  "m_MergeAreaIDs": []
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": -7133299276047049664
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 0,
+   "m_PathID": -9193396705388369362
+  },
+  "m_Name": "",
+  "m_TraverseData": {
+   "PlaceID": 1005,
+   "AreaID": 30,
+   "SubAreaID": 0,
+   "ChipW": 320,
+   "ChipH": 320,
+   "ChipFlagMask": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "ChipFlagOpened": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "MapTextureW": 5120,
+   "MapTextureH": 5120,
+   "GridCount": 5,
+   "GridResolution": 1024,
+   "OrthoSize": 80.0,
+   "WallList": []
+  },
+  "m_PrefabMask": {
+   "m_FileID": 0,
+   "m_PathID": -8303086895980364158
+  },
+  "m_PrefabMaps": {
+   "m_FileID": 0,
+   "m_PathID": 2870652773210977381
+  },
+  "m_PrefabIcon": {
+   "m_FileID": 0,
+   "m_PathID": -7056362233638015136
+  },
+  "m_AnchorOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_IsMergeArea": 0,
+  "m_MergeAreaIDs": []
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 7581795174349797223
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 0,
+   "m_PathID": -9193396705388369362
+  },
+  "m_Name": "",
+  "m_TraverseData": {
+   "PlaceID": 1005,
+   "AreaID": 20,
+   "SubAreaID": 0,
+   "ChipW": 320,
+   "ChipH": 320,
+   "ChipFlagMask": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "ChipFlagOpened": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "MapTextureW": 5120,
+   "MapTextureH": 5120,
+   "GridCount": 5,
+   "GridResolution": 1024,
+   "OrthoSize": 80.0,
+   "WallList": []
+  },
+  "m_PrefabMask": {
+   "m_FileID": 0,
+   "m_PathID": -7857263183487860078
+  },
+  "m_PrefabMaps": {
+   "m_FileID": 0,
+   "m_PathID": 260583306629706491
+  },
+  "m_PrefabIcon": {
+   "m_FileID": 0,
+   "m_PathID": 3461820305431671983
+  },
+  "m_AnchorOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_IsMergeArea": 0,
+  "m_MergeAreaIDs": []
+ },
+ {
+  "m_GameObject": {
+   "m_FileID": 0,
+   "m_PathID": 245407812281596554
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+   "m_FileID": 0,
+   "m_PathID": -9193396705388369362
+  },
+  "m_Name": "",
+  "m_TraverseData": {
+   "PlaceID": 1005,
+   "AreaID": 10,
+   "SubAreaID": 0,
+   "ChipW": 320,
+   "ChipH": 320,
+   "ChipFlagMask": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "ChipFlagOpened": {
+    "BitArray": "<bitarray len=12800>"
+   },
+   "MapTextureW": 5120,
+   "MapTextureH": 5120,
+   "GridCount": 5,
+   "GridResolution": 1024,
+   "OrthoSize": 80.0,
+   "WallList": []
+  },
+  "m_PrefabMask": {
+   "m_FileID": 0,
+   "m_PathID": -1000002537927773778
+  },
+  "m_PrefabMaps": {
+   "m_FileID": 0,
+   "m_PathID": -8319359154939214362
+  },
+  "m_PrefabIcon": {
+   "m_FileID": 0,
+   "m_PathID": -4038368501387254838
+  },
+  "m_AnchorOffset": {
+   "x": 0.0,
+   "y": 0.0
+  },
+  "m_IsMergeArea": 0,
+  "m_MergeAreaIDs": []
+ }
+]

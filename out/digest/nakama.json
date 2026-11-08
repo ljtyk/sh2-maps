@@ -1,0 +1,974 @@
+[
+ {
+  "id": 0,
+  "name": "Dummy Enemy",
+  "info": "EnemyTableの名前ラベルと\n共通の数字にしてください。",
+  "info_jp": "EnemyTableの名前ラベルと\n共通の数字にしてください。"
+ },
+ {
+  "id": 1,
+  "name": "B Hawaii Frost",
+  "info": "One of the \"shaved ice\" subspecies of Jack Frost created by Dr. Thrill. Its official name is \"Blue Hawaii Frost.\" Having sought asylum in Japan, Dr. Thrill was soon exposed to a great deal of Japanese culture, and, upon buying a variety of sentai masks and shaved ice at a summer festival, was inspired to create this variation of Jack Frost. Whether or not they actually taste like \"Blue Hawaii\" has yet to be determined... though admittedly, what \"Blue Hawaii\" even tastes like is a mystery in itself.",
+  "info_jp": "正式な名は「ブルーハワイフロスト」で、\n天才科学者Dr.スリルによって\n作り出されたジャックフロストの亜種\n「かき氷フロスト」の1体。Dr.スリルは\n亡命先の日本で様々な文化を吸収して\nいったが、夏祭りの屋台で購入した\n戦隊ヒーローのお面とかき氷にヒントを\n得て、このジャックフロストを生み出した\nのだと言われている。ブルーハワイの\n味がするのかは不明だが、そもそも\nブルーハワイの味がどういったもの\nなのかが謎である。"
+ },
+ {
+  "id": 2,
+  "name": "Melon Frost",
+  "info": "One of the \"shaved ice\" subspecies of Jack Frost created by the brilliant Dr. Thrill. Having sought asylum in Japan, Dr. Thrill was soon exposed to a great deal of Japanese culture, and, upon buying a variety of sentai masks and shaved ice at a summer festival, was inspired to create this variation of Jack Frost. Whether or not they actually taste like melon has yet to be determined.",
+  "info_jp": "天才科学者Dr.スリルによって\n作り出されたジャックフロストの亜種\n「かき氷フロスト」の1体。Dr.スリルは\n亡命先の日本で様々な文化を吸収して\nいったが、夏祭りの屋台で購入した\n戦隊ヒーローのお面とかき氷にヒントを\n得て、このジャックフロストを生み出した\nのだと言われている。メロンの味が\nするのかは不明。"
+ },
+ {
+  "id": 3,
+  "name": "Lemon Frost",
+  "info": "One of the \"shaved ice\" subspecies of Jack Frost created by the brilliant Dr. Thrill. Having sought asylum in Japan, Dr. Thrill was soon exposed to a great deal of Japanese culture, and, upon buying a variety of sentai masks and shaved ice at a summer festival, was inspired to create this variation of Jack Frost. Whether or not they actually taste like lemon has yet to be determined.",
+  "info_jp": "天才科学者Dr.スリルによって\n作り出されたジャックフロストの亜種\n「かき氷フロスト」の1体。Dr.スリルは\n亡命先の日本で様々な文化を吸収して\nいったが、夏祭りの屋台で購入した\n戦隊ヒーローのお面とかき氷にヒントを\n得て、このジャックフロストを生み出した\nのだと言われている。レモンの味が\nするのかは不明。"
+ },
+ {
+  "id": 4,
+  "name": "Strawberry Frost",
+  "info": "One of the \"shaved ice\" subspecies of Jack Frost created by the brilliant Dr. Thrill. Having sought asylum in Japan, Dr. Thrill was soon exposed to a great deal of Japanese culture, and, upon buying a variety of sentai masks and shaved ice at a summer festival, was inspired to create this variation of Jack Frost. Whether or not they actually taste like strawberry has yet to be determined.",
+  "info_jp": "天才科学者Dr.スリルによって\n作り出されたジャックフロストの亜種\n「かき氷フロスト」の1体。Dr.スリルは\n亡命先の日本で様々な文化を吸収して\nいったが、夏祭りの屋台で購入した\n戦隊ヒーローのお面とかき氷にヒントを\n得て、このジャックフロストを生み出した\nのだと言われている。いちごの味が\nするのかは不明。"
+ },
+ {
+  "id": 5,
+  "name": "Milk-kin Frost",
+  "info": "One of the \"shaved ice\" subspecies of Jack Frost created by Dr. Thrill. Its official name is \"Milk Kintoki Frost.\" Having sought asylum in Japan, Dr. Thrill was soon exposed to a great deal of Japanese culture, and, upon buying a variety of sentai masks and shaved ice at a summer festival, was inspired to create this variation of Jack Frost. They seem a touch classier than their more fruity counterparts, but, as usual, whether they actually taste like milk kintoki has yet to be determined.",
+  "info_jp": "本来の名称は「ミルク金時フロスト」で、\n天才科学者Dr.スリルによって\n作り出されたジャックフロストの亜種\n「かき氷フロスト」の1体。Dr.スリルは\n亡命先の日本で様々な文化を吸収して\nいったが、夏祭りの屋台で購入した\n戦隊ヒーローのお面とかき氷にヒントを\n得て、このジャックフロストを生み出した\nのだと言われている。他のかき氷フロスト\nより少し高級感を漂わせているが、\n例によってミルク金時の味がするのかは\n不明。"
+ },
+ {
+  "id": 6,
+  "name": "Ara Mitama",
+  "info": "One of the four great aspects of Shinto that shapes all souls. Ara Mitama is commonly contrasted with Nigi Mitama, where it is depicted as a raging power that appears during times of war and disaster. There are various theories concerning its role. Some claim it holds the power to negate things, while others say it holds the powers of \"bravery, growth, and endeavors.\" It has been said that there have also been times when a divine spirit is divided into both an Ara Mitama and a Nigi Mitama, the Sumoyoshi Sanjin being a notable example.",
+  "info_jp": "万物の霊魂を形づくる一霊四魂のうちの\n一魂。「荒魂」と書かれる。\nニギミタマに対比される魂である\nアラミタマは、普通荒ぶるように猛々しい\n力となって戦時や災時に現れるとされる。\n働きに関しては諸説があり、物事を\nマイナスする力であるとする説や、\n「勇・進・果」の働きがあるとする説などが\nある。また、1つの神霊がアラミタマと\nニギミタマに分けられることもある。\n住吉神などはその例である。"
+ },
+ {
+  "id": 7,
+  "name": "Nigi Mitama",
+  "info": "One of the four great aspects of Shinto that shapes all souls, the Nigi Mitama is said to have a calm demeanor. It is also said that an Ara Mitama becomes a Nigi Mitama once it's calmed down. There are several theories regarding the Nigi Mitama's role, as it has been said to lead things in a positive direction or even grant the powers of \"relations, calmness, and sociability.\"",
+  "info_jp": "万物の霊魂を形づくる一霊四魂のうちの\n一魂。「和魂」と書かれる。\nニギミタマは、おだやかな働きをすると\nいわれる魂で平常時の状態が保たれる\nのも、この魂によるとされる。\nアラミタマとして現れた神霊が、\n鎮めまつられることによってニギミタマに\nなるともいわれる。ニギミタマの働きには、\n物事をプラスする力であるとする説や、\n「親・平・交」の働きがあるとする説\nなどがある。"
+ },
+ {
+  "id": 8,
+  "name": "Kushi Mitama",
+  "info": "One of the four great aspects of Shinto that shapes all souls. Like the other Mitama, many theories have been developed regarding its role. Its supernatural powers have been said to cause miracles, unify things that were once broken, and even grant one the powers of \"wisdom, skill, and observation.\" Scholar Motoori Norinaga believed that the names Kushi Mitama, Saki Mitama, or Nigi Mitama represented functions rather than individual spirits.",
+  "info_jp": "万物の霊魂を形づくる一霊四魂のうちの\n一魂。「奇魂」と書かれる。\nクシミタマの働きにも諸説がある。\n超自然的な力で奇瑞をもたらすものとする\n説、分裂した物事が神の摂理に従って\n結合することだとする説、「智・巧・察」\nの働きがあるとする説などがそれである。\n古事記の研究者である本居宣長は、\nクシミタマやサキミタマがニギミタマの\n機能の名称であって、単独の霊魂を\nあらわすものではないと考えた。"
+ },
+ {
+  "id": 9,
+  "name": "Saki Mitama",
+  "info": "One of the four great aspects of Shinto that shapes all souls. There are a number of theories claiming that its name refers to its role as a soul, many of which also claim that the Saki Mitama is known to grant successful hunts, hold the power to split things apart, or even aid one in the realms of \"love, profit, and growth.\"",
+  "info_jp": "万物の霊魂を形づくる一霊四魂のうちの\n一魂。「幸魂」と書かれる。\n日本の神道に古くからある「一霊四魂」\nという考え方にあらわれる魂。魂自体の\n働きのことを指すともいわれる。\nサキミタマの働きには諸説があって特定\nできないが、狩猟などによる獲物（さち）を\nもたらすものとする説、物事が神の摂理に\n従って分裂することだとする説、\n「愛・益・育」の働きがあるとする説\nなどがある。"
+ },
+ {
+  "id": 10,
+  "name": "Masakado",
+  "info": "A general who declared himself the new emperor of Japan but fell to Hidesato Fujiwara and Sadamori Taira soon after. He was quickly enshrined as a means of quelling his vengeful spirit, causing him to later become known as the protector god of Kanto. According to the Otogizoshi, he stood over 6'10\", had a head, arms, and legs of gold, and had two pupils in his left eye. His body was made entirely of iron, save for his one weak point, his temple.",
+  "info_jp": "平安中期に朝廷に反乱した武将・平将門。\n関東の支配に成功し新皇を名乗るが、後に\n藤原秀郷と平貞盛に討たれる。死後、祟り\nなす御霊として祀られ始め、更に英雄的性格\nを帯びて関東の守護神として信奉され今に\n至るという。御伽草子の記述によれば、\nその風貌は、身の丈が7尺（210cm）\n以上、五体はことごとく金属製で、左の眼に\n瞳が2つあるとされる。また全身が鉄の\n不死身の巨人で、こめかみだけが生身で\n弱点だともされる。"
+ },
+ {
+  "id": 11,
+  "name": "Shiva",
+  "info": "The great god who governs both the destruction and creation of the world. He is the most worshiped god in Hinduism alongside Vishnu. It is said that he purifies the world through destruction, only to later rebuild it anew, and though he casts his terrible wrath against the demons, he is also known to bless his followers. Shiva has been depicted in many ways, but the most common is for him to have four hands, one face, and three eyes. He wields a trident, or trishula, and his third eye is said to emit a ray of light that destroys all it touches.",
+  "info_jp": "世界の破壊と創造を司る偉大な神。\nヒンドゥー教でヴィシュヌ神と共に最も\n崇拝を集める神である。破壊によって\n世界を浄化した後、またこれを再建する\nとされる。悪魔に対しては恐ろしい破壊の\n力を振るうが、一方で信奉者には恩恵を\n授ける。シヴァの容貌は、4本の手、\n1つの面、3つの目という姿が最も一般的と\nされている。光の三叉槍トリシューラを\n武器とし、額にある第3の目は、全ての\n被造物を焼き尽くす恐ろしい光を放つ\nという。"
+ },
+ {
+  "id": 12,
+  "name": "Sandalphon",
+  "info": "Metatron's twin brother in Judeo-Christian lore. He is said to make garlands of prayers written in Hebrew and present them to God as tribute. Sandalphon is also known as the master of heavenly song and often regarded as the \"dark angel\" to Metatron's \"light angel.\"",
+  "info_jp": "メタトロンの双子の兄弟といわれる、\nユダヤ伝承の有力な天使。天界の\n書記官であるサンダルフォンは、人々の\n祈りを神へ届けるという役目をもつ。\n祈りがヘブライ語であれば、これを材料と\nして、神の頭にのせる花飾りをメタトロンと\nともに編む。また天国の歌を司るのも\n彼の役目である。\nユダヤの神秘主義者などはメタトロンを\n「明るい天使」と呼ぶのに対し、\nサンダルフォンを「暗い天使」と呼ぶ。"
+ },
+ {
+  "id": 13,
+  "name": "Fortuna",
+  "info": "The Roman goddess of luck, she spins the Wheel of Fortune and is believed to have originally been a fertility goddess. Her Greek counterpart is Tyche.",
+  "info_jp": "ローマの幸運の女神。\n運命の車輪を司るといわれる。\n元々は家畜や穀物の多産増殖をもたらす\n神であったとされる。またギリシャ神話の\n女神テュケーと同一視されている。"
+ },
+ {
+  "id": 14,
+  "name": "Loki",
+  "info": "Reappearing in Devil Summoner form. A Norse deity, known as a trickster who clashes with the other gods. Though his parents are giants, enemies of the gods, he joined the pantheon as Odin's blood brother. Due to his countless evil deeds, such as the murder of Beldr, he was eventually punished with imprisonment in a cave. He is fated to be released on the day of Ragnarok, when the world will end and he will battle the gods.",
+  "info_jp": "北欧神話の悪神。邪悪なだけの神ではない\nが、気まぐれで悪知恵に長けるという。\n神々の敵である巨人を両親とするが、\n主神オーディンと義兄弟の契りを交わし、\n神々の一員に加わったとされる。しかし\nオーディンの子バルドルを殺すなど幾多の\n悪行の末、遂に罰を受けて洞窟に捕縛され\nた。世界の終末ラグナロクを迎える時、\n彼はこの縛めから解き放たれ、神々と戦うと\nされる。"
+ },
+ {
+  "id": 15,
+  "name": "Norn",
+  "info": "The goddesses of fate in Norse myth. They live below the roots of Yggdrasil and weave the threads of fate by which even the gods are bound.",
+  "info_jp": "北欧神話の運命の女神たち。\n巨人族であるといわれる。\n世界樹イグドラジルの根の下に湧く井戸を\n住み家としており、彼女たちの決定する\n運命には、神々も従わざるを得ないという。"
+ },
+ {
+  "id": 16,
+  "name": "Saturnus",
+  "info": "The Roman god of agriculture commonly identified with Cronus. He ate his children in an attempt to prevent destiny but nonetheless was overthrown as fate foretold.",
+  "info_jp": "イタリアの古い邪悪な神。黒い太陽との\n異称も持つ。大地の穣りの代わりに\n生贄を要求したという。\n後にローマ人によってクロノス神と\n同一視されるようになる。"
+ },
+ {
+  "id": 17,
+  "name": "Baal",
+  "info": "The chief Semitic god. Bearing a name that means \"Lord,\" or \"owner,\" he was revered as a god of fertility in addition to being known as the god of Canaan and both brother and consort to the goddess Anat. Many demons, such as Bael, Beelzebub, Belphegor, and Berith are believed to be derivations of Baal. There were even instances of him being worshiped in the very same temples as Yahweh (YHVH) in times long since passed.",
+  "info_jp": "西セム人に主神として長く崇拝されたという\n豊饒神。その名は古代セム語で「主」の意。\n狭義ではカナアンの主神であるといわれ、\n女神アナトの兄にして夫であるとされる。\n一説では、神々は全てバアルのようなもので\nあったともいわれ、ソロモンの魔神バエルや\nベルゼブブ、ベルフェゴールやベリトなど\nは、このバアルから派生した悪魔とされる。\nまた、かつてヤハウェと神殿を共にしていた\nともいわれる。"
+ },
+ {
+  "id": 18,
+  "name": "Zaou-Gongen",
+  "info": "The repeller of evil found by En-no-Ozunu at Kinpussen. Ozunu first perceived the god during his 1000 days of training to save the chaotic world. Buddha, Guanyin, and Maitreya had appeared to Ozunu before this, but it was only Zaou-Gongen who convinced him that the world could be saved.",
+  "info_jp": "修験道の主尊として知られる荒ぶる神。\n役小角の守護神でもあったと言われる。\n\n修験道の主尊にして、金剛山の守護神と\nされるのがこのザオウゴンゲンで、\nその名は「金剛蔵王権現」とも書かれる。\nこの神は役小角の守護神としても知られる。\n小角が混迷した世を救う力を求め\n1000日の修業を行った際、この神を\n感得したと言われる。釈迦如来や千手観音、\n弥勒菩薩も現れたが自身の主尊とはせず、\n最後に現れたこのザオウゴンゲンこそが\n混迷の世を救う神であるとして自身の\n主尊として迎え入れたと伝えられる。"
+ },
+ {
+  "id": 19,
+  "name": "Huang Long",
+  "info": "One of the holy dragons of Chinese lore, the Golden Dragon appears in times of great fortune or joy. His dominion over the earth extends to the four gods Qing Long, Baihu, Xuanwu, and Zhuque.",
+  "info_jp": "黄龍。中国神話に伝わる尊貴なる龍神。\n　\nその名の通り黄色い体をしていて、地上に\n喜ばしいことが起こると現れる瑞獣。\n大地・土の力を司る存在で、青龍・白虎・\n玄武・朱雀の四神を従えているという。"
+ },
+ {
+  "id": 20,
+  "name": "Futsunushi",
+  "info": "The Nihonshoki sword deity who pacified Ashihara-no-Nakatsukuni. His name comes from \"futsu,\" the fashion in which things are cut, and \"nushi,\" a term meaning, \"nature as a god.\"",
+  "info_jp": "日本書紀に登場する刀剣の神。天孫降臨に\n先立ち、葦原中つ国を平定したとされる。\nフツヌシという名は、物が断ち切られる\nさまを表す「フツ」と、神であることを表す\n「ヌシ」から成っているとされる。"
+ },
+ {
+  "id": 21,
+  "name": "Thor",
+  "info": "The Norse god of thunder and fertility whose strength is incomparable. He is a heroic and honest god worshiped mainly by farmers and is primarily known for defeating the giants. He wields Mjolnir, a hammer that returns to its owner after being thrown. He and the World Serpent, Jormungandr, are fated to kill each other at Ragnarok.",
+  "info_jp": "北欧神話の雷神にして豊穣神。農民たちを\n中心に崇拝されたという。豪快にして実直な\n性格で、無双の怪力を誇る。\n彼の持つ鉄槌ミョルニルは、どこへ投げても\n必ず敵を砕いて主の手へ戻るとされ、\n雷撃の象徴であるとされる。\n世界の終わりラグナロクにおいて、\n世界蛇ヨルムンガンドと相討ちになって\n果てるという。"
+ },
+ {
+  "id": 22,
+  "name": "Kali",
+  "info": "The Black One, a symbol of death and destruction. She is said to be another face of Parvati, Shiva's consort. Wearing a necklace of human heads, she wields numerous bloody swords, one for each of her many arms. It is said that when Durga, another form of Parvati, was fighting the Asuras, she summoned Kali and defeated the Asura army in an instant.",
+  "info_jp": "破壊と殺戮を好む暗黒女神。シヴァ神の\n妃パールヴァティ女神の変身した姿。\n同様にパールヴァティ女神の変身した\n姿であるドゥルガー女神が、アスラ軍に\n対する怒りに顔を黒くした時、\nその顔からカーリーが出現し、瞬く間に\nアスラたちを倒してしまったとされる。\n黒い肌を持ち生首や骸骨で作った\n首飾りを着け、4本あるいはそれ以上ある\n手には、血まみれの武器や生首を持つ\nという。"
+ },
+ {
+  "id": 23,
+  "name": "Titania",
+  "info": "The queen of the faeries and King Oberon's wife. She is based on the Roman goddess Diana and was later imagined as a faerie. She is famously recognized as a queen in William Shakespeare's \"A Midsummer Night's Dream.\"",
+  "info_jp": "月夜の森の支配者であり妖精王オベロンの\n妃。起源はローマ神話の月の女神ダイアナ\nにあるといわれる。\n後にイギリスで妖精として解釈され、\nシェイクスピアの「真夏の夜の夢」により、\n女王としての認知が定着したとされる。"
+ },
+ {
+  "id": 24,
+  "name": "Oberon",
+  "info": "The king of the faeries and the husband of Titania. He is quite old, but due to a curse he received when he was young, he remains small yet still beautiful. He often flirts with human women and has earned many a scolding from his wife as a result.",
+  "info_jp": "妖精の王。女王ティターニアを妻とし、\n妖精の間に起こる全ての祭事を司る。\n年長者だが、幼少時に受けた呪いにより\n体の大きさが少年のまま止まっている。\nしばしば人間の女性と恋に落ちては、\n妻にたしなめを受けているのだという。"
+ },
+ {
+  "id": 25,
+  "name": "Lilith",
+  "info": "She is said to have been Adam's first wife. Refusing to obey Adam, she left Eden and became a demon of the night. Though there are several theories regarding her fall, all depict her as unfaithful. It has also been said that she was originally the Babylonian Earth Mother.",
+  "info_jp": "旧約聖書でアダムの最初の妻となったと\nされる女性。後に楽園を出て夜魔と化す。\n　\n堕落と追放の経緯に関しては諸説あるが、\n総じて不貞の象徴として描かれるようで\nある。元来はバビロニアの地母神であった\nとされる。"
+ },
+ {
+  "id": 26,
+  "name": "Xuanwu",
+  "info": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction north, the season of winter, and the element of water. Known to be a great warrior, sometimes in the form of a human, it is said to support the Earth from below. Xuanwu is also known for its clairvoyance, which it uses to bestow wisdom.",
+  "info_jp": "中国の多くの神話や思想に語られる\n「四聖獣」の一柱。方角の北、季節の冬、\n五行思想の水を司る。未来を見通して\n智恵を授け、時には人間に化身して\n魔と戦うこともあるといわれる。"
+ },
+ {
+  "id": 27,
+  "name": "Kudlak",
+  "info": "An evil vampire who fights Kresnik, a proxy of God. It is said that all bad things, including disease, poor harvests, and bad luck, fall under Kudlak's purview. He is also said to transform into various animals in his fight against Kresnik, of which the forms are always colored black.",
+  "info_jp": "悪と闇の象徴である吸血鬼。神の代理人\nクルースニクと激しく対立する。疫病、\n凶作、不運など、人間に起こる悪いことの\n全てはクドラクによるものだとされる。\n彼は常に、罪のない者や無防備な者に\n襲いかかるのだという。クルースニクと戦う\n時は馬や豚などに姿を変えるが、常にその\n色は、闇を象徴する黒であるとされる。\n"
+ },
+ {
+  "id": 28,
+  "name": "Rangda",
+  "info": "A wicked witch and symbol of evil in Balinese Hinduism. Women who used magic, held a grudge, or walked an unrighteous path were said to have transformed into this dreadful creature, where they would go on to spread plagues, cause natural disasters, curse the people, and even use evil spirits to do their bidding. The holy beast Barong, champion of the forces of good, is her eternal rival, for even if Rangda is defeated, she will always come back to life.",
+  "info_jp": "インドネシア・バリの神話に伝わる魔女。\nバリ・ヒンドゥーの悪の側面を象徴する。\n魔法使いの女性で、人を恨んだりして\n悪の道に進んだ者が、ランダになるという。\nランダは黒魔術で疫病をまき散らし、\n災害を引き起こし、また人々に呪いをかけ、\n悪霊を遣わしたりするという。善を象徴する\n神獣バロンとは互いに宿敵で、たとえ\n倒されても必ず転生し、永遠に戦い続ける\nとされる。"
+ },
+ {
+  "id": 29,
+  "name": "Scathach",
+  "info": "The war goddess of Celtic lore as well as the queen of the Land of Shadows. She is a skilled magician and a master warrior who trains the many young men who come to her in the art of war. The famed Cu Chulainn was one of her students, and it is said that he received the legendary Gae Bolg from her upon mastering her teachings.",
+  "info_jp": "ケルト神話の戦いの女神。「影の国」なる\n異界を統べる女王でもある。呪術師ながら\n武芸にも秀で、武勇でその名を轟かせた。\n自分の所へ来た若者に対しては修行を\nさせ、戦いの秘術を授けた。\nかの英雄クー・フーリンも彼女の修行を\n受けた1人であり、彼が免許皆伝の腕前と\nなった時、彼女は魔槍ゲイボルグを\n授けたという。"
+ },
+ {
+  "id": 30,
+  "name": "Qing Long",
+  "info": "One of the Ssu-Ling, celestial creatures in Chinese lore. It represents the direction east, the season of spring, and the element of wood. It is the noblest of the Ssu-Ling and dwells in a palace at the bottom of the ocean. In Feng Shui, placing water to the east is known to guide Qing Long’s power and is said to bring good fortune.",
+  "info_jp": "中国の多くの神話や思想に語られる\n「四聖獣」の一柱。方角の東、季節の春、\n五行思想の木を司る。四聖獣で最も尊く、\n海底の宮殿に住むという。また風水に\nおいて東側に流水を置くと青龍の力を\n導き、吉相になるとされる。"
+ },
+ {
+  "id": 31,
+  "name": "Girimekhala",
+  "info": "A giant elephant monster of Sri-Lankan mythology. It is typically portrayed as being ridden by Mara, the Evil One. Whoever looks into its evil eye is said to be met with great misfortune.",
+  "info_jp": "スリランカの神話に伝わる巨象の怪物。\n釈迦の解脱を阻みに訪れた魔王マーラが\n騎乗していたとされる。邪眼を持ち、\nそれに見据えられた者には病と災いが\n降り注ぐという。"
+ },
+ {
+  "id": 32,
+  "name": "Barong",
+  "info": "Said to live in the forests of Bali, it was an evil god whom the people sanctified and made their guardian. Now a symbol of good, it is fated to war with Rangda, the avatar of evil, for all eternity.",
+  "info_jp": "バリ島の森に住む偉大な神獣。かつては\n凶暴な存在であったが、人々の鎮祭により、\nその守護者となった。\n　\n善の象徴であるバロンは、悪の象徴である\n鬼女ランダと、永遠に決着することのない\n戦いを続ける運命だとされる。"
+ },
+ {
+  "id": 33,
+  "name": "Fafnir",
+  "info": "An evil dragon of Norse lore, it was vanquished by the hero Siegfried. According to the Völsunga saga, it was extremely venomous, had legs like snakes, and shook the ground with every step.",
+  "info_jp": "北欧の伝説に登場する悪しきドラゴン。\n英雄ジークフリートによって倒された。\n12世紀頃に書かれたとされる\n「ヴォルスンガ・サガ」の中では、\n毒を持ち、大地を震わせて歩く、大蛇に\n足が生えたような姿の怪物だとしている。"
+ },
+ {
+  "id": 34,
+  "name": "Nezha Taizi",
+  "info": "A protection deity of Chinese lore. Sometimes said to take the form of an ageless young man, he was granted his trusty weapon Qiankun Quan (Universe Ring) and his trademark Hun Tian Ling (Red Armillary Sash) upon birth. He later committed suicide as atonement for killing the Dragon King but was brought back to life with lotus roots. In \"Journey to the West,\" he fought an intense battle with Sun Wukong.",
+  "info_jp": "永遠に少年の姿をするとされる英雄神。\n「西遊記」では孫悟空を相手に激しい戦いを\n繰り広げた。乾坤圏という武器を手に持ち、\n混天綾という真紅の布を身にまとった姿で\n産まれてきたといわれ、この2つを装備した\n姿のままで龍王や魔王と戦い、退治していく\nとされる。産まれてすぐに戦い始めたとも\nいわれる。父の裏切りによって一度は自害\nしたが、釈迦の慈悲により復活を遂げ、\n天軍の長になったという。"
+ },
+ {
+  "id": 35,
+  "name": "Kresnik",
+  "info": "A good vampire blessed by the light, his name means \"cross,\" and his sworn rival is another Slovenian vampire named Kudlak. Their battle is said to be unparalleled, with both employing various animal forms to do battle. It is said that dark can never overcome light, and thus, each battle ends with Kresnik as the victor. Kresnik's animal transformations can be recognized by their white color.",
+  "info_jp": "光の力の加護を受けた、善なる吸血鬼\n始末人。その名は「十字架」に由来する。\n同じスロベニアの吸血鬼であるクドラクを\n宿敵とし、比類無き闘いを繰り広げる。\n両者は豚・雄牛・馬などの動物に変身して\n闘うが、彼が変身した動物は白い色をして\nいる。神の敵であるクドラクは決して光の\n使者には勝てないとされ、両者の闘いは\n常にクルースニクの勝利で幕を閉じる。"
+ },
+ {
+  "id": 36,
+  "name": "Cu Chulainn",
+  "info": "A gallant Celtic hero and son of the sun god Lugh. He is said to have beaten an army singlehandedly, his normally beautiful appearance shifting into one so fearsome, the enemy fled in terror. He was cursed to die after spurning the war goddess Morrighan's advances and was impaled on his own mighty spear, Gae Bolg. It is also said that, in his final moments, he tied himself to a pillar so that he might die on his own two feet.",
+  "info_jp": "ケルト神話の美しき英雄。太陽神ルーグの\n息子で、魔槍ゲイボルグの使い手である。\n幼少の頃より並外れた力を持っており、\n戦いとなれば、その容貌は恐ろしく変貌し、\n1人で大軍を撃破するほど勇猛で優れて\nいたとされる。戦いの女神モリーアンの\n求愛を断ったため死の呪いをかけられ\n自らの槍に貫かれたが、その時も石柱に\n体を縛り、決して倒れることなく死んだと\nいう。"
+ },
+ {
+  "id": 37,
+  "name": "Hanuman",
+  "info": "A heroic monkey god of Hindu descent both renowned and popular. Bearing a name that means \"jaw,\" he is remarkably nimble and knowledgeable, and is known to have helped Vishnu in the guise of Prince Rama—one of his many heroic deeds recorded in the Ramayana. He is often depicted as having golden skin, a red face that glimmers like the finest ruby, and an extremely long tail. Being the son of the wind god Vayu, he can also fly and change into a variety of forms.",
+  "info_jp": "インド神話の勇猛な猿神。非常に敏捷で\n並外れた知識を備えている。その名は\n「顎骨を持つもの」の意で、金色の肌に\nルビーのように赤く輝く顔を持ち、尻尾は\n途方もなく長いとされる。\n風神ヴァーユの息子であるため空を飛ぶ\n力を持ち、また変幻自在であるとも\nいわれる。叙事詩「ラーマーヤナ」で、\nヴィシュヌ神の化身であるラーマ王子を\n助けて活躍した。"
+ },
+ {
+  "id": 38,
+  "name": "Mokoi",
+  "info": "A monster from Aboriginal folktales. It lives in a jungle alongside owls and, though it appears human, has an abnormally large head. It also lacks a tongue and therefore cannot speak. Myth tells that these creatures are reincarnations of the \"soul of the shadow,\" and they are even said to engage in intercourse with human women from time to time as well as eat children and fight humans.",
+  "info_jp": "オーストラリアの原住民アボリジニの伝承に\n古くから伝わる妖怪。フクロウと共にジャン\nグルに生息し、人間によく似た姿をして\nいるが、頭が異常に大きく、舌を持って\nいないため、言葉を話すことができないと\n伝えられている。人間の「影の魂」の\n生まれ変わりであるともいわれ、\n人間の女性と交わることもあれば、\n産まれた子供を食べたり、人間と戦ったり\nすることもあるという。"
+ },
+ {
+  "id": 39,
+  "name": "Ganesha",
+  "info": "The elephant-headed god in Hindu mythology. He was originally created out of dirt by Pavarti to prevent anyone from watching her bathe. It is said that Shiva knocked his head off but later replaced it with an elephant's head.",
+  "info_jp": "インド神話の象頭神。\n　\n元来は夫シヴァに入浴を見られまいとした\nパールヴァティが護衛の為に垢から作った。\nしかしたちまちシヴァに首をはねられ、その\n遺骸を最初に発見した象の頭を代わりの首と\nして与えられ、現在の姿になったという。"
+ },
+ {
+  "id": 40,
+  "name": "Power",
+  "info": "Originally called Exousiai in Greek, they are the sixth of the nine orders of angels. It is said that they were the first order to be created. Their duty is to protect the souls of humans from demons.",
+  "info_jp": "神学に基づく天使のヒエラルキーにおいて\n第6位「能天使」に数えられる中級天使。\n名は「神の力」の意。天界への悪魔の侵入を\n防ぐため、常に前線に立ち、天の回廊を巡る\nとされる。"
+ },
+ {
+  "id": 41,
+  "name": "Baihu",
+  "info": "One of the Ssu-Ling, celestial creatures of Chinese myth. It represents the direction west, the season of autumn, and the element of metal. It is believed to be the king of all beasts.",
+  "info_jp": "中国の多くの神話や思想に語られる\n「四聖獣」の一柱。方角の西、季節の秋、\n五行思想の金を司る。古代中国における\n百獣の王は虎であり、ビャッコはその\n頂点に立つ存在とされる。"
+ },
+ {
+  "id": 42,
+  "name": "Rakshasa",
+  "info": "Evil spirits that battle the gods in Hindu lore. They also attack humans. Their hideous appearance symbolizes their evil nature, but they can also change shape to fool humans.",
+  "info_jp": "ヒンドゥー神話に伝えられる邪鬼の一族。\n神々に敵対するといわれる。悪の力の表れ\nであり、人間の敵となる存在である彼らは\n恐ろしい姿をしているが、時に変身して\n人間たちを惑わせるという。"
+ },
+ {
+  "id": 43,
+  "name": "Yamata-no-Orochi",
+  "info": "A giant snake with eight heads and eight tails that appears in the Kojiki. Legend describes its body as eight valleys and eight mountains, complete with their own ecosystems of moss, cedars, and hinoki, and its stomach is said to be red with blood. It demanded a sacrificial maiden each year, but the hero Susano-o got it drunk and killed it with his sword in order to save Kushinada-hime. The sword retrieved from inside its body was Ame-No-Murakumo, otherwise known as Kusanagi no Tsurugi.",
+  "info_jp": "「古事記」に登場する巨大な龍。\n8つの頭と8つの尾を持つ。その巨体は、\n8つの谷と8つの山を越えるほどもあり、\n苔むして杉や桧が生え、腹は血で\n真っ赤であったとされる。毎年娘を\n生贄として食らっていたが、罠として\n仕掛けられていた酒に酔った所を、\nスサノオ神の剣で切り裂かれて死んだ。\nこの時に身体から出てきた剣が、\n天叢雲の剣、すなわち後の草薙の剣である。"
+ },
+ {
+  "id": 44,
+  "name": "Mothman",
+  "info": "A cryptid sighted in West Virginia from the 1960s to the 1980s. It has red, shining eyes and was known for the finlike appendages on both sides of its body. It has been said to walk on two feet and fly without moving these appendages. It has a keen sense for blood which allows it to easily track its prey. Eyewitnesses say that a UFO was sighted when Mothman appeared, so many believe that it is actually an alien.",
+  "info_jp": "60～80年代にかけてアメリカで目撃\nされたという未確認生物。\n　\n赤く輝く目を持ち、体の左右にあるヒレ状の\n突起は蛾の羽を思わせ、これがモスマンの\n名の由来になったという。\n2本足で地上を歩き、羽ばたきもせずに\n飛び上がるとされ、血臭を敏感にかぎ分け、\nそれを発する者の生き血をすするという。\n出現時にUFOが観測されるという証言も\nあることから、モスマンの正体は宇宙人だと\nする説もある。"
+ },
+ {
+  "id": 45,
+  "name": "Hare of Inaba",
+  "info": "Known in Japanese as \"Inaba no Shirousagi,\" this clever rabbit, written about in the Kojiki, is worshiped as a hare god. Wanting to cross the sea from Oki Island to the mainland, he tricked a multitude of sharks into lining up and forming a makeshift bridge by challenging them to see which of the sharks' clans was larger. Upon safe passage, he revealed his plot to the sharks, only to be captured and skinned by them soon after. He was, however, later healed by a passing god.",
+  "info_jp": "因幡白兎。古事記、出雲神話で有名な\nずる賢い兎で、白兎神として祀られている。\n隠岐島から因幡の国に渡ろうとして、\nワニザメを騙して海に並ばせ、数を数える\nふりをしてその上を跳んで行こうとしたが、\n渡り切った所で騙したことを明かしたため\n最後のワニザメに皮を剥ぎ取られた。\nその後オオクニヌシ神に正しい治療法を\n教わり、この傷を治したという。"
+ },
+ {
+  "id": 46,
+  "name": "Anzu",
+  "info": "An evil deity of Mesopotamian folklore with an eagle's body and lion's head. While the god Enlil purified himself, Anzu stole the Tablet of Destinies from him in an attempt to become the chief god.",
+  "info_jp": "バビロニアの伝承に登場する邪悪な巨鳥。\n鷲の体にライオンの頭を持つとされる。\n神々の王になりたいという邪念から、\n主神エンリルが体を水で清めているスキに\n天命のタブレットを盗み出した。"
+ },
+ {
+  "id": 47,
+  "name": "Garuda",
+  "info": "A divine bird-man in Hindu mythology. He hunts Nagas as a result of a dispute between their mothers. He fought with the gods once, and was granted immortality in exchange for becoming Vishnu's carrier.",
+  "info_jp": "インド神話の聖なる鳥。ナーガ族の陰謀で\n捕われた母を救うため、不死の甘露を狙って\n一度は天界を襲った。この際、多くの神々を\n退けた力をヴィシュヌに買われ不死の獲得\nと引き換えに、以後ヴィシュヌの乗り物とな\nる。"
+ },
+ {
+  "id": 48,
+  "name": "Jack-o'-Lantern",
+  "info": "An Irish spirit typically found in swamps, bogs, or marshes. Said to be spirits of the dead, they appear as floating flames and are known around the world by various names such as \"Will-o'-the-Wisp\" and \"Hitodama.\" They are also said to come out at night to startle travelers and make them lose their way.",
+  "info_jp": "ハロウィンのかぼちゃ灯火のお化けで、\nその姿形は一般にもよく知られている。\n元々はイギリスのコーンウォール地方の\nウィル・オ・ザ・ウィスプと呼ばれる鬼火\nで、さまよえる死者の魂とされ、日本でいう\n人魂に近い存在である。夜に浮かび現れて\nは、道行く人を驚かしたり、後に付いてくる\nよう誘っておいては道に迷わせたりすると\nいう。"
+ },
+ {
+  "id": 49,
+  "name": "Yatagarasu",
+  "info": "A divine creature in Japanese mythology. They are three-legged ravens that the goddess Amaterasu sent to help humans. It is said that they helped Emperor Jinmu claim victory, and, despite their divine standing, those who are unworthy have been known to go mad after looking them directly in the eye.",
+  "info_jp": "日本神話に伝わる霊鳥。3本の脚を持った\n聖なるカラスで、アマテラスが人間に遣わ\nしたという。戦で道に迷った神武天皇の\n東征軍を導き、勝利させたといわれる。\n高い神格ゆえ、資格の無い者が直視すると\n気がふれてしまうという。"
+ },
+ {
+  "id": 50,
+  "name": "Tzitzimitl",
+  "info": "Aztec goddesses of night and fear. They are known to constantly attack the sun, creating solar eclipses in the process. They are also said to demand a sacrifice once every 52 years.",
+  "info_jp": "アステカ神話にて、夜と恐怖を司る女神。\n神たる太陽と争い続け、災いの日食を引き\n起こす死と悪の象徴で、52年ごとに生贄を\n求める、嫉妬深く邪悪な神である。"
+ },
+ {
+  "id": 51,
+  "name": "Zhuque",
+  "info": "One of the Ssu-Ling, celestial creatures in Chinese mythology. It represents the south, the season of summer, and the element of fire. It is said to resemble a quail in appearance and have a beautiful chirping voice.",
+  "info_jp": "中国の多くの神話や思想に語られる\n「四聖獣」の一柱。方角の南、季節の夏、\n五行思想の火を司る。ウズラに似た姿の\n巨鳥で、五色の美声でさえずるという。"
+ },
+ {
+  "id": 52,
+  "name": "Pixie",
+  "info": "A small faerie found in southwest Britain known for their cheerful nature and love of pranks. Their physical appearance changes from region to region, but their personality is always playful and mischievous. A common prank they like to pull is causing humans to wander in circles. However, they are also known to help farmers from time to time and are generally considered good faeries.",
+  "info_jp": "イギリス南西部に棲む小型の妖精。\n陽気で悪戯好きな性格とされる。\n各地方で伝えられる姿がやや異なる\nものの、その性格は概ね一致している。\n代表的な悪戯に「ピクシー・レッド」と\n呼ばれるものがある。人間に同じ場所を\n輪を描くように、延々と歩かせ続ける\nものだ。一方で農作業の手伝いをする面\nなどもあり、全面的に良い妖精とされる。"
+ },
+ {
+  "id": 53,
+  "name": "Muu Shuwuu",
+  "info": "Meaning \"evil bird,\" it is the ghost of a young girl who died without knowing love in Buryat folklore. She seduces travelers, only to crack their heads open and suck out their brains with her beak.",
+  "info_jp": "モンゴル系のボリヤド民族の伝承の魔物。\n愛を知らぬまま死んでしまった少女の霊が\nなるとされる悪しき鳥。美しい娘の姿をして\n旅人を誘惑し、隙を見せるとくちばしで\n頭をつつき、穴をあけ、脳みそを吸い取る\nという。"
+ },
+ {
+  "id": 54,
+  "name": "Angel",
+  "info": "Ninth of the nine orders of angels. They are closest in nature to humans. They watch over individuals and offer warning to those who stray from the path.",
+  "info_jp": "神学に基づく天使のヒエラルキーにおいて\n最下である第9位「天使」に数えられる\n下級天使。神の使いである天使の中で、\n最も人間の近くにいる存在。\n人間個人の守護を担い、その人間が\n正義をなすよう監視し、また悪に向かう\n心を戒めているとされる。"
+ },
+ {
+  "id": 55,
+  "name": "Apsaras",
+  "info": "Water spirits in Hindu lore. They are beautiful young women who dance for the gods. They also guide heroes who fall in battle to paradise.",
+  "info_jp": "インド神話の水の精。\nその名は「水の中で動くもの」を意味する。\n歳若く妖艶な女性の姿で、苦行の成就を\n阻む煩悩の例えに用いられる。\nまた戦死者の霊をインドラの待つ天界へ\n運ぶ役目も担うとされる。"
+ },
+ {
+  "id": 56,
+  "name": "Nekomata",
+  "info": "Incarnations of long-living cats in Japanese mythology. They can speak to humans and, depending on their power, can do various things. Some can turn into humans, while others can have the dead do their bidding.",
+  "info_jp": "長命の猫が力を得て妖怪に化身した存在。\n知恵に長け人語を解する。得た力の大小に\nよって操る現象の規模は様々だが、中には\n人に化けたり死者を使役したりする者もいる\nという。"
+ },
+ {
+  "id": 57,
+  "name": "Succubus",
+  "info": "A female demon in popular European folklore during the medieval ages. They are known to visit men in their sleep and have sex with them. And though they appear beautiful in the dream, in reality, they are ugly, old hags.",
+  "info_jp": "ヨーロッパ各地の伝承に残る女性の夢魔。\n男性のインキュバスと対をなす。\n眠っている男性の夢に忍び込み、\n性的関係を結んで精を集める。\n素顔は醜い老婆だが、夢に現れる\nサキュバスは大変な美貌を備えるという。"
+ },
+ {
+  "id": 58,
+  "name": "Jack Frost",
+  "info": "A frost spirit made from ice and snow that appears during the winter and melts away in the spring. Do not be fooled by his cute demeanor, however, for Jack Frost is known to freeze people with his cold breath, smiling all the while. Some suggest that he originally looked like an abominable snowman but may have changed form to appear more approachable and thus more easily lure in his victims.",
+  "info_jp": "冬に現れる霜の精。雪と氷でできた体を\n持ち、春になると溶けて消えてしまう。\n可愛らしい外見とは裏腹に、笑いながら\n冷気を吐き、人々を凍らせてしまう\n恐ろしい性質を持つという。\n元々は雪男のような恐ろしい化け物だった\nとされ、それが現在の可愛いらしい姿に\nなったのは、より効率良く人々を凍らせる\nためだとされる。"
+ },
+ {
+  "id": 59,
+  "name": "Basilisk",
+  "info": "A dark dragon from Northern Africa marked by wings and a crested crown. Its name means \"king of snakes,\" and both its breath and gaze are so toxic that they instantly kill any human or animal unfortunate enough to be subjected to them.",
+  "info_jp": "アフリカ北部に住むといわれる邪龍。\n名は「蛇の王」という意味。\n　\n王冠状の鶏冠と翼を持った姿で、吐く息と\n視線には猛烈な毒があり、人間や動物を\nたちどころに殺害するといわれている。"
+ },
+ {
+  "id": 60,
+  "name": "King Frost",
+  "info": "The king of snow who rules over an infinite number of Jack Frosts. He has the power to freeze the entire world but is unaware of it due to his rather naïve personality.",
+  "info_jp": "ジャックフロストの王。その名に違わぬ\n巨大な雪ダルマの体を持つ。\n　\n無数のジャックフロストを従え、世界を\n雪と霜で凍てつかせる力を持つが、\nその性格は至って無邪気であるという。"
+ },
+ {
+  "id": 61,
+  "name": "Hariti",
+  "info": "A Buddhist goddess also known as Kishimojin. She was originally an evil devil who ate children, but when Buddha hid the most beloved of her 500 children, she was stricken with sorrow. Having been taught the pain of losing a child, she then became a good god and started eating pomegranates instead of children.",
+  "info_jp": "鬼子母神として知られる女神。\n子供の生育を守る神として信仰される。\n元は人間の子供を食らう邪悪な鬼で\nあったが、釈迦が彼女の500人の子供の\nうち、最も可愛がっていた末の子を隠すと、\n彼女は嘆き悲しんだ。\n釈迦が彼女に、親が子供を失う悲しみを\n説いて戒めると、彼女は善神となり、\n子供の代わりにザクロの実を\n食べるようになったという。"
+ },
+ {
+  "id": 62,
+  "name": "Turbo Granny",
+  "info": "The ghost of an old lady who runs on all fours at blazing speeds near Mt. Rokko. Should you manage to catch a glimpse of her back as she races by, you will likely see a piece of paper posted on her back that reads \"Turbo.\" She is not a dangerous ghost, but her love for speed is insatiable. Similar ghosts include the \"Dash Hag\" of the Shuto Expressway and the \"100 km/h Granny\" of Hokkaido.",
+  "info_jp": "六甲山付近で出没するとされる老女の姿を\nした霊で、よつんばいになって高速道路を\n猛スピードで走るといわれている。\n追い抜いていったターボばあちゃんを\n見ると、その背中には「ターボ」と書いた\n張り紙が張られているのがわかるという。\nこれといって危害を加える霊ではなく、\n意味もなく高速道路を走り抜けるだけの\n存在だといわれる。高速を走る同様の\n霊としては首都高の「ダッシュばばあ」や\n北海道の「100キロばあちゃん」が\n知られる。"
+ },
+ {
+  "id": 63,
+  "name": "Valkyrie",
+  "info": "Daughters of Odin from Norse mythology. Their name means \"choosers of the slain.\" Armed with shining armor and spears, they look for brave warriors to take to Valhalla, so that they may fight in Ragnarok.",
+  "info_jp": "北欧神話の主神オーディンの娘たち。\nその名は「死者を運ぶ者」の意で、\n来るべき神々の黄昏ラグナロクに備え、\n人間の勇士の魂をヴァルハラ宮に導く\n役を担うとされる。鎧兜をまとい、\n駿馬を駆り、自らも空を駆け戦ったという。"
+ },
+ {
+  "id": 64,
+  "name": "Silky",
+  "info": "A house faerie of England and Scotland. A welcome spirit, she carries out household chores while everyone sleeps. It is said you can hear her silk skirts rustle as she works. However, she is not without a dangerous side, and will kill anyone who tries to cause harm to the family she protects.",
+  "info_jp": "イングランドとスコットランドの国境付近\nで多く見られるという女性の家霊。\n家の者が寝静まった後、家庭内の\n雑用を片付けてくれるとされ、伝統的に\nありがたがられている妖精である。\n家事を行う際、衣の服がさやさやと\n衣ずれする音が聞こえるという。また\n家を守護することもあり、害を及ぼそうと\n近付く人を殺してしまうこともあるという。"
+ },
+ {
+  "id": 65,
+  "name": "Onmoraki",
+  "info": "A Japanese monster with the body of a bird and the face of a man. It can spit fire and is known to utter a repulsive chirp. Many believe they are the result of those who did not receive a proper memorial service upon death, and that they will appear before monks who neglect their duties.",
+  "info_jp": "日本に伝わる鳥の姿をした不気味な妖怪。\n「陰魔羅鬼」と書かれる。ツルにもサギにも\n似た姿で、人面である。全身は黒く灯火の\nように光る眼をしており、羽を震わせては\n人間に似た声で気味悪く鳴くとされる。\n口から炎を吐くともいわれる。\n寺に納められ墓に入った後、十分な供養を\n受けられなかった屍の気が変じてこの\n妖怪になるとされる。手厚い供養を求めて\nいるのか、経文を怠っている寺の僧の前に\n現れるという。"
+ },
+ {
+  "id": 66,
+  "name": "Koropokkur",
+  "info": "Small humanlike demons from Ainu legend. With a name meaning \"one who lives under Fuki,\" they are considered to possess a kind and calm personality. They were believed to have once coexisted with the Ainu people, but, after a falling-out of sorts, they simply disappeared. Some even claim that the Koropokkur inhabited Hokkaido long before the Ainu.",
+  "info_jp": "アイヌの伝承に伝えられる人間の赤ん坊\nくらいの大きさの小人。\n名前の意味は「蕗の下に住むヒト」である。\nコロポックルはたいへんおとなしい性格で、\n清らかな心の持ち主だったとされる。\n当然いたずらなどもしなかった。\n彼らはアイヌの人々と仲良く暮らして\nいたが、ある男がコロポックルの美しい娘を\nかどわかしたことを非常に悲しみ、その姿を\n消した。このコロポックルはアイヌの人々が\n北海道に来る前に住んでいた種族だとも\nいわれる。"
+ },
+ {
+  "id": 67,
+  "name": "Sandman",
+  "info": "A faerie from rural Germany rumored to put people to sleep using the magic sand he carried in his bag. If a victim resisted, he would sit on their eyelids to force them to sleep. It has even been said that \"naughty children\" who refused to go to sleep would be punished by having their eyes scooped out and taken away, though this is speculated to be a fabrication thought up by German mothers.",
+  "info_jp": "ドイツ民間伝承の妖精。その名は日本語で\n「砂男」と訳される。背負った袋の中には\n魔法の砂が入っており、これを人間の目に\n振りかけ、眠らせるという。無理やりに\n眠りをこらえる人間には、まぶたに座って\nでも強引に眠らせるという。それでも眠ろう\nとしない悪い子供は、彼に目玉をえぐり\n取られるといわれるが、この物騒な性格\nだけは、ドイツの母親たちの創作だと考え\nられる。"
+ },
+ {
+  "id": 68,
+  "name": "Poltergeist",
+  "info": "A mischievous spirit known for haunting houses. The name is German in origin, and literally means \"noisy ghost.\" It can do various things, from pulling harmless pranks like making loud noises and moving objects through the air, to dangerous, destructive acts, like starting fires and assaulting people. Poltergeist incidents often occur in homes with children or teenagers, and one theory states that the cause is a child's unstable mentality.",
+  "info_jp": "家の中に現れ、酷い悪戯をする悪霊。\n名はドイツ語で「騒がしい霊」の意。\n家の中に現れ、音を立てるだけの\n無害な悪戯から、放火や暴行などの、\n悪戯と呼べぬ破壊活動までを行うとされる。\nポルターガイスト現象は、思春期の\n子供がいる家庭だけに起こるとされ、\n子供たちの不安定な精神が原因だと\nする説もある。"
+ },
+ {
+  "id": 69,
+  "name": "Mad Gasser",
+  "info": "A tall and foreboding figure clad in all black that spreads an unknown and highly poisonous gas around. Despite its deceptively sweet scent, inhaling the toxic fumes will induce both severe headaches and vomiting. He often returns just as people have begun to forget his existence, though he has very rarely been sighted.",
+  "info_jp": "未知の毒ガスをまき散らして人々を\n苦しめるといわれる怪人。\nその姿は黒ずくめで頭にツバのない\n帽子をかぶり、やけに背が高いとされる。\nまき散らすガスは甘い臭いを持つが、\n吸うと激しい頭痛と吐き気に見舞われる\nとされる。人々が忘れかけた頃になる度に\n姿を現しては、毒ガスをまき散らすのだ\nという。人前に現れることは滅多にない\nともいわれる。"
+ },
+ {
+  "id": 70,
+  "name": "Doppelganger",
+  "info": "A phantom copy of a living being, its name comes from the German phrase \"double goer.\" Doppelgangers are regarded as an omen of bad luck, and though one's Doppelganger is typically seen by others from afar, it is said that one may see their own Doppelganger in the moments before they die.",
+  "info_jp": "何から何まで同じである、生者の幻霊。\n「二重に歩く者」という意味のドイツ語が\n名前の由来である。\n\n一般にドッペルゲンガーは死の予兆とされ\nる。多くの場合は、遠くの場所から他人に\nよって見られるが、希に死の直前、自分\n自身で見ることができると言われる。"
+ },
+ {
+  "id": 71,
+  "name": "Mermaid",
+  "info": "Half-woman, half-fish inhabitant of the ocean. Males are called mermen. Mermaids are regarded as ill omens by many fishermen, often foretelling severe storms or poor catches. Legend says they use their voices to charm men, causing them to crash their ships.",
+  "info_jp": "水中に生息するとされる女性の人魚。\n男性の人魚は「マーマン」と呼ばれる。\n漁師にとって不吉な象徴とされることが\n多く、嵐や不漁の前兆とされる。\nその歌声には、聞いた者を魅了する能力が\n備わっていると言われ、大航海時代には\n航海者を惹きつけ船を難破させるとして\n恐れられていたと言う。"
+ },
+ {
+  "id": 72,
+  "name": "Leanan Sidhe",
+  "info": "A beautiful fairy of Irish lore that yearns for the love of a human man. She drains the life of her lovers in return for granting them artistic inspiration.",
+  "info_jp": "アイルランドの妖精。人間の女性に似た姿で\n現れるとされる。名は「妖精の恋人」の意。\n人間の男の愛を求めており、恋人となった\n男の生命を吸い取って生きるが、\n代わりに恋人に霊感を与えるという。"
+ },
+ {
+  "id": 73,
+  "name": "Lamia",
+  "info": "Half-woman, half-snake creatures that appear in Greek mythology, and are said to reside in Libya. They supposedly favor the blood of children and young men.",
+  "info_jp": "ギリシア神話に登場する蛇女。\nリビアに棲むといわれる。\n上半身が美しい女性で、下半身が\n蛇の姿をしており、子供や若い男性の\n生き血を好むという。"
+ },
+ {
+  "id": 74,
+  "name": "Dakini",
+  "info": "Hindu deities of passion and relations. They are Kali's attendants. They eat human flesh and gather at graveyards and crematories each night. Their name means \"sky dancer.\"",
+  "info_jp": "インド神話における、情愛と交歓の女神。\nカーリーに従う存在。\n　\n人肉を喰らうとされ、夜毎に墓場や\n火葬場で集会を開くという。\nまたその名は「空に遊ぶ者」を意味する。"
+ },
+ {
+  "id": 75,
+  "name": "Sukuna-Hikona",
+  "info": "One of the gods of Japanese lore. Son of Kamimusubi, he was so small he fell through her fingers at birth. Though he would normally be counted among the Amatsukami, he became blood-brothers with Okuninushi and is now considered a Kunisukami. After building Japan with Okuninushi, he is said to have returned to Tokoyo no Kuni, the land of eternity.",
+  "info_jp": "日本神話に登場する神の一柱。\n神産巣日神の御子神の一柱であり、\nその指の間から零れ落ちてしまった\n神であるとされる。\n本来ならば天津神だが、後に大国主神と\n兄弟の契りを結んだことで国津神とされた。\n大国主神と共に国土を作り固めた後、\n常世国へと渡ったとされる。"
+ },
+ {
+  "id": 76,
+  "name": "Take-Minakata",
+  "info": "A Japanese god of war, hunting, and fertility. He fought Take-Mikazuchi for control of Japan and lost. He escaped to Suwa but has been prohibited to leave ever since.",
+  "info_jp": "日本神話の軍事の神。\n狩猟神や豊穣神としての性格も併せ持つ。\n　\n国譲りを巡ってタケミカヅチと切り結び敗北\nする。落ち延びて信濃国に至るが、そこで\n追い詰められ、以後、諏訪の地を出ることを\n禁じられたという。"
+ },
+ {
+  "id": 77,
+  "name": "Oyamatsumi",
+  "info": "One of the Kunitsukami's in Japanese mythology. He is the grandfather of Susano's wife, Kushinada-Hime. He is known as the god of the mountains but is also considered to be the god of water and rice fields because he ruled over water sources and harvests.",
+  "info_jp": "日本神話に登場する国津神のひとり。\nスサノオの妻クシナダヒメの祖父である。\n山の神として知られるが、水源や田の実りも\n支配したことから水の神、田の神ともされ\nた。"
+ },
+ {
+  "id": 78,
+  "name": "Okuninushi",
+  "info": "A Kunitsu deity of Japanese mythology that governs agriculture and medicine. Said to have built the country of Izumo with Susano-o's daughter, Suseri-Hime. He is a peaceful god who prefers not to fight.",
+  "info_jp": "日本神話の国津神。農耕や医療の力を司る。\n　\nスサノオの課したという難事に打ち克ち、\nその娘であるスセリヒメと共に出雲に国を\n築いたことから、出雲建命の祖先にあたる\nとされ、出雲神話の最も重要な神に\n位置付けられる。"
+ },
+ {
+  "id": 79,
+  "name": "Zhen",
+  "info": "A bird in Chinese mythology said to have poison in its feathers because it eats poisonous snakes. Dipping a feather into wine will turn it into a deadly poison, able to kill anyone with one drop.",
+  "info_jp": "中国の伝説に語られる、猛毒を持った鳥。\n　\n銅に似た色のクチバシを持ち、蛇を好んで\n食べる。また強力無比の毒を持ち、チンが\n耕地の上を飛べば作物は全て枯死し、\n羽毛を酒に浸せば、一口で死に至る毒酒に\n変わるという。"
+ },
+ {
+  "id": 80,
+  "name": "Gurulu",
+  "info": "A demon that takes the shape of a giant bird in Sri Lankan mythology. It is rumored to be a derivation of Garuda.",
+  "info_jp": "スリランカの神話に伝わる巨鳥の悪魔。\n思想的に敵対するインド神話の霊鳥\nガルーダが、悪魔として解釈された存在で\nある。"
+ },
+ {
+  "id": 81,
+  "name": "Kurama Tengu",
+  "info": "A tengu that is said to have lived in Mt. Kurama in Kyoto. The most powerful and well-known of the tengu, he has the power to fend off disease and bring good fortune. He is also said to have trained Yoshitsune how to fight with a sword when Yoshitsune was still a child. Some believe him to be Bishamonten's night form.",
+  "info_jp": "京都の鞍馬山に棲んでいたとされる天狗。\n　\n日本の伝承に残る天狗の中でも、最大の力と\n知名度を誇るもののひとつで、除厄と招福に\n関して絶大な力を持つという。\nビシャモンテンの夜の姿だともいわれる。"
+ },
+ {
+  "id": 82,
+  "name": "Chernobog",
+  "info": "The god of night, evil, and death in Slavic lore. His name means \"black god.\" Like many other gods of the dead, he is said to live below the earth. His counterpart is Belobog, the \"white god.\" Despite being feared, he was also worshiped. The curse, \"May the black god end you,\" is still used in Ukraine to this day.",
+  "info_jp": "スラブ神話に伝わる夜と悪と死を司る神。\n名は「黒い神」の意。他の多くの死神と同様\n地下に住んでいるとされ、光と善を司る\n「白い神」ベロボーグと対にされる。\n人に不幸をもたらすというその能力ゆえ、\n「黒い神がおまえを殺すように」という、\nその名をもって人を呪う言葉が今も残って\nいるという。"
+ },
+ {
+  "id": 83,
+  "name": "Mot",
+  "info": "The Canaanite god of death, infertility, and the underworld. Every year he attempts to kill Baal, the god of fertility, only to see him raised from the dead with the help of Baal's sister, Anat. He was later killed by Anat as vengeance for her brother.",
+  "info_jp": "ウガリット神話で冥界の王とされる、死と\n不毛の神。豊穣の神バアルの宿敵。\nバアルが神々の王となった時、彼は\nモトの力である「死」を認めないと宣言\nした。これを聞いたモトは、バアルを\n陰謀に陥れて殺したが、その妹アナトに\nよって報復を遂げられ、討たれたという。"
+ },
+ {
+  "id": 84,
+  "name": "Gremlin",
+  "info": "A mischievous sprite that enjoys wreaking havoc on machines and tools. It's said that during World War II, Gremlins often were found when examining plane failures. Though rather troublesome creatures, Gremlins have been known to be quite useful at times, and are even said to have helped Benjamin Franklin with his famous kite experiment.",
+  "info_jp": "機械や道具に取り憑いて調子を狂わせると\nされるイタズラ好きの妖精。第二次大戦中の\nイギリスで、飛行機の発進ができなくなる\n事故が多発し、その原因を調査したところ\nグレムリンが発見されたという。\n厄介がられる存在だが、時に人の役に立ち、\nフランクリンが稲妻から電気を得た時も、\n実はグレムリンが手伝っていたのだと\nいわれている。"
+ },
+ {
+  "id": 85,
+  "name": "Loa",
+  "info": "A group of divinities worshiped in voodoo religion. Of the many hidden entities mentioned in religious doctrines, the ones that influence human activities in the earthly realm are known by this name. It is said that those aligned with shadow also possess powerful dark magic.",
+  "info_jp": "ヴードゥー教において語られる神や聖霊らの\n総称。教義に伝わる多くの神秘存在のうち、\n地上で人間の営みに実際的な影響をもたらす\n存在が、この名で呼ばれるようである。\n特に陰の属性にある者は、呪殺に\nまつわる強い力も持っているという。"
+ },
+ {
+  "id": 86,
+  "name": "Ippon-Datara",
+  "info": "A monster with one eye and one leg, said to live deep in the mountains of Kumano, Japan. A single footprint measuring 30cm has been sighted in the snowy mountains.",
+  "info_jp": "野の山奥に住んでいると伝えられる、\n一つ目で一本足の妖怪。\n山に雪が積もると、その中に一本足で\nつけたと思われる30センチ程の\n足跡を残すとされる。"
+ },
+ {
+  "id": 87,
+  "name": "Black Frost",
+  "info": "A Jack Frost that grew powerful and evil. These are the evolved form of the fairly peaceful winter fairy and mark the transformation from small prankster into massively powerful entity.",
+  "info_jp": "凶悪に成長したジャックフロスト。元々は\nいたずら好きな雪の妖精であったが、\nじゃあくフロストとなった状態では、\n魔王のような強大な力を得ているとされる。\n悪魔としての鍛錬を怠らなかったものだけが\nこの状態へと至るのだという。"
+ },
+ {
+  "id": 88,
+  "name": "Mishaguji",
+  "info": "An indigenous god of the Shinano region from before the forces of Yamato occupied the land. Said to be born from the belief that divine spirits dwelled in rocks and stones.",
+  "info_jp": "大和政権の勢力が入る以前から、\n信濃地方で信仰されていたとされる\n土着の神。石や岩に神霊が宿るとする\n古代の信仰形態から生まれた神だと\nいわれる。"
+ },
+ {
+  "id": 89,
+  "name": "Baphomet",
+  "info": "An idol commonly worshiped by the Knights Templar. It is a demon with the head of a goat. This figure later became the idol of worship for witches as well.",
+  "info_jp": "黒ミサを司る、山羊の頭を持った悪魔。\nこの名をもって悪魔全体を指す場合も\nある。世に言う「テンプル騎士団」が\n偶像崇拝の糾弾を受けた際、この名の\n魔神を奉っていたとされる。\n後に魔女たちの崇拝対象ともなった。"
+ },
+ {
+  "id": 90,
+  "name": "Pazuzu",
+  "info": "A demon from Sumerian civilization, he governs the southwestern wind. He has the face of a lion, the body of a human, the wings of a bird, the talons of an eagle, the tail of a scorpion, and a curved horn protruding from his forehead. It is said that the wind he blew from the Persian Gulf spread disease throughout the land.",
+  "info_jp": "シュメール文明に伝わる悪神。\n南東の風を司る魔王とされる。\n　\n獅子の顔に人間の身体、背中には2対の\n鳥の翼を持ち、手は獅子の前足、\n脚はワシの爪、また尾はサソリで、\n額の上には1本の奇妙に曲がった角が\nある。ペルシア湾から毒気をはらんだ\n熱風と共にやってきて、疫病を蔓延\nさせると言われる。"
+ },
+ {
+  "id": 91,
+  "name": "Mara",
+  "info": "A Buddhist demon that represents the fear of death. Also known as \"The Evil One,\" he sent his daughters to tempt Buddha during his meditations.",
+  "info_jp": "インド神話で悪霊を従えるとされる魔王。\n死を運ぶ者とされる。\n　\n恐怖をかきたてる術を得意とし、修行する\nブッダを誘惑しようとしたこともあると\nいう。その強大な力は世界各地へ及び、\nメアやモーラなどの闇の悪魔を産んだと\nされる。"
+ },
+ {
+  "id": 92,
+  "name": "Zhu Tun She",
+  "info": "A monstrous snake-like beast said to be sighted sometime in the Song dynasty. According to myth, it is about three feet long, has four legs, is covered in fur, and also squeals like a pig. Because no existing animal even remotely fits its description, many believe it to be a completely unknown creature.  ",
+  "info_jp": "宋の時代の中国で目撃されたといわれる\n怪蛇。体長は3尺ほどで、胴から4本の\n足が生え、全身が毛で覆われた奇妙な\n姿をしており、竹林からブタのような\n鳴き声を上げて現れたという。\nその特徴が分類上どこにも属さない\nことから、未知の生物である可能性が\n強いとされる。"
+ },
+ {
+  "id": 93,
+  "name": "Seth",
+  "info": "The Egyptian god of the desert, chaos, and evil. He murdered his brother, Osiris, and tried to become chief god, but he was later castrated by Osiris's son, Horus.",
+  "info_jp": "エジプト神話の悪神。元は上エジプト地方で\n崇拝された主神であった。\n　\n兄であるオシリス神を謀略により殺害し、\n神々の支配者となるが、オシリス神の息子\nであるホルス神に討たれる。"
+ },
+ {
+  "id": 94,
+  "name": "Vasuki",
+  "info": "A giant serpent of Hindu lore. It is said that gods and demons used him as a rope to churn the sea of milk to create Amrita, while also using Mt. Mandara as the stick. The strain from this caused him to exhale incredibly poisonous venom, but it was safely swallowed up by Shiva.",
+  "info_jp": "インド神話の古き龍。神々が混沌の乳海を\nかき回す際、その身体が使われたという。\n　\nかつて神々は、混沌の乳海をかき回して\n不死の霊薬アムリタを作ることを思い立ち、\n巨大なマンダラ山を棒として、そして棒を\n引っ張るための縄としてヴァスキを使った\nという。\nヴァスキの一方を神々が、もう一方を\nアスラが引っ張り、あまりの苦しさに\nヴァスキは毒を吐いた。アムリタはこの毒に\n冒されそうになったが、シヴァが急いで毒を\n口に入れたため無事だったとされる。"
+ },
+ {
+  "id": 95,
+  "name": "Kinmamon",
+  "info": "The highest god of Ryukyu Shinto, he hails from the eternal kingdom Nirai Kanai and has protected the Ryukyu Islands throughout the ages. There is a Yin and Yang duality to this deity, however, as the one that came from the sky is Kiraikanaino Kinmamon, and the one that came from the sea is Ohokakerakuno Kinmamon. He is also known for granting the gift of wisdom, and typically appears before people through women.",
+  "info_jp": "琉球神道の最高神。常世の国ニライカナイ\nからやってくるといわれ、天地開びゃく\n以来、琉球国を守護してきた。\nこの神には陰陽があり、天より降って\nきたものを「キライカナイノキンマモン」、\nそして海より上ってきたものを\n「オホツカケラクノキンマモン」と呼ぶ。\n彼方より時を定めて寄り来る\nマレビト神であるともいわれ、女性に\n憑依して人々の前に現れることもあった\nという。"
+ },
+ {
+  "id": 96,
+  "name": "Ishtar",
+  "info": "A Mesopotamian goddess of love and war. Dubbed the \"Queen of Heaven,\" the planet Venus was often seen as the embodiment of the goddess herself. In the \"Epic of Gilgamesh,\" she makes many heroes her lovers, but the story also foretells that she will eventually kill them or turn them into animals.",
+  "info_jp": "アッカドの愛欲と戦争の女神。「天の女王」\nと呼ばれ、金星と同一視された。\n　\n「ギルガメシュ叙事詩」では、彼女は多くの\n英雄を愛人にするが、しばらくすると殺し\nたり、動物に変えてしまうとされている。"
+ },
+ {
+  "id": 97,
+  "name": "Parvati",
+  "info": "This beautiful goddess of love is one of Shiva's wives in Hindu mythology. She won Shiva's love despite the fact that he was an ascetic.",
+  "info_jp": "インド神話における、シヴァの妃の一柱。\n　\nその姿は非常に美しく、あらゆる美の象徴と\nされる。常にシヴァの傍らにあり、シヴァの\n第三の眼を開かせる一助を担ったという。"
+ },
+ {
+  "id": 98,
+  "name": "Makami",
+  "info": "A divine beast in Japanese mythology. They have been said to ward off evil and disasters, especially thefts and fire, and are commonly drawn on \"ema,\" a type of Japanese amulet. However, despite being known primarily for protection, they have also been rumored to eat people.",
+  "info_jp": "日本神話の神獣。狼が神格化した存在。\n　\n厄除け、特に火難や盗難から守る力が強いと\nされ、古くから絵馬などに描かれてきた。\nしかし一方では、人を喰らう獣として\n恐怖の対象でもあったとされる。"
+ },
+ {
+  "id": 99,
+  "name": "Anubis",
+  "info": "The jackal-headed god of the dead and embalming from Egyptian myth. He weighs the hearts of the dead at the Court of Osiris to determine their final destination. He is also said to govern the technique of mummification.",
+  "info_jp": "ジャッカルの頭を持つ、エジプト神話の\n死者を導く神。死者の魂を裁く\n「オシリスの法廷」で死者の心臓の重さを\n量り、天国に行けるかどうかを判断する\n役目を担う。またミイラ化の技術を司る\nとされる。"
+ },
+ {
+  "id": 100,
+  "name": "Cironnup",
+  "info": "\"Fox\" in the Ainu tongue. Though \"Sumari\" is another word for \"fox,\" chironnupu refers to \"those who we kill\"—which is to say, the various small-to-medium-sized Canidae. It is also a divine beast that alerts people to forthcoming disasters by howling loudly from the mountains.",
+  "info_jp": "アイヌの言葉で「キツネ」を指す。\n同じ「キツネ」を指すアイヌの言葉として\n「スマリ」があるが、チロンヌプには\n「我らが殺すもの」という意味があり、\nかつては小から中型の動物を総称した\n名称だったと言われている。\nアイヌでは災厄の予兆を伝える神獣とされ、\n山から大声で吠え、災害が迫っていることを\n人々に伝えるとされる。"
+ },
+ {
+  "id": 101,
+  "name": "Shiisaa",
+  "info": "A holy beast said to protect houses from evil and bless them with good fortune. It is known to have the power to repel evil, and ceramic statues made in its image are often placed on the roofs of houses in a similar fashion to gargoyles. In Okinawan culture, the souls of the deceased are said to become balls of fire and burn houses, but Shiisaa are said to keep the spirits out.",
+  "info_jp": "沖縄に伝わる獅子のような姿をした聖獣。\nあらゆる魔から家を守り、福を与えるとい\nう。魔除けの力を持ち、その姿の焼き物が\n家の屋根に置かれることで知られる。沖縄\nでは、死者の霊魂は火の玉となり、その\n一部が家に住みつき火災を起こすとされる\nが、シーサーはこの火の玉を追い払って\nくれるという。"
+ },
+ {
+  "id": 102,
+  "name": "Chimera",
+  "info": "The offspring of Typhon and Echidna, this monster in Greek mythology is part lion, part goat, and part dragon.",
+  "info_jp": "ギリシャ神話に登場する怪物。獅子と\n牡山羊の首、それに蛇の尾を持つという。\n　\n元来は季節を表す聖獣であったが、\nギリシャ神話に取り込まれる中で\n凶暴な魔物と見なされるようになった。\n父は風の巨人ティホン、母は蛇神エキドナ。"
+ },
+ {
+  "id": 103,
+  "name": "Unicorn",
+  "info": "A legendary white horse with a spiral horn on its forehead. It can only be tamed by a pure maiden. Its horn supposedly has miraculous healing capabilities.",
+  "info_jp": "スコットランドの伝説に残る、額に螺旋状の\n角をもった白馬。純潔を守る乙女にしか心を\n開かず、体に触れさせないという。\n一方でその角は、あらゆる病に効く万能薬の\n材料になるとされる。"
+ },
+ {
+  "id": 104,
+  "name": "Halphas",
+  "info": "One of the 72 demons of the Goetia. He is called the Count of death and destruction, and appears as a jet-black dove with blood-red eyes. He is a craftsman and builds towers full of weapons.",
+  "info_jp": "ソロモン王72柱の魔神の一柱。\n「死と破滅の伯爵」とも呼ばれ、\n血のように赤い目をした、闇のように\n黒いハトの姿で現れるとされる。\n建築の能力を持ち、軍備や武器に満ちた\n砦や城塞を建造するという。"
+ },
+ {
+  "id": 105,
+  "name": "Andras",
+  "info": "One of the 72 demons of the Goetia. The great Marquis of Hell, he appears wherever there is battle to stoke the hatred within soldiers. He is also said to help defeat the enemies of those who summon him.",
+  "info_jp": "ソロモン王72柱の魔神の一柱であり、\n序列63番の大侯爵。争いある場所に\n必ず姿を見せ、憎しみを煽動して更なる\n闘争を引き起こす不和の悪魔。召喚者の\nことを気に入ると、その敵を滅ぼす方法を\n授けるという。"
+ },
+ {
+  "id": 106,
+  "name": "Orobas",
+  "info": "One of 72 demons in Solomon's Goetia. It is said to appear as a human with a head of a horse. He answers all questions concerning past, present, and future and is both liked and respected by sorcerers. According to legend, he was often summoned by sorcerers seeking to see through lies or predict the future.",
+  "info_jp": "馬の頭部を持つ人間の姿で現われる\nとされる悪魔。\n　\n現在、過去、未来についてのいかなる質問\nにも答え、呼び出した魔術師に威厳と好意\nを与える。敵の嘘を見抜くため、あるいは\n未来の予測をするために、魔術師から頻繁に\n呼び出されていたようである。"
+ },
+ {
+  "id": 107,
+  "name": "Decarabia",
+  "info": "One of the 72 demons of the Goetia. He comes in the shape of a star and has vast knowledge of herbs and jewels. He can also control birds at will.",
+  "info_jp": "ソロモン王72柱の魔神の一柱。\n　\n五芒星図の姿をした奇妙な悪魔で、\n鳥と宝石について熟知しており、\n従える使い魔も鳥の姿であるという。"
+ },
+ {
+  "id": 108,
+  "name": "Flauros",
+  "info": "One of the 72 demons of the Goetia. He appears as a leopard and can see into both the past and the future. He can also control fire, which he uses to burn his adversaries to death.",
+  "info_jp": "ソロモン王72柱の魔神の一柱で、\n豹面の姿の戦士。\n　\n過去や未来を透視する力を持つとされる。\nまた火を自在に操り、望みのものを\n焼き滅ぼすという。"
+ },
+ {
+  "id": 109,
+  "name": "Melchizedek",
+  "info": "A Christian Gnostic angel said to be the \"savior of angels.\" In the Bible, he is described as the \"king of righteousness, Melchizedek.\"",
+  "info_jp": "キリスト教のグノーシス主義で\n「天使たちの救世主」とされた天使。\n女神ソフィアより生まれたとされる。\n聖書では正義の王メルキゼデク\nとして記されている。"
+ },
+ {
+  "id": 110,
+  "name": "Armaiti",
+  "info": "A female angel of Zoroastrianism and one of the Amesha Spenta. She is the daughter of the head god Ahura Mazda, and sits in his left hand. Armaiti's name can be roughly translated as “devotion,\" and she is also regarded as the personification of piety. It hurts her consciousness when a guilty person walks by, but she rejoices at the sight of people feeding their animals or obeying the heavens. Taromaiti is one of her rivals.",
+  "info_jp": "ゾロアスター教の、女性だといわれる\n大天使で、アムシャ・スプンタと呼ばれる\n存在に数えられる。\n最高神アフラ・マズダの娘とされ、\nその左手に座っていると言われている。\nまた大地を統括し、家畜に牧場を与える\n天使とされる。アールマティの名は\n「敬けん」という意味を持ち、彼女は\n信心深さや信仰心の化身であるとされる。\n罪のある人間が道を歩くと心を痛め、\n天則に従う者が家畜を養ったり、天則に\n従う子が生まれると喜ぶと言われている。\n彼女の敵対者としては、タローマティや\nパリマティが知られる。"
+ },
+ {
+  "id": 111,
+  "name": "Sraosha",
+  "info": "In Zoroastrian lore, Sraosha's duty is to listen to humanity's cry for Ahura Mazda. It is also known to descend after sunset to vanquish evil, and its name literally means \"observance.\"",
+  "info_jp": "ゾロアスター教では、人間の叫びを聞く\nアフラ・マズダの耳の役目を果たす。\n悪を討つために太陽が沈んだ後に地上に\n降り立つ大天使。その名は「耳を傾ける」\nという意味を持つ。"
+ },
+ {
+  "id": 112,
+  "name": "Metatron",
+  "info": "One of the greatest and most mysterious of the angels. Tasked with being the scribe and advocate of heaven, he has many names, such as the Voice of God and Angel of Contracts. In contrast to his duty to maintain the world, he is said to have a merciless side toward humanity.",
+  "info_jp": "天使の中で最も偉大で最も謎に満ちている\n者。神の顔、契約の天使など多数の異名を\n持つ。世界を維持する務めを担っていると\nされる反面、人々に残虐な行為を為す側面も\n併せ持つという。"
+ },
+ {
+  "id": 113,
+  "name": "Cybele",
+  "info": "Phrygian goddess of the earth, she had a cult following even in Rome. A goddess of the mountains of Phrygia, she is often depicted on a throne with lions on each side, or on a chariot pulled by lions, and is known to be a mistress of animals. Cybele was incorporated into Greek mythology as well but was often seen as Rhea, another earth goddess, and was eventually assimilated with her.",
+  "info_jp": "プリュギアの、大地の化身である太母神。\n前キリスト教時代のローマでも、\n熱狂的な崇拝をうけた。\nキュベレはプリュギアの山々の山頂に\n祀られた女神で、両側にライオンを置いた\n玉座に座った姿や、ライオンの引く戦車に\n乗った姿でよく表される。\n彼女は野獣たちを支配する者でもあった。\nキュベレはギリシア神話にも入るが、\n同じ大地の女神であるレアーと同一視\nされ、次第に融合された。"
+ },
+ {
+  "id": 114,
+  "name": "Skadi",
+  "info": "A giantess called the \"snowshoe goddess,\" she is the embodiment of winter. According to legend, all gods will return to her at the end of Ragnarok.",
+  "info_jp": "ケルト神話における、暗黒の女神。\n　\nその名は「影」を意味するが、これは\n最後の審判の日に神々が落ち行く所の\n「影」を意味するといわれる。\n女神スカアハと同一視される場合もある。"
+ },
+ {
+  "id": 115,
+  "name": "Inanna",
+  "info": "The Sumerian goddess of fertility. Her name means \"Lady of Heaven,\" and she is often viewed as one and the same with Aphrodite, Ishtar, and Venus. She is also a goddess of warfare, and it is said that even male gods feared her great power.",
+  "info_jp": "シュメール神話に登場する豊饒の女神。\nその名は「天の女主人」を意味する。\n彼女は豊穣の女神として\n「アフロディーテ」、「イシュタル」、\n「ヴィーナス」といった神々とも同一視\nされ、多くの者から信仰を集めていた。\n外敵を排除する神としての一面も持って\nおり、その力は男神でさえ蝙蝠の如く\n逃げ帰るほどであったとされる。"
+ },
+ {
+  "id": 116,
+  "name": "Kodama",
+  "info": "In Japanese mythology, they are the spirits of plants. They are born from trees that live 100 years.",
+  "info_jp": "日本の伝承に語られる、草木の霊。\n樹齢100年を超える樹木に宿ると\nいわれる。"
+ },
+ {
+  "id": 117,
+  "name": "Sudama",
+  "info": "Earth spirits in Japanese mythology. They are born from ancient trees and boulders. They are not evil but will transform into humans or monsters to warn people not to infiltrate their mountains.",
+  "info_jp": "日本の伝承に語られる山水木石の霊。\n長い年月を経た巨木や巨岩に宿るという。\n　\n邪悪ではないが、山野の監視者としての属性\nがあるため、人や怪異の姿を借りて現れ、\n警告を与えることがあるという。"
+ },
+ {
+  "id": 118,
+  "name": "Tsuchigumo",
+  "info": "Monsters said to come from the bastardization of certain clans of Japan. The word carries the literal meaning of \"dirt spider.\" Those who did not pledge allegiance to the Imperial Court were called this derogatory term because of their short stature and spindly limbs. As time passed, people may have misinterpreted the name for a literal meaning and made them into spiders, or perhaps the manifestations of grudges of those who were persecuted by the Imperial Court.",
+  "info_jp": "土蜘蛛。記紀神話における日本の原住の民が\n貶められて成ったとされる。\n　\n穴居人であった彼らは、手足がひょろ長く\n背が低かったが、その姿を蔑称して\n土蜘蛛と呼ばれたという。\n時の朝廷からの討伐や迫害に遭い、\n山岳地帯へと逃れた彼らが、時代を経て\n妖怪として解釈されたか、もしくは\nその怨念によって巨大な蜘蛛の妖怪に\n変化したと考えられている。"
+ },
+ {
+  "id": 119,
+  "name": "Archangel",
+  "info": "Eighth of the nine orders of angels. They are responsible for ministering to humans and delivering messages. As warriors of the heavens, they lead the armies of heaven against the forces of dark.",
+  "info_jp": "神学に基づく天使のヒエラルキーにおいて\n第8位「大天使」に数えられる下級天使。\n神の意志を人間に伝える役目を担う。\nまた天界の戦士でもあり、闇の軍勢との\n戦いでは天の軍勢を率いるという。"
+ },
+ {
+  "id": 120,
+  "name": "Principality",
+  "info": "The seventh of the nine orders of angels. They are charged with overseeing the welfare of countries and civilizations.",
+  "info_jp": "神学に基づく天使のヒエラルキーにおいて\n第7位「権天使」に数えられる下級天使。\n国家や文明の盛衰を司るとされる。"
+ },
+ {
+  "id": 121,
+  "name": "Dominion",
+  "info": "The fourth of the nine orders of angels. Their name carries the meaning of \"governance,\" and it is their duty to oversee the other angels. It is said that their work is the embodiment of God's will, and that they wish for this governance to spread throughout the cosmos.",
+  "info_jp": "神学に基づく天使のヒエラルキーにおいて\n第4位「主天使」に数えられる中級天使。\n名は「統治」の意。\n\n天界の行政官として、天使たちの働きを\n統制する役割を担うとされる。彼らの行動は\n神の意思の表れであり、その統治が宇宙に\n行き渡ることを望んでいる。"
+ },
+ {
+  "id": 122,
+  "name": "Throne",
+  "info": "The third of the nine orders of angels. Their Hebrew name, Ophan, carries the meaning of \"wheel.\" They are the highest-ranking angels to carry a material body and are tasked with carrying the seat of God.",
+  "info_jp": "神学に基づく天使のヒエラルキーにおいて\n第3位「座天使」に数えられる上級天使。\n名は「車輪」の意。物質の体をもつ天使と\nしては最上級に当たり、神の玉座を運ぶ者\nとされる。"
+ },
+ {
+  "id": 123,
+  "name": "Dionysus",
+  "info": "The Greek god of wine and theater. He had two births. Myth tells that Zeus took the premature Dionysus from his dying mother, Semele, and allowed him to mature inside his thigh so that the underdeveloped god might have a proper birth.",
+  "info_jp": "ギリシャ神話の酒と演劇の神。\n主に女性から熱狂的な信仰を集めた。\n元来はトラキアの山脈を守護する\n生命の神。ブドウの木を発見し、\nその栽培とブドウ酒の製法を人間に\n普及させたといわれる。"
+ },
+ {
+  "id": 124,
+  "name": "Asura",
+  "info": "Virochana, king of the Asura tribe of India. In Buddhism, he is known as Mahāvairocana. The god of fire and light, he is said to light up the universe to guide all things to be good.",
+  "info_jp": "インドのアスラ族を統べる、\n大王であるマハーヴィローシャナ。\n仏教では大日如来として知られる。\n炎と光の神であり、宇宙をあまねく\n照らし出し、万物を善き者へと育む力を\n有しているとされる。"
+ },
+ {
+  "id": 125,
+  "name": "Surt",
+  "info": "A fire giant in Norse mythology. He rules over Muspelheim, the realm of fire, and brandishes a sword of flame called \"Laevateinn.\" It is said he will set the world ablaze come Ragnarok, a series of events marking the end times.",
+  "info_jp": "北欧神話で、火の国ムスペルヘイムを支配\nする巨人の王。手には炎の剣「レーヴァ\nテイン」を持つ。神々の黄昏ラグナロクに\n際し、軍勢を率いてアスガルドへ攻め上り、\nアース神族を討ち滅ぼしたとされる。"
+ },
+ {
+  "id": 126,
+  "name": "Amon",
+  "info": "One of the 72 demons of Solomon's Ars Goetia. He is the seventh spirit of Goetia and the Grand Marquis of Hell. Amon is depicted in several different forms, sometimes appearing as a wolf with a serpents tail and other times appearing as having the head of an owl, the torso of a wolf, and snake tail behind, or sometimes replacing, his hind legs. It is said that he bestows knowledge of the past and the future. He is also incredibly loyal, having led his army to assist Satan when Satan rebelled against God.",
+  "info_jp": "ソロモン王72柱の魔神の一柱。\n\n序列7番の地獄の侯爵。\nアモンの姿は多様であり、ある時は蛇の尾を\n持つ狼の姿、またある時はフクロウの頭と\n狼の胴と前足、蛇の尾をもつ姿で現れると\nいう。エジプトの神「アメン」と同一視\nされる。"
+ },
+ {
+  "id": 127,
+  "name": "Inugami",
+  "info": "Spirits of dogs said to possess humans in Japanese folklore. Those possessed enter a state of \"inu-tsuki\" and go crazy. Onmyoji, or Japanese sorcerers, summon them to do their will.",
+  "info_jp": "日本の伝承の中で、古来より人間の体に\nとりつくと信じられている犬の霊。\n　\nイヌガミに乗り移られた人間は「犬つき」と\n呼ばれる状態に陥り、正気を失うとされる。\nまた、陰陽師に式神として使われることも\nあるという。"
+ },
+ {
+  "id": 128,
+  "name": "Orthrus",
+  "info": "The two-headed dog and younger brother of Cerberus who protected the Titan Geryon's red cattle in Greek lore. Despite his skill as a guard, Hercules killed him in one blow while performing one of his twelve great labors.",
+  "info_jp": "ギリシャ神話において、世界の果ての島に\n棲む怪物ゲリュオンの牧場を守護したとい\nう双頭の巨犬。非常に優秀な番犬であった\nが、英雄ヘラクレスが12の難事を行う\n中で一撃の下に殺されてしまったという。"
+ },
+ {
+  "id": 129,
+  "name": "Cerberus",
+  "info": "The guardian hound of Hades in Greek lore. It traditionally has three heads and a snake's tail. It was born from Typhon, the giant of wind, and Echidna, the mother of monsters, and is also the older brother of Orthus.",
+  "info_jp": "ギリシャ神話に登場する勇猛な巨犬。風の\n巨人テュポーンを父、蛇神エキドナを母に\n持ち、オルトロスの兄に当たる。蛇の尾を\n持ち、暗黒の大穴タルタロスで番犬を務め\nるとされる。"
+ },
+ {
+  "id": 130,
+  "name": "Thoth",
+  "info": "An almighty god of Egyptian lore with the head of a baboon. He stands opposite Seth, the god of evil, and sides with Osiris and Isis, the gods of good.",
+  "info_jp": "エジプト神話に登場する全能の神。\nヒヒの頭を持っている。\n　\n悪神セトとは常に反目する立場を取り、\nオシリス、イシスといった善性の神々に\n従って行動したとされる。"
+ },
+ {
+  "id": 131,
+  "name": "Arahabaki",
+  "info": "A major deity in ancient Japanese mythology. Clay dolls were often sculpted in its image. However, because this god was known to be worshiped by a rebel, the dolls later came to be considered symbols of defiance.",
+  "info_jp": "古代日本神話における主神。\nその姿は遮光器土偶に象られ、表される。\n　\n神武天皇の東征軍に敗れたナガスネヒコが\n仰いだ事から、天皇家への逆賊の象徴として\n見なされ、長らく信奉が弾圧されてきたと\nされる。"
+ },
+ {
+  "id": 132,
+  "name": "Zeus",
+  "info": "The main deity of Greek mythology. Said to be omnipotent, he is both god of the sky and ruler of the twelve gods of Olympus. He is a son of the titan Cronus and brother to both Hades and Poseidon. Upon defeating his father, he claimed the right to rule the entire universe. He also fathered many children with not only goddesses but a number of human women as well.",
+  "info_jp": "ギリシャ神話の主神。\n全知全能の存在とされている天空神にして、\nオリンポス十二神をはじめとする神々の王。\n\nクロノスの子であり、ハデスとポセイドンの\n兄弟。\n父神であるクロノスを打倒し、全宇宙の\n支配権を手に入れる。\nまた女神だけでなく、様々な人間の女性との\n間にも多数の子供たちをもうけたという。"
+ },
+ {
+  "id": 133,
+  "name": "Ardha",
+  "info": "A god both male and female. They are the result of the god of destruction, Shiva, and his wife Parvati fusing, and are heralded as the ideal form of a god in Shaktism.",
+  "info_jp": "男らしさと女らしさを兼ね備えた両性の神。\n破壊神シヴァとその妻パールヴァティの融合\nした姿であり、シャクティズムの理想である\n完全なる合一を果たした完璧なる神の姿。"
+ },
+ {
+  "id": 134,
+  "name": "Yoshitsune",
+  "info": "A Japanese general of the Genpei War near the end of the Heian era and start of the Kamakura era. Also known as Ushiwakamaru, he is said to have learned the art of war from the Mt. Kurama Tengu. On joining his half- brother Yoritomo's army, he defeated the Taira one by one, finishing them off at the battle of Dan-no-ura. He was later pursued by Yoritomo's army and ultimately killed himself at Koromogawa.",
+  "info_jp": "源義経。源平合戦の英雄として有名な武将\n「牛若丸」の幼名でも知られる。平安時代の\n末期から、鎌倉時代初期にかけて活躍した\nとされる人物で、源家の総帥である源義朝の\n九男として生まれ、京都の東の外れにある\n鞍馬寺で育てられたとされる。伝説では\n鞍馬山の天狗に武芸を教わったといわれて\nおり、五条大橋での武蔵坊弁慶との戦いで\n知られる。壇ノ浦の戦いで平家を破った後、\n兄である頼朝と対立して追われる身と\nなり、衣川で自刃したとされる。"
+ },
+ {
+  "id": 135,
+  "name": "Mithras",
+  "info": "A sun deity who was worshiped in the Roman Empire from the 1st to the 4th century AD. The rituals of the religion were secretive, but it is believed they entailed covering oneself in the blood of sheep and bulls. He was said to be reborn after death, inspiring worshipers to hold a festival each winter solstice.",
+  "info_jp": "1世紀から4世紀のローマ世界を中心に崇拝\nされた太陽神。人々を苦難から救済する\n英雄的な神として崇められた。\n　\nその宗教儀式は、他者に内容を明かさない\n密儀であったといわれるが、生贄とした羊や\n牛の血を浴びる形式だったらしいことは\n伝わっている。死しても復活する神であった\nとされ、その復活を象徴する冬至には、この\nミトラス神を称える大祭が行われたという。"
+ },
+ {
+  "id": 136,
+  "name": "Lilim",
+  "info": "A demon in female form from Judeo-Christian lore known to tempt sleeping men and attack infants. She is the daughter of the demoness Lilith, who tempted Adam. Like her mother, she drains men of their essence.",
+  "info_jp": "ユダヤ伝承の、女性の姿をした夢魔。\n眠っている男を誘惑したり、新生児を襲う\nという。\n　\nアダムを誘惑した女悪魔リリスから生まれた\n存在だとされ、母親同様に男たちの精気を\n吸い取るという。"
+ },
+ {
+  "id": 137,
+  "name": "Incubus",
+  "info": "A male demon of popular European folklore during the medieval ages and the male counterpart to the succubus. They are known to visit women in their sleep and have sex with them, bringing about horrendous nightmares. The offspring born from these incidents are said to later become witches and wizards.",
+  "info_jp": "ヨーロッパ各地の伝承に残る男性の夢魔。\n女性のサキュバスと対をなす。眠っている\n女性の夢に忍び込み、子供を身篭らせると\nいう。また生まれた子供は悪霊や魔女など\nであるとされる。\nインキュバスに取りつかれたら教会で\n祈祷を受けると良いとされるが、\nそれでも追い払うだけで、退治までは\nできないという。"
+ },
+ {
+  "id": 138,
+  "name": "Bicorn",
+  "info": "An evil creature that looks like a horse with two curving horns. It is said to be the opposite of a Chichevache, but theory speculates that it is a mistranslation of \"Re'em,\" a two horned beast that appears in the Old Testament.",
+  "info_jp": "額に2本の螺旋角をもつ馬の姿の邪悪な\n怪物。名は「2本角」と「三日月形」の\n双意に解釈できるが、正しい起源は判然と\nしない。旧約聖書中の2本角の動物\n「レーム」の誤訳とする説もある。"
+ },
+ {
+  "id": 139,
+  "name": "Bugs",
+  "info": "A type of goblin from Welsh folklore that eats children who don't listen to their parents. They are said to look like humans covered head to toe with hair, and are recognized as an iconic monster that appears at nighttime. They are often spoken of by mothers wishing to discipline their children as noted in the popular phrase, \"For naughty kids who disobey, the Bugs will come and surely prey.\"",
+  "info_jp": "イギリスのウェールズ地方で\n『バグベア』と呼称される妖精の1種。\n多くの違った名前がある。\n親の言うことを聞かない子供を捕まえて\n食べてしまうとされ、母親たちが子供を\n脅かす為に名前を利用した。"
+ },
+ {
+  "id": 140,
+  "name": "Nue",
+  "info": "A legendary monster in Japanese mythology. It has the head of a monkey, the body of a tanuki, the arms and legs of a tiger, and the tail of a snake. Due to its bizarre appearance, the term \"Nue\" is sometimes used to describe a person of unknown origins. According to The Tale of Heike, the Nue would come to the emperor's palace every night from 2 to 2:30 A.M., shrouded in a dark cloud, where it would howl in a horrific and terrifying manner. However, the warrior Minamoto no Yorimasa eventually shot it down with his bow.",
+  "info_jp": "日本の伝承に出てくる怪物。猿の頭に虎の\n手足を持ち、胴は狸、尾は蛇だとされる。\n　\nその奇怪で曖昧な姿から、ヌエは正体不明の\n人物のたとえなどにも使われる。\nまた現れる時には独特の声で鳴くという。\n平家物語によれば、毎晩の丑三つ刻、黒雲に\n隠れて天皇の御所を襲ったが、源頼政という\n武将が弓矢で見事に射ち落とし、これを退治\nしたという。"
+ },
+ {
+  "id": 141,
+  "name": "Fenrir",
+  "info": "A giant wolf creature of Nordic lore and son of the evil god Loki. Fenrir is destined to kill Odin at Ragnarok. On that day, his magical bindings will be broken, and he will rise against the Aesir in combat.",
+  "info_jp": "北欧神話の巨大な狼の怪物。悪神ロキの\n息子で、世界の終わりにはオーディン神を\n飲み込むという。魔法の紐グレイプニルで\n縛り付けられているが、世界の終わり\nラグナロクの日にこの捕縛が解かれ、神々と\n戦うとされる。"
+ },
+ {
+  "id": 142,
+  "name": "Setanta",
+  "info": "A brave young man in Celtic myth. After defeating a local smith’s fierce guard dog, he volunteered to take its place, thus earning himself “Cu Chulainn,” or \"Culann's Hound,\" as his nickname.",
+  "info_jp": "アイルランドの神話に登場する、勇敢な若\n者。獰猛な番犬を素手で打ち倒した後、\n自らがその代わりの護衛を買って出たこと\nから「猛犬」の異名を受けたという。"
+ },
+ {
+  "id": 143,
+  "name": "Koppa Tengu",
+  "info": "A smaller member of the Tengu race less powerful than other Tengu. They are believed to be the reincarnations of old wolves and are also said to be capable of eventually transforming into Karasu Tengu.",
+  "info_jp": "天狗の同族。\n　\n霊力において他の天狗に劣るため、姿は\n小柄。長寿の狼が化身して生まれると\nいわれ、変化の後はカラステングと同様の\n姿を得るとされる。"
+ },
+ {
+  "id": 144,
+  "name": "Nozuchi",
+  "info": "A spirit of earth from Japanese lore whose name means \"god of fields.\" Though not innately evil, its temper may cause it to attack humans from behind trees or bushes.",
+  "info_jp": "日本記紀で古くから山に住むとされる蛇の\n精霊で、地脈を司るともいわれる。\n「野槌」と表記されるその名の由来は、\n日本の古語の「野の神」だとされる。\n山奥の木の陰や藪の中に住み、\n頭の先には大きな口があるものの、\n目や鼻はないといわれる。\n邪悪ではないが気性が荒く、人間を見ると\n危害を加え、食らうこともあるという。"
+ },
+ {
+  "id": 145,
+  "name": "Vouivre",
+  "info": "A female dragon sometimes depicted as a beautiful woman with bat wings, eagle legs, and a snake tail. The secret of their power is the garnet gem on their forehead. If stolen, the Vouivre loses its power and must obey the gem's owner.",
+  "info_jp": "コウモリの翼にワシの足、毒蛇の尾を持った\n女の龍。美しい女の精霊とされることもあ\nる。その力の秘密は、額の小さな割れ目\nにあるガーネットで、これをなくしたり\n盗まれたりすると一切の魔力を失い、\nそのガーネットの所持者の言い付けを\n全て聞かなくてはならないという。"
+ },
+ {
+  "id": 146,
+  "name": "Yurlungur",
+  "info": "A giant copper python from Oceanian folklore, more specifically that of the Yolngu people of northern Australia. A being that transcends good and evil, he governs the weather and is considered a god of harvest. He is known as the \"Rainbow Serpent\" because the water in the sacred pool he calls home is said to shine like a rainbow.",
+  "info_jp": "オセアニア神話に伝わる、\n銅の体を持つニシキヘビ。\n　\n善悪を超越した偉大な存在であり、気象をも\n司るとされる豊穣神。虹色の水を湛えた\n聖なる泉に棲むことから「虹の蛇」とも\n呼ばれる。"
+ },
+ {
+  "id": 147,
+  "name": "Quetzalcoatl",
+  "info": "An Aztec creator deity known as the Feathered Serpent. He is identified as the sun and is also known as the god of wind and giver of breath. He is said to have created humans by sprinkling blood on the bones of people from a previously created world, and acts as guardian of their fertility and culture. According to legend, the planet Venus is actually Quetzalcoatl's heart.",
+  "info_jp": "アステカ神話における創造神。\nその名は「羽毛のある蛇」の意。\n　\nその姿は翼を持つ大蛇で、太陽と同一視\nされ、また呼吸を与える風の神ともされる。\n自らの血で人を造ったと言われ、人間の\n守護者として、その豊穣と文化を培う。\nまた金星はケツアルカトルの心臓であると\n言われている。"
+ },
+ {
+  "id": 148,
+  "name": "Vritra",
+  "info": "A large, violent serpent of Hindu lore whose name means \"enveloper.\" It blocked the rivers and caused severe droughts throughout the land, only to later be defeated by the guardian deity Indra, who brought rain back to the people. Despite this, Vritra resurrected itself the following year, and the struggle between the two forces has continued ever since.",
+  "info_jp": "インド神話の凶暴な巨大龍。\nその名は「障害物」を意味し、天空の\n川を塞き止め干ばつをもたらす。\n雷神インドラに倒され地上は潤うが、\nヴリトラは次の年、再び復活する。\nこの二者の戦いは永遠に続くという。"
+ },
+ {
+  "id": 149,
+  "name": "Ananta",
+  "info": "The 1,000-headed serpent of Hindu legend, Ananta is Sanskrit for \"infinite.\" Vishnu slept atop him before waking up to create the universe.",
+  "info_jp": "インド神話の世界蛇で、世界の始まりと\n終わりに現れるとされる、ナーガの王。\n　\n果てしなく続く乳海に立つアナンタの上には\nヴィシュヌ神が眠っており、目を覚ますと\n世界の創造を始めたとされる。"
+ },
+ {
+  "id": 150,
+  "name": "Feng Huang",
+  "info": "The legendary bird of Chinese myth, said to appear only in times of peace. It is the ruler of all birds. When it dies, birds across the land chirp with sadness.",
+  "info_jp": "古代中国の伝説に登場する鳥。世の中が\n平和なときにだけ現れるといわれている。\n鳥類の王または長のような存在で、\nホウオウが息を引き取った際には多くの\n鳥が嘆き悲しむといわれている。"
+ },
+ {
+  "id": 151,
+  "name": "Thunderbird",
+  "info": "A revered bird of Native American mythology said to live atop cloud-shrouded peaks. It resembles an eagle, and its wingbeats create mighty thunderclaps. Some legends say its eyes can unleash lightning, and other accounts say it can carry an entire lake on its back or even swallow an entire whale whole.",
+  "info_jp": "北アメリカ先住民の神話に登場する、\n天界の精霊である巨大な霊鳥。\n鷲に似た姿で空の高みに棲んでいる\nといわれる。鳴き声や羽ばたきは\n雷となり、眼から発する光は稲光に\nなるとされる。また湖全体を背中に乗せて\n運んだとも、クジラを丸ごと食べてしまった\nともいわれ、その巨大さが伝えられている。"
+ },
+ {
+  "id": 152,
+  "name": "Dormarth",
+  "info": "A canine demon that appears in Celtic mythology. Its name means \"death's door\" and, just as the name indicates, it guards the gates leading to the afterlife.",
+  "info_jp": "ケルト神話に登場する犬の悪魔。\n　\nその名は「死の門」の意味で、死後の世界の\n門番をしているとされる。"
+ },
+ {
+  "id": 153,
+  "name": "Anahita",
+  "info": "A Zoroastrian goddess whose name means \"pure.\" While primarily known as a beautiful deity who rules over rivers and water, she is also said to be the goddess of health, fertility, safe delivery, production of livestock, harvest, wealth, and expansion of land. She is often portrayed as an elegant virgin wearing a crown decorated with numerous stars in addition to a golden necklace and a golden cape, and is typically shown holding a water jug. Gentle appearance aside, she is also a brave god of war astride a four-wheeled chariot, toppling demons and tyrants alike. Both her allies and her enemies have been said to have offered their prayers to her.",
+  "info_jp": "ゾロアスター教・ペルシャ神話の女神。\nその名は「清浄」を意味する。\n\n美しい乙女の姿をした川や水を司る水神だが\n健康、子宝、安産、家畜の生殖・作物の\n豊饒の神ともされ、財産や土地の増大をも\n司る。"
+ },
+ {
+  "id": 154,
+  "name": "Satan",
+  "info": "The prince of darkness in Judeo-Christian lore, his name means \"opposer,\" and he is best known for his role as the serpent who tempted Adam and Eve in the Garden of Eden. Some believe that he has been sent by God to test man's piety.",
+  "info_jp": "名に「敵対者」の意味を持つ\nユダヤ教・キリスト教の闇の天使。\nエデンの園でアダムとイヴを誘惑した悪しき\n蛇としても知られる。またヨブ記では、\n信仰者であるヨブを試す神の僕として\n描かれ、人間を審判するために天界から\n遣わされた告発する天使であると言われる。"
+ },
+ {
+  "id": 155,
+  "name": "Nemissa",
+  "info": "A digital being involved with an incident in Amami City some time ago, manifested by possessing a girl named Hitomi. Evidence suggests this demon opposed a large-scale conspiracy alongside the known hacker group, \"Spookies\". An Algonquian legend describes a maiden of the stars with the same name, said to have seduced a mortal man known as Cloud-carrier. By her invitation, he entered the country of stars, where the two were married.",
+  "info_jp": "かつて天海市で起きた事件の際に確認された\n電霊。ヒトミという少女に憑依し実体化\nした。ハッカー集団・スプーキーズと共に\n巨大な陰謀に立ち向かったという。\n\n北米の先住民族の神話に同一の名を持つ\n星の乙女についての言い伝えが残されて\nいる。彼女は雲の運び手と呼ばれる男の前に\n現れ、その美しさによって星の国へと誘い\n夫婦となったと伝えられている。"
+ },
+ {
+  "id": 156,
+  "name": "Hell Biker",
+  "info": "A biker-turned-Fiend claiming to have come from the depths of hell. With an intense hatred of the world, not to mention himself, he degraded into a complete lunatic who expresses himself solely through violence.",
+  "info_jp": "「地獄の天使」を名乗る、悪魔として\n顕現した怒れるライダー。\n己を憎み、世を憎んだその怒りは、\n自らを暴力のみを意思伝達能力とする\n忌まわしい存在へと変えた。"
+ },
+ {
+  "id": 157,
+  "name": "Ai-ho",
+  "info": "Another possibility calculated by Aion. This adorable Jack Frost is a fairy with the powers of Aion and a familiar demonic appearance, born through advanced technology. He comes from a world where Aion decided that, actually, THIS is the optimal form for stopping the apocalypse. In this merciless dystopia, his cute, captivating eyes are his greatest weapon. Ordinarily, Ringo and this avatar would never meet, but a mysterious power has brought them together.",
+  "info_jp": "それはもしもの可能性の1つ。Aionの\n演算が、愛らしいジャックフロストの姿\nこそが、人の世界の終わりを止めるための\n最適な姿だと導き出した世界において、\n高度な技術により生み出された妖精。\nAionの能力と悪魔の姿を併せ持つ。\n目を合わせたものの心を奪う、キュートで\nつぶらな瞳が、過酷なこの世界を生き抜く\nための最大の武器だ。\n\n本来であれば、リンゴとは交わらないはずの\n存在であるが、不思議な力に導かれて邂逅を\n果たした。"
+ },
+ {
+  "id": 158,
+  "name": "Aitvaras",
+  "info": "A fairy in Lithuanian mythology. Indoors, it takes the form of a black cat or a rooster. Outdoors, it takes the form of a small dragon or a snake with a burning tail. The Aitvaras makes the home it inhabits rich by stealing from its neighbors. It is said that it typically demands an omelet as compensation and is difficult to chase away once it's settled into a home. It can, however, be exterminated by shining it with the flame of a candle purified by the church.",
+  "info_jp": "リトアニアの伝承における蛇の精霊。\n\n屋内では黒猫ないし雄鶏、屋外では小さな\nドラゴンないし尾が燃えている蛇に姿を\n変える。アイトワラスは、隣家から牛乳や\n穀物、金品を盗むことで居ついた家を\n裕福にする。また盗みの対価として\nオムレツを要求するとされる。\n一度家に居ついてしまったアイトワラスを\n追い出すことは非常に困難だが、教会で\n清めたロウソクで照らすことで消滅させる\nことができると言われている。"
+ },
+ {
+  "id": 159,
+  "name": "Isis",
+  "info": "The mother goddess of Egypt. She is wife and sister to Osiris, god of the underworld. Known for her powerful magic, she could perform miracles such as raising her husband from the dead. As the patron goddess of the dead, her image can be found at many burial sites.",
+  "info_jp": "エジプトの母と呼ばれる女神。\n冥界の神オシリスの妹および妻ともされる。\n\n砂嵐の神セトにより夫がバラバラにされた後\nその遺骸を結び合わせ、失われた男根を\n造り出して復活させると、彼と交わり、\nホルスを産んだという。死者の守護女神\nとして数々の墳墓の図像にその姿を\n見ることができる。またイシスが哺乳する\n図像は、幼児イエスを抱いたマリアの\n原型になったといわれている。"
+ },
+ {
+  "id": 160,
+  "name": "Neko Shogun",
+  "info": "The god of prophecy in Taoist religion. It is said to have the head of a cat and the body of a human, and it's shrine was located in Annam, which is present-day Vietnam. The shrine was meant for Mao Shangshu, a 14-15th century general who conquered Vietnam, but, because the name \"Mao\" is similar to the Chinese word for cat, the temple was effectively misnamed, and he was reborn as a different god. It should also be noted that there is a similar story about the god of sailing known as \"Tetsu Neko Shogun.\"",
+  "info_jp": "予言能力に優れたとされる道教の神で\n「猫将軍」と表記される。\n\n人の身体に猫の頭を持つ姿とされ、安南、\n今のベトナムに当たる場所に、その廟が\nあったという。元々ここは14～15世紀の\n武将、毛尚書をまつったものであったが、\n「毛」の発音が「猫」と同じであった\nために、「猫将軍」という別の神として\n生まれ変わったらしい。ちなみにこれと\n似た由来では、鉄猫将軍と呼ばれる\n航海の神様もいる。"
+ },
+ {
+  "id": 161,
+  "name": "Pixie",
+  "info": "A small faerie found in southwest Britain known for their cheerful nature and love of pranks. Their physical appearance changes from region to region, but their personality is always playful and mischievous. A common prank they like to pull is causing humans to wander in circles. However, they are also known to help farmers from time to time and are generally considered good faeries.\n\nThey are back now in their Soul Hackers form.",
+  "info_jp": "イギリス南西部に棲む小型の妖精。\n陽気で悪戯好きな性格とされる。\n各地方で伝えられる姿がやや異なる\nものの、その性格は概ね一致している。\n代表的な悪戯に「ピクシー・レッド」と\n呼ばれるものがある。人間に同じ場所を\n輪を描くように、延々と歩かせ続ける\nものだ。一方で農作業の手伝いをする面\nなどもあり、全面的に良い妖精とされる。\n\n『デビルサマナー　ソウルハッカーズ』の\n姿で再登場。"
+ }
+]

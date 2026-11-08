@@ -1,0 +1,2316 @@
+{
+ "1": [
+  "Dormarth",
+  "Hare of Inaba",
+  "Poltergeist",
+  "Tsuchigumo"
+ ],
+ "2": [
+  "Kaburagi",
+  "Leanan Sidhe"
+ ],
+ "3": [
+  "Ara Mitama"
+ ],
+ "4": [
+  "Poltergeist",
+  "Tsuchigumo"
+ ],
+ "5": [
+  "Dormarth",
+  "Poltergeist"
+ ],
+ "6": [
+  "Hare of Inaba",
+  "Jack Frost",
+  "Titania"
+ ],
+ "7": [
+  "Dormarth",
+  "Poltergeist",
+  "Strawberry Frost",
+  "Tsuchigumo"
+ ],
+ "8": [
+  "Dormarth",
+  "Hare of Inaba",
+  "Poltergeist",
+  "Tsuchigumo"
+ ],
+ "9": [
+  "Koropokkur",
+  "Tsuchigumo",
+  "Turbo Granny"
+ ],
+ "10": [
+  "Gremlin",
+  "Hare of Inaba",
+  "Onmoraki",
+  "Pixie",
+  "Succubus",
+  "Titania"
+ ],
+ "11": [
+  "Ananta"
+ ],
+ "12": [
+  "Ananta"
+ ],
+ "13": [
+  "Dormarth",
+  "R.S."
+ ],
+ "14": [
+  "Dormarth",
+  "R.S."
+ ],
+ "15": [
+  "Hare of Inaba"
+ ],
+ "16": [
+  "Hare of Inaba"
+ ],
+ "17": [
+  "Hare of Inaba"
+ ],
+ "18": [
+  "Aion",
+  "Aion Zoa"
+ ],
+ "19": [
+  "Aion",
+  "Apostle"
+ ],
+ "20": [
+  "Cironnup",
+  "Take-Minakata"
+ ],
+ "21": [
+  "Ash",
+  "Basilisk",
+  "Inugami"
+ ],
+ "22": [
+  "Ash",
+  "Basilisk",
+  "Inugami",
+  "Lilim",
+  "Pazuzu"
+ ],
+ "23": [
+  "Cu Chulainn",
+  "Iron Mask",
+  "Power",
+  "Silky",
+  "Vouivre",
+  "Zenon"
+ ],
+ "24": [
+  "Power",
+  "Raven",
+  "Silky",
+  "Vouivre"
+ ],
+ "25": [
+  "Cerberus",
+  "Cu Chulainn",
+  "Girimekhala",
+  "Hozumi",
+  "Titania"
+ ],
+ "26": [
+  "Zenon Type-0"
+ ],
+ "27": [
+  "Kinmamon",
+  "Nana",
+  "Yoshitsune"
+ ],
+ "28": [
+  "Ardha"
+ ],
+ "29": [
+  "Iron Mask",
+  "Zenon"
+ ],
+ "30": [
+  "Dormarth"
+ ],
+ "101": [
+  "Dormarth"
+ ],
+ "102": [
+  "Dormarth",
+  "Tsuchigumo"
+ ],
+ "103": [
+  "Tsuchigumo"
+ ],
+ "104": [
+  "Dormarth"
+ ],
+ "105": [
+  "Poltergeist"
+ ],
+ "106": [
+  "Dormarth",
+  "Poltergeist"
+ ],
+ "107": [
+  "Dormarth",
+  "Tsuchigumo"
+ ],
+ "108": [
+  "Tsuchigumo"
+ ],
+ "109": [
+  "Dormarth",
+  "Tsuchigumo"
+ ],
+ "110": [
+  "Tsuchigumo"
+ ],
+ "111": [
+  "Dormarth",
+  "Tsuchigumo"
+ ],
+ "112": [
+  "Dormarth",
+  "Tsuchigumo"
+ ],
+ "113": [
+  "Tsuchigumo"
+ ],
+ "201": [
+  "Hare of Inaba"
+ ],
+ "202": [
+  "Hare of Inaba",
+  "Tsuchigumo"
+ ],
+ "203": [
+  "Hare of Inaba",
+  "Onmoraki"
+ ],
+ "204": [
+  "Onmoraki"
+ ],
+ "205": [
+  "Cironnup",
+  "Onmoraki"
+ ],
+ "206": [
+  "Cironnup"
+ ],
+ "207": [
+  "Hare of Inaba",
+  "Mokoi"
+ ],
+ "208": [
+  "Cironnup",
+  "Mokoi"
+ ],
+ "209": [
+  "Mokoi",
+  "Onmoraki"
+ ],
+ "210": [
+  "Gremlin",
+  "Onmoraki"
+ ],
+ "211": [
+  "Gremlin",
+  "Onmoraki"
+ ],
+ "212": [
+  "Gremlin",
+  "Mokoi"
+ ],
+ "213": [
+  "Bicorn",
+  "Cironnup"
+ ],
+ "214": [
+  "Bicorn"
+ ],
+ "215": [
+  "Bicorn",
+  "Gremlin"
+ ],
+ "216": [
+  "Bicorn",
+  "Mokoi"
+ ],
+ "217": [
+  "Bicorn",
+  "Gremlin"
+ ],
+ "218": [
+  "Bicorn"
+ ],
+ "219": [
+  "Tsuchigumo"
+ ],
+ "220": [
+  "Mokoi"
+ ],
+ "221": [
+  "Bicorn",
+  "Koropokkur"
+ ],
+ "222": [
+  "Bicorn",
+  "Cironnup"
+ ],
+ "280": [
+  "Eight-Legged Devourer"
+ ],
+ "290": [
+  "Onmoraki"
+ ],
+ "301": [
+  "Mermaid"
+ ],
+ "302": [
+  "Koropokkur",
+  "Mermaid"
+ ],
+ "303": [
+  "Koropokkur",
+  "Mermaid"
+ ],
+ "304": [
+  "Koropokkur"
+ ],
+ "305": [
+  "Mermaid",
+  "Zhu Tun She"
+ ],
+ "306": [
+  "Koropokkur",
+  "Zhu Tun She"
+ ],
+ "307": [
+  "Mermaid",
+  "Zhu Tun She"
+ ],
+ "308": [
+  "Mad Gasser"
+ ],
+ "309": [
+  "Mad Gasser"
+ ],
+ "310": [
+  "Koropokkur",
+  "Mad Gasser"
+ ],
+ "311": [
+  "Jack Frost"
+ ],
+ "312": [
+  "Angel",
+  "Jack Frost"
+ ],
+ "313": [
+  "Angel",
+  "Jack Frost"
+ ],
+ "314": [
+  "Angel",
+  "Qing Long"
+ ],
+ "315": [
+  "Halphas",
+  "Jack Frost"
+ ],
+ "316": [
+  "Halphas",
+  "Jack Frost"
+ ],
+ "317": [
+  "Halphas",
+  "Jack Frost"
+ ],
+ "318": [
+  "Angel",
+  "Qing Long"
+ ],
+ "319": [
+  "Mad Gasser",
+  "Qing Long"
+ ],
+ "320": [
+  "Halphas",
+  "Qing Long"
+ ],
+ "321": [
+  "Qing Long"
+ ],
+ "322": [
+  "Makami",
+  "Qing Long"
+ ],
+ "323": [
+  "Makami",
+  "Qing Long"
+ ],
+ "324": [
+  "Zhen"
+ ],
+ "325": [
+  "Makami",
+  "Zhen"
+ ],
+ "326": [
+  "Zhen"
+ ],
+ "327": [
+  "Makami",
+  "Sandman"
+ ],
+ "328": [
+  "Sandman",
+  "Zhen"
+ ],
+ "329": [
+  "Feng Huang",
+  "Zhen"
+ ],
+ "330": [
+  "Feng Huang",
+  "Zhen"
+ ],
+ "331": [
+  "Koppa Tengu",
+  "Sandman"
+ ],
+ "332": [
+  "Koppa Tengu",
+  "Sandman"
+ ],
+ "333": [
+  "Feng Huang",
+  "Koppa Tengu"
+ ],
+ "334": [
+  "Loa"
+ ],
+ "335": [
+  "Loa",
+  "Sandman"
+ ],
+ "336": [
+  "Koppa Tengu",
+  "Loa"
+ ],
+ "337": [
+  "Feng Huang",
+  "Nozuchi"
+ ],
+ "338": [
+  "Koppa Tengu",
+  "Nozuchi"
+ ],
+ "339": [
+  "Loa",
+  "Nozuchi"
+ ],
+ "340": [
+  "Bugs",
+  "Nozuchi"
+ ],
+ "341": [
+  "Bugs",
+  "Loa"
+ ],
+ "342": [
+  "Bugs",
+  "Nozuchi"
+ ],
+ "343": [
+  "Halphas"
+ ],
+ "344": [
+  "Jack Frost",
+  "Qing Long"
+ ],
+ "345": [
+  "Koppa Tengu"
+ ],
+ "346": [
+  "Feng Huang"
+ ],
+ "347": [
+  "Makami"
+ ],
+ "348": [
+  "Feng Huang",
+  "Makami"
+ ],
+ "380": [
+  "Mocking Leporid"
+ ],
+ "390": [
+  "Koropokkur"
+ ],
+ "400": [
+  "Jack-o'-Lantern"
+ ],
+ "401": [
+  "Inugami",
+  "Jack-o'-Lantern"
+ ],
+ "402": [
+  "Inugami"
+ ],
+ "403": [
+  "Inugami",
+  "Jack-o'-Lantern"
+ ],
+ "404": [
+  "Inugami",
+  "Kurama Tengu"
+ ],
+ "405": [
+  "Inugami",
+  "Kurama Tengu"
+ ],
+ "406": [
+  "Jack-o'-Lantern",
+  "Kurama Tengu"
+ ],
+ "407": [
+  "Andras",
+  "Jack-o'-Lantern",
+  "Kurama Tengu"
+ ],
+ "408": [
+  "Shiisaa"
+ ],
+ "409": [
+  "Kurama Tengu",
+  "Shiisaa"
+ ],
+ "410": [
+  "Andras"
+ ],
+ "411": [
+  "Andras",
+  "Shiisaa"
+ ],
+ "412": [
+  "Turbo Granny"
+ ],
+ "413": [
+  "Leanan Sidhe",
+  "Turbo Granny"
+ ],
+ "414": [
+  "Leanan Sidhe",
+  "Turbo Granny"
+ ],
+ "415": [
+  "Andras",
+  "Turbo Granny"
+ ],
+ "416": [
+  "Andras",
+  "Turbo Granny"
+ ],
+ "417": [
+  "Archangel"
+ ],
+ "418": [
+  "Archangel",
+  "Leanan Sidhe"
+ ],
+ "419": [
+  "Archangel",
+  "Leanan Sidhe"
+ ],
+ "420": [
+  "Kurama Tengu"
+ ],
+ "421": [
+  "Andras"
+ ],
+ "422": [
+  "Andras",
+  "Lilim"
+ ],
+ "430": [
+  "Archangel",
+  "Kodama"
+ ],
+ "431": [
+  "Kodama"
+ ],
+ "432": [
+  "Kodama",
+  "Yatagarasu"
+ ],
+ "433": [
+  "Lilim"
+ ],
+ "434": [
+  "Lilim",
+  "Yatagarasu"
+ ],
+ "435": [
+  "Basilisk",
+  "Lilim"
+ ],
+ "436": [
+  "Basilisk"
+ ],
+ "437": [
+  "Kodama",
+  "Yatagarasu"
+ ],
+ "438": [
+  "Basilisk",
+  "Yatagarasu"
+ ],
+ "439": [
+  "Muu Shuwuu",
+  "Yatagarasu"
+ ],
+ "440": [
+  "Lilim",
+  "Muu Shuwuu"
+ ],
+ "441": [
+  "Muu Shuwuu"
+ ],
+ "442": [
+  "Basilisk",
+  "Muu Shuwuu"
+ ],
+ "443": [
+  "Basilisk",
+  "Xuanwu"
+ ],
+ "444": [
+  "Xuanwu",
+  "Yatagarasu"
+ ],
+ "445": [
+  "Xuanwu"
+ ],
+ "446": [
+  "Ippon-Datara",
+  "Xuanwu"
+ ],
+ "447": [
+  "Ippon-Datara"
+ ],
+ "448": [
+  "Ippon-Datara",
+  "Muu Shuwuu"
+ ],
+ "449": [
+  "Basilisk",
+  "Ippon-Datara"
+ ],
+ "450": [
+  "Jack-o'-Lantern",
+  "Leanan Sidhe"
+ ],
+ "451": [
+  "Kodama",
+  "Muu Shuwuu"
+ ],
+ "452": [
+  "Muu Shuwuu",
+  "Yatagarasu"
+ ],
+ "453": [
+  "Andras",
+  "Turbo Granny",
+  "Xuanwu"
+ ],
+ "454": [
+  "Ippon-Datara",
+  "Kodama"
+ ],
+ "480": [
+  "Bloodthirsty Bear",
+  "Sleepless Sandsmith"
+ ],
+ "490": [
+  "Jack-o'-Lantern"
+ ],
+ "500": [
+  "Lamia"
+ ],
+ "501": [
+  "Lamia",
+  "Setanta"
+ ],
+ "502": [
+  "Apsaras",
+  "Setanta"
+ ],
+ "503": [
+  "Apsaras",
+  "Lamia"
+ ],
+ "504": [
+  "Lamia",
+  "Principality"
+ ],
+ "505": [
+  "Principality"
+ ],
+ "506": [
+  "Principality",
+  "Setanta"
+ ],
+ "507": [
+  "Apsaras",
+  "Chimera"
+ ],
+ "508": [
+  "Chimera"
+ ],
+ "509": [
+  "Mothman"
+ ],
+ "510": [
+  "Mothman"
+ ],
+ "511": [
+  "Chimera",
+  "Quetzalcoatl"
+ ],
+ "512": [
+  "Mothman",
+  "Quetzalcoatl"
+ ],
+ "513": [
+  "Principality",
+  "Quetzalcoatl"
+ ],
+ "514": [
+  "Incubus",
+  "Nekomata"
+ ],
+ "515": [
+  "Nekomata"
+ ],
+ "516": [
+  "Nekomata",
+  "Orobas"
+ ],
+ "517": [
+  "Incubus"
+ ],
+ "518": [
+  "Hell Biker",
+  "Orobas"
+ ],
+ "519": [
+  "Nekomata",
+  "Orobas"
+ ],
+ "520": [
+  "Hell Biker",
+  "Nekomata"
+ ],
+ "521": [
+  "Vasuki"
+ ],
+ "522": [
+  "Nezha Taizi",
+  "Vouivre"
+ ],
+ "523": [
+  "Lamia"
+ ],
+ "524": [
+  "Apsaras",
+  "Setanta"
+ ],
+ "525": [
+  "Principality",
+  "Setanta"
+ ],
+ "526": [
+  "Chimera",
+  "Principality"
+ ],
+ "527": [
+  "Chimera",
+  "Setanta"
+ ],
+ "528": [
+  "Chimera",
+  "Lamia"
+ ],
+ "529": [
+  "Apsaras",
+  "Mothman"
+ ],
+ "530": [
+  "Quetzalcoatl",
+  "Setanta"
+ ],
+ "531": [
+  "Incubus"
+ ],
+ "532": [
+  "Nekomata"
+ ],
+ "533": [
+  "Vasuki"
+ ],
+ "534": [
+  "Incubus",
+  "Orobas"
+ ],
+ "535": [
+  "Nezha Taizi",
+  "Vasuki"
+ ],
+ "536": [
+  "Nezha Taizi",
+  "Orobas"
+ ],
+ "537": [
+  "Vouivre"
+ ],
+ "538": [
+  "Vasuki",
+  "Vouivre"
+ ],
+ "539": [
+  "Nezha Taizi",
+  "Vasuki",
+  "Vouivre"
+ ],
+ "540": [
+  "Apsaras"
+ ],
+ "541": [
+  "Hell Biker",
+  "Nezha Taizi"
+ ],
+ "542": [
+  "Hell Biker",
+  "Vouivre"
+ ],
+ "543": [
+  "Nezha Taizi",
+  "Vouivre"
+ ],
+ "544": [
+  "Setanta"
+ ],
+ "545": [
+  "Mothman",
+  "Quetzalcoatl"
+ ],
+ "546": [
+  "Nezha Taizi"
+ ],
+ "547": [
+  "Orobas"
+ ],
+ "548": [
+  "Quetzalcoatl"
+ ],
+ "549": [
+  "Hell Biker"
+ ],
+ "550": [
+  "Incubus"
+ ],
+ "551": [
+  "Hell Biker",
+  "Orobas"
+ ],
+ "552": [
+  "Hell Biker",
+  "Nekomata"
+ ],
+ "553": [
+  "Nekomata",
+  "Vasuki"
+ ],
+ "554": [
+  "Vasuki",
+  "Vouivre"
+ ],
+ "555": [
+  "Nezha Taizi"
+ ],
+ "598": [
+  "Merciless Cyclops",
+  "Windclad Dragon"
+ ],
+ "599": [
+  "Lamia"
+ ],
+ "600": [
+  "Unicorn"
+ ],
+ "601": [
+  "Dakini",
+  "Silky"
+ ],
+ "602": [
+  "Dakini",
+  "Sudama"
+ ],
+ "603": [
+  "Sudama"
+ ],
+ "604": [
+  "Silky",
+  "Unicorn"
+ ],
+ "605": [
+  "Rakshasa",
+  "Unicorn"
+ ],
+ "606": [
+  "Power",
+  "Zhuque"
+ ],
+ "607": [
+  "Power"
+ ],
+ "608": [
+  "Silky",
+  "Unicorn"
+ ],
+ "609": [
+  "Sudama",
+  "Zhuque"
+ ],
+ "610": [
+  "Silky"
+ ],
+ "611": [
+  "Dakini"
+ ],
+ "612": [
+  "Sudama"
+ ],
+ "613": [
+  "Sudama",
+  "Unicorn"
+ ],
+ "614": [
+  "Dakini",
+  "Unicorn"
+ ],
+ "615": [
+  "Silky",
+  "Zhuque"
+ ],
+ "616": [
+  "Zhuque"
+ ],
+ "617": [
+  "Succubus"
+ ],
+ "618": [
+  "Dakini",
+  "Rakshasa"
+ ],
+ "619": [
+  "Rakshasa"
+ ],
+ "620": [
+  "Power",
+  "Rakshasa"
+ ],
+ "621": [
+  "Power"
+ ],
+ "622": [
+  "Power",
+  "Unicorn"
+ ],
+ "623": [
+  "Sudama",
+  "Zhuque"
+ ],
+ "624": [
+  "Nezha Taizi",
+  "Silky"
+ ],
+ "625": [
+  "Orthrus"
+ ],
+ "626": [
+  "Nue",
+  "Orthrus"
+ ],
+ "627": [
+  "Valkyrie"
+ ],
+ "628": [
+  "Orthrus",
+  "Vritra"
+ ],
+ "629": [
+  "Nue",
+  "Vritra"
+ ],
+ "630": [
+  "Doppelganger",
+  "Valkyrie"
+ ],
+ "631": [
+  "Doppelganger",
+  "Orthrus",
+  "Vritra"
+ ],
+ "632": [
+  "Nue",
+  "Orthrus"
+ ],
+ "633": [
+  "Orthrus",
+  "Valkyrie"
+ ],
+ "634": [
+  "Valkyrie",
+  "Vritra"
+ ],
+ "635": [
+  "Orthrus",
+  "Vritra"
+ ],
+ "636": [
+  "Doppelganger"
+ ],
+ "637": [
+  "Doppelganger",
+  "Vritra"
+ ],
+ "638": [
+  "Sudama",
+  "Unicorn"
+ ],
+ "639": [
+  "Orthrus",
+  "Rakshasa"
+ ],
+ "640": [
+  "Power",
+  "Zhuque"
+ ],
+ "641": [
+  "Orthrus",
+  "Succubus"
+ ],
+ "642": [
+  "Nue"
+ ],
+ "643": [
+  "Nue",
+  "Vritra"
+ ],
+ "644": [
+  "Baihu",
+  "Doppelganger"
+ ],
+ "645": [
+  "Baihu",
+  "Valkyrie"
+ ],
+ "646": [
+  "Rakshasa",
+  "Succubus"
+ ],
+ "647": [
+  "Succubus"
+ ],
+ "648": [
+  "Succubus",
+  "Zhuque"
+ ],
+ "650": [
+  "Nue",
+  "Orthrus"
+ ],
+ "651": [
+  "Nue",
+  "Valkyrie"
+ ],
+ "652": [
+  "Nue",
+  "Vritra"
+ ],
+ "653": [
+  "Doppelganger",
+  "Valkyrie"
+ ],
+ "654": [
+  "Orthrus",
+  "Vritra"
+ ],
+ "655": [
+  "Doppelganger",
+  "Nue"
+ ],
+ "698": [
+  "Irreverent Fiend",
+  "Raging Beauty"
+ ],
+ "699": [
+  "Sudama"
+ ],
+ "700": [
+  "Baihu"
+ ],
+ "701": [
+  "Baihu",
+  "Fafnir"
+ ],
+ "702": [
+  "Dominion"
+ ],
+ "703": [
+  "Baihu",
+  "Fafnir"
+ ],
+ "704": [
+  "Dominion",
+  "Fafnir"
+ ],
+ "705": [
+  "Baihu",
+  "Dominion"
+ ],
+ "706": [
+  "Baihu",
+  "Fafnir"
+ ],
+ "707": [
+  "Baihu",
+  "Cu Chulainn",
+  "Dominion"
+ ],
+ "708": [
+  "Fafnir"
+ ],
+ "709": [
+  "Dominion",
+  "Fafnir"
+ ],
+ "710": [
+  "Cu Chulainn"
+ ],
+ "711": [
+  "Cu Chulainn",
+  "Fafnir"
+ ],
+ "712": [
+  "Pazuzu"
+ ],
+ "713": [
+  "Dominion",
+  "Pazuzu"
+ ],
+ "714": [
+  "Cu Chulainn",
+  "Pazuzu"
+ ],
+ "715": [
+  "Thunderbird"
+ ],
+ "716": [
+  "Dominion",
+  "Thunderbird"
+ ],
+ "717": [
+  "Cu Chulainn",
+  "Fafnir",
+  "Pazuzu"
+ ],
+ "718": [
+  "Pazuzu",
+  "Thunderbird"
+ ],
+ "719": [
+  "Decarabia",
+  "Pazuzu"
+ ],
+ "720": [
+  "Thunderbird"
+ ],
+ "721": [
+  "Decarabia"
+ ],
+ "722": [
+  "Decarabia",
+  "Thunderbird"
+ ],
+ "723": [
+  "Cu Chulainn",
+  "Titania"
+ ],
+ "724": [
+  "Thunderbird",
+  "Titania"
+ ],
+ "725": [
+  "Decarabia"
+ ],
+ "726": [
+  "Decarabia",
+  "Pazuzu"
+ ],
+ "727": [
+  "Decarabia",
+  "Titania"
+ ],
+ "728": [
+  "Yamata-no-Orochi"
+ ],
+ "729": [
+  "Titania",
+  "Yamata-no-Orochi"
+ ],
+ "730": [
+  "Anubis",
+  "Cu Chulainn"
+ ],
+ "731": [
+  "Anubis",
+  "Titania"
+ ],
+ "732": [
+  "Anubis",
+  "Yamata-no-Orochi"
+ ],
+ "733": [
+  "Anubis",
+  "Decarabia",
+  "Yamata-no-Orochi"
+ ],
+ "734": [
+  "Cerberus"
+ ],
+ "735": [
+  "Cerberus",
+  "Decarabia"
+ ],
+ "736": [
+  "Cerberus",
+  "Kudlak"
+ ],
+ "737": [
+  "Cerberus",
+  "Girimekhala"
+ ],
+ "738": [
+  "Decarabia",
+  "Kudlak"
+ ],
+ "739": [
+  "Girimekhala"
+ ],
+ "740": [
+  "Cerberus",
+  "Girimekhala",
+  "Kudlak"
+ ],
+ "741": [
+  "Anzu"
+ ],
+ "742": [
+  "Ganesha"
+ ],
+ "743": [
+  "Rangda"
+ ],
+ "744": [
+  "Fenrir"
+ ],
+ "745": [
+  "Anzu",
+  "Fenrir"
+ ],
+ "746": [
+  "Ananta"
+ ],
+ "747": [
+  "Throne"
+ ],
+ "748": [
+  "Ananta",
+  "Ganesha"
+ ],
+ "749": [
+  "Skadi",
+  "Throne"
+ ],
+ "750": [
+  "Flauros"
+ ],
+ "751": [
+  "Rangda"
+ ],
+ "752": [
+  "Anzu",
+  "Rangda"
+ ],
+ "753": [
+  "Ganesha",
+  "Throne"
+ ],
+ "754": [
+  "Fenrir",
+  "Girimekhala",
+  "Rangda"
+ ],
+ "755": [
+  "Ganesha",
+  "Skadi"
+ ],
+ "756": [
+  "Flauros"
+ ],
+ "757": [
+  "Fenrir",
+  "Skadi"
+ ],
+ "758": [
+  "Flauros",
+  "Skadi"
+ ],
+ "759": [
+  "Flauros",
+  "Rangda"
+ ],
+ "760": [
+  "Ananta",
+  "Flauros"
+ ],
+ "761": [
+  "Fenrir",
+  "Flauros"
+ ],
+ "762": [
+  "Ananta",
+  "Skadi",
+  "Throne"
+ ],
+ "763": [
+  "Flauros",
+  "Girimekhala",
+  "Kudlak"
+ ],
+ "764": [
+  "Anubis",
+  "Decarabia"
+ ],
+ "765": [
+  "Skadi"
+ ],
+ "766": [
+  "Skadi"
+ ],
+ "767": [
+  "Skadi"
+ ],
+ "768": [
+  "Skadi"
+ ],
+ "769": [
+  "Baihu",
+  "Cu Chulainn"
+ ],
+ "770": [
+  "Fafnir",
+  "Pazuzu"
+ ],
+ "775": [
+  "Decarabia",
+  "Flauros"
+ ],
+ "776": [
+  "Barong",
+  "Flauros"
+ ],
+ "777": [
+  "Barong"
+ ],
+ "778": [
+  "Oberon"
+ ],
+ "779": [
+  "Oberon",
+  "Titania"
+ ],
+ "780": [
+  "Oberon",
+  "Silky"
+ ],
+ "781": [
+  "Jack Frost",
+  "Oberon"
+ ],
+ "782": [
+  "Kali"
+ ],
+ "783": [
+  "Dakini",
+  "Kali"
+ ],
+ "784": [
+  "Kali",
+  "Rakshasa"
+ ],
+ "785": [
+  "Kali",
+  "Rangda"
+ ],
+ "786": [
+  "Hanuman"
+ ],
+ "787": [
+  "Ganesha",
+  "Hanuman"
+ ],
+ "788": [
+  "Ganesha",
+  "Hanuman",
+  "Kali"
+ ],
+ "789": [
+  "Dakini",
+  "Ganesha",
+  "Hanuman",
+  "Kali"
+ ],
+ "790": [
+  "Yurlungur"
+ ],
+ "791": [
+  "Sudama",
+  "Yurlungur"
+ ],
+ "792": [
+  "Kodama",
+  "Yurlungur"
+ ],
+ "793": [
+  "Lilith"
+ ],
+ "794": [
+  "Lilim",
+  "Lilith"
+ ],
+ "795": [
+  "Lilith",
+  "Succubus"
+ ],
+ "798": [
+  "Diamondhide Water Demon",
+  "Noble Predator",
+  "Ruler of Eternal Skies",
+  "Thunderclap Dragon God"
+ ],
+ "797": [
+  "Dancing War-Spear",
+  "Deathly Shadow"
+ ],
+ "799": [
+  "Thunderbird"
+ ],
+ "898": [
+  "Covetous Fairy King",
+  "Forest Queen of Night",
+  "Resplendent Fairy"
+ ],
+ "897": [
+  "All-Devouring Wolf",
+  "Infernal Hound",
+  "Polycephalic Guardian"
+ ],
+ "899": [
+  "Girimekhala"
+ ],
+ "998": [
+  "Deadly Blade Dancer",
+  "Drought's Harbinger",
+  "Simian Grandmaster"
+ ],
+ "999": [
+  "Hanuman"
+ ],
+ "1001": [
+  "Boorish Man",
+  "Dormarth"
+ ],
+ "1002": [
+  "Tense Woman",
+  "Tsuchigumo"
+ ],
+ "1003": [
+  "Bicorn",
+  "R.S."
+ ],
+ "1007": [
+  "Kaburagi",
+  "Kurama Tengu",
+  "Leanan Sidhe"
+ ],
+ "1021": [
+  "Take-Minakata"
+ ],
+ "1031": [
+  "Koppa Tengu",
+  "Menacing Man"
+ ],
+ "1032": [
+  "Bugs"
+ ],
+ "1041": [
+  "Ash",
+  "Lilim"
+ ],
+ "1042": [
+  "Iron Mask",
+  "Zenon"
+ ],
+ "1043": [
+  "Goat-Headed Demon"
+ ],
+ "1051": [
+  "Apsaras",
+  "Mothman"
+ ],
+ "1052": [
+  "Mothman",
+  "Principality"
+ ],
+ "1053": [
+  "Chimera",
+  "Mothman"
+ ],
+ "1054": [
+  "Mothman",
+  "Orobas"
+ ],
+ "1055": [
+  "Ash",
+  "Pazuzu"
+ ],
+ "1056": [
+  "Iron Mask",
+  "Zenon"
+ ],
+ "1061": [
+  "Succubus",
+  "Vritra"
+ ],
+ "1062": [
+  "Power",
+  "Raven",
+  "Silky",
+  "Vouivre"
+ ],
+ "1071": [
+  "Decarabia",
+  "Rifleman",
+  "Swordswoman",
+  "Thunderbird"
+ ],
+ "1072": [
+  "Azazel"
+ ],
+ "1073": [
+  "Cerberus",
+  "Cu Chulainn",
+  "Hozumi"
+ ],
+ "1074": [
+  "Aion"
+ ],
+ "1075": [
+  "Dominion"
+ ],
+ "1076": [
+  "Dominion"
+ ],
+ "1077": [
+  "Dominion"
+ ],
+ "1078": [
+  "Dominion"
+ ],
+ "1079": [
+  "Dominion"
+ ],
+ "1080": [
+  "Aion"
+ ],
+ "1101": [
+  "Mad Gasser"
+ ],
+ "1106": [
+  "Pazuzu"
+ ],
+ "1107": [
+  "Onmoraki"
+ ],
+ "1131": [
+  "Loa"
+ ],
+ "1133": [
+  "Gremlin",
+  "Rock"
+ ],
+ "1137": [
+  "Apsaras",
+  "Incubus",
+  "Rose"
+ ],
+ "1148": [
+  "Turbo Granny"
+ ],
+ "1149": [
+  "Dakini"
+ ],
+ "1108": [
+  "Lilim"
+ ],
+ "1132": [
+  "Fenrir"
+ ],
+ "1103": [
+  "Dominion",
+  "Throne"
+ ],
+ "1109": [
+  "Orthrus"
+ ],
+ "1135": [
+  "Kudlak"
+ ],
+ "1141": [
+  "Valkyrie"
+ ],
+ "1150": [
+  "Seth"
+ ],
+ "1181": [
+  "Zhen"
+ ],
+ "1182": [
+  "Zhen"
+ ],
+ "1183": [
+  "Zhen"
+ ],
+ "1184": [
+  "Zhen"
+ ],
+ "1185": [
+  "Zhen"
+ ],
+ "1186": [
+  "Valkyrie"
+ ],
+ "1187": [
+  "Valkyrie"
+ ],
+ "1188": [
+  "Leanan Sidhe",
+  "Valkyrie"
+ ],
+ "1189": [
+  "Sandman",
+  "Valkyrie"
+ ],
+ "1190": [
+  "Leanan Sidhe",
+  "Sandman",
+  "Valkyrie"
+ ],
+ "1191": [
+  "One-Legged Demon"
+ ],
+ "1192": [
+  "Nana"
+ ],
+ "1193": [
+  "Giant-Headed Demon"
+ ],
+ "1194": [
+  "Lost Woman"
+ ],
+ "1195": [
+  "Lost Knight"
+ ],
+ "1196": [
+  "Lost Samurai"
+ ],
+ "1197": [
+  "Zenon Type-0"
+ ],
+ "1198": [
+  "Nana"
+ ],
+ "1199": [
+  "Parvati",
+  "Shiva"
+ ],
+ "1200": [
+  "Parvati",
+  "Shiva"
+ ],
+ "1212": [
+  "Archangel"
+ ],
+ "1213": [
+  "Sandalphon"
+ ],
+ "1214": [
+  "Kaburagi"
+ ],
+ "1215": [
+  "Sraosha"
+ ],
+ "1216": [
+  "Archangel"
+ ],
+ "1217": [
+  "Archangel"
+ ],
+ "1221": [
+  "Dionysus"
+ ],
+ "1222": [
+  "Jack Frost",
+  "Jack-o'-Lantern"
+ ],
+ "1223": [
+  "Chernobog"
+ ],
+ "1224": [
+  "Ash"
+ ],
+ "1225": [
+  "Garuda"
+ ],
+ "1226": [
+  "Jack-o'-Lantern"
+ ],
+ "1227": [
+  "Jack-o'-Lantern"
+ ],
+ "1231": [
+  "Melchizedek"
+ ],
+ "1232": [
+  "Koppa Tengu",
+  "Kurama Tengu"
+ ],
+ "1233": [
+  "Asura"
+ ],
+ "1234": [
+  "Iron Mask"
+ ],
+ "1235": [
+  "Mot"
+ ],
+ "1236": [
+  "Melchizedek"
+ ],
+ "1237": [
+  "Melchizedek"
+ ],
+ "1243": [
+  "Sudama"
+ ],
+ "1244": [
+  "Yamata-no-Orochi"
+ ],
+ "1245": [
+  "Aion"
+ ],
+ "1331": [
+  "Mokoi"
+ ],
+ "1332": [
+  "Nozuchi"
+ ],
+ "1333": [
+  "Halphas"
+ ],
+ "1341": [
+  "Inugami",
+  "Makami"
+ ],
+ "1342": [
+  "Bicorn",
+  "R.S."
+ ],
+ "1343": [
+  "Leanan Sidhe",
+  "Muu Shuwuu",
+  "Turbo Granny"
+ ],
+ "1351": [
+  "Unicorn"
+ ],
+ "1352": [
+  "Quetzalcoatl"
+ ],
+ "1353": [
+  "Ippon-Datara"
+ ],
+ "1361": [
+  "Incubus",
+  "Nekomata",
+  "Succubus",
+  "Unicorn"
+ ],
+ "1362": [
+  "B Hawaii Frost",
+  "Lemon Frost",
+  "Melon Frost",
+  "Milk-kin Frost",
+  "Strawberry Frost"
+ ],
+ "1363": [
+  "Zenon"
+ ],
+ "1371": [
+  "Raven"
+ ],
+ "1372": [
+  "Skadi"
+ ],
+ "1373": [
+  "Jack Frost",
+  "Jack-o'-Lantern"
+ ],
+ "2010": [
+  "Doppelganger"
+ ],
+ "2011": [
+  "Nue"
+ ],
+ "2012": [
+  "Valkyrie"
+ ],
+ "2013": [
+  "Nue",
+  "Vritra"
+ ],
+ "2014": [
+  "Doppelganger",
+  "Valkyrie"
+ ],
+ "2015": [
+  "Nue"
+ ],
+ "2016": [
+  "Doppelganger",
+  "Vritra"
+ ],
+ "2017": [
+  "Vritra"
+ ],
+ "2021": [
+  "Doppelganger",
+  "Nue"
+ ],
+ "2022": [
+  "Valkyrie",
+  "Vritra"
+ ],
+ "2030": [
+  "Fafnir"
+ ],
+ "2031": [
+  "Baihu"
+ ],
+ "2032": [
+  "Baihu",
+  "Doppelganger"
+ ],
+ "2033": [
+  "Baihu",
+  "Fafnir"
+ ],
+ "2034": [
+  "Fafnir",
+  "Vritra"
+ ],
+ "2041": [
+  "Baihu",
+  "Fafnir"
+ ],
+ "2042": [
+  "Cu Chulainn"
+ ],
+ "2050": [
+  "Cu Chulainn",
+  "Dominion"
+ ],
+ "2051": [
+  "Dominion"
+ ],
+ "2052": [
+  "Thunderbird"
+ ],
+ "2053": [
+  "Pazuzu"
+ ],
+ "2054": [
+  "Dominion",
+  "Thunderbird"
+ ],
+ "2061": [
+  "Pazuzu",
+  "Thunderbird"
+ ],
+ "2070": [
+  "Thunderbird",
+  "Titania"
+ ],
+ "2071": [
+  "Decarabia",
+  "Titania"
+ ],
+ "2072": [
+  "Decarabia"
+ ],
+ "2073": [
+  "Decarabia"
+ ],
+ "2074": [
+  "Decarabia",
+  "Yamata-no-Orochi"
+ ],
+ "2075": [
+  "Titania",
+  "Yamata-no-Orochi"
+ ],
+ "2081": [
+  "Yamata-no-Orochi"
+ ],
+ "2082": [
+  "Decarabia",
+  "Yamata-no-Orochi"
+ ],
+ "2083": [
+  "Kudlak",
+  "Yamata-no-Orochi"
+ ],
+ "2084": [
+  "Anzu",
+  "Girimekhala",
+  "Titania"
+ ],
+ "2085": [
+  "Rangda"
+ ],
+ "2090": [
+  "Cerberus"
+ ],
+ "2091": [
+  "Anubis"
+ ],
+ "2092": [
+  "Cerberus",
+  "Decarabia"
+ ],
+ "2093": [
+  "Cerberus",
+  "Yamata-no-Orochi"
+ ],
+ "2094": [
+  "Girimekhala",
+  "Kudlak"
+ ],
+ "2095": [
+  "Anzu",
+  "Rangda"
+ ],
+ "2096": [
+  "Anubis",
+  "Cerberus"
+ ],
+ "2101": [
+  "Anubis",
+  "Cerberus"
+ ],
+ "2102": [
+  "Cerberus"
+ ],
+ "2103": [
+  "Rangda"
+ ],
+ "2104": [
+  "Cerberus",
+  "Girimekhala"
+ ],
+ "2110": [
+  "Anzu",
+  "Kudlak"
+ ],
+ "2111": [
+  "Anzu"
+ ],
+ "2112": [
+  "Cerberus",
+  "Kudlak"
+ ],
+ "2113": [
+  "Kudlak"
+ ],
+ "2114": [
+  "Anzu",
+  "Kudlak"
+ ],
+ "2115": [
+  "Anubis",
+  "Kudlak"
+ ],
+ "2116": [
+  "Anzu"
+ ],
+ "2117": [
+  "Kudlak"
+ ],
+ "2118": [
+  "Anzu",
+  "Cerberus"
+ ],
+ "2121": [
+  "Anubis",
+  "Anzu"
+ ],
+ "2122": [
+  "Cerberus",
+  "Kudlak"
+ ],
+ "2123": [
+  "Fenrir",
+  "Kudlak"
+ ],
+ "2124": [
+  "Rangda",
+  "Throne"
+ ],
+ "2130": [
+  "Girimekhala"
+ ],
+ "2131": [
+  "Cerberus",
+  "Girimekhala"
+ ],
+ "2132": [
+  "Rangda"
+ ],
+ "2133": [
+  "Girimekhala",
+  "Rangda"
+ ],
+ "2134": [
+  "Ananta",
+  "Anzu",
+  "Kudlak"
+ ],
+ "2135": [
+  "Anubis",
+  "Fenrir"
+ ],
+ "2136": [
+  "Anzu",
+  "Rangda"
+ ],
+ "2137": [
+  "Rangda"
+ ],
+ "2138": [
+  "Anzu",
+  "Ganesha"
+ ],
+ "2141": [
+  "Ganesha"
+ ],
+ "2142": [
+  "Ganesha",
+  "Girimekhala"
+ ],
+ "2143": [
+  "Girimekhala",
+  "Throne"
+ ],
+ "2144": [
+  "Fenrir",
+  "Rangda"
+ ],
+ "2150": [
+  "Throne"
+ ],
+ "2151": [
+  "Fenrir"
+ ],
+ "2152": [
+  "Fenrir",
+  "Ganesha"
+ ],
+ "2153": [
+  "Throne"
+ ],
+ "2154": [
+  "Ananta"
+ ],
+ "2155": [
+  "Ananta",
+  "Fenrir"
+ ],
+ "2156": [
+  "Throne"
+ ],
+ "2157": [
+  "Fenrir",
+  "Rangda"
+ ],
+ "2158": [
+  "Ganesha",
+  "Throne"
+ ],
+ "2159": [
+  "Fenrir",
+  "Throne"
+ ],
+ "2160": [
+  "Decarabia",
+  "Skadi"
+ ],
+ "2161": [
+  "Ananta"
+ ],
+ "2162": [
+  "Ananta",
+  "Decarabia"
+ ],
+ "2163": [
+  "Ananta",
+  "Skadi"
+ ],
+ "2164": [
+  "Decarabia",
+  "Skadi"
+ ],
+ "2165": [
+  "Decarabia",
+  "Flauros"
+ ],
+ "2166": [
+  "Skadi"
+ ],
+ "2167": [
+  "Decarabia",
+  "Flauros"
+ ],
+ "2168": [
+  "Flauros"
+ ],
+ "2169": [
+  "Decarabia",
+  "Flauros"
+ ],
+ "2170": [
+  "Barong",
+  "Skadi"
+ ],
+ "2171": [
+  "Barong",
+  "Skadi"
+ ],
+ "2172": [
+  "Ananta",
+  "Barong"
+ ],
+ "2173": [
+  "Barong",
+  "Skadi"
+ ],
+ "2174": [
+  "Ananta",
+  "Barong"
+ ],
+ "2175": [
+  "Barong",
+  "Skadi"
+ ],
+ "2176": [
+  "Barong",
+  "Flauros"
+ ],
+ "2177": [
+  "Barong",
+  "Decarabia",
+  "Flauros"
+ ],
+ "2178": [
+  "Barong",
+  "Flauros",
+  "Skadi"
+ ],
+ "2180": [
+  "Jack Frost",
+  "Oberon"
+ ],
+ "2181": [
+  "Jack Frost",
+  "Oberon"
+ ],
+ "2182": [
+  "Oberon",
+  "Silky"
+ ],
+ "2183": [
+  "Kali"
+ ],
+ "2184": [
+  "Dakini",
+  "Kali"
+ ],
+ "2185": [
+  "Oberon",
+  "Silky"
+ ],
+ "2186": [
+  "Jack Frost",
+  "Oberon",
+  "Silky"
+ ],
+ "2187": [
+  "Kali",
+  "Rakshasa"
+ ],
+ "2188": [
+  "Dakini",
+  "Kali",
+  "Rakshasa"
+ ],
+ "2190": [
+  "Hanuman",
+  "Sudama"
+ ],
+ "2191": [
+  "Hanuman"
+ ],
+ "2192": [
+  "Ganesha",
+  "Hanuman"
+ ],
+ "2193": [
+  "Yurlungur"
+ ],
+ "2194": [
+  "Sudama",
+  "Yurlungur"
+ ],
+ "2195": [
+  "Ganesha",
+  "Hanuman"
+ ],
+ "2196": [
+  "Kodama",
+  "Yurlungur"
+ ],
+ "2197": [
+  "Hanuman",
+  "Yurlungur"
+ ],
+ "2198": [
+  "Kodama",
+  "Sudama",
+  "Yurlungur"
+ ],
+ "2199": [
+  "Hanuman",
+  "Kodama",
+  "Sudama"
+ ],
+ "2200": [
+  "Lilith",
+  "Seth"
+ ],
+ "2201": [
+  "Lilim",
+  "Lilith"
+ ],
+ "2202": [
+  "Lilith",
+  "Succubus"
+ ],
+ "2203": [
+  "Lilith",
+  "Succubus"
+ ],
+ "2204": [
+  "Lilim",
+  "Lilith"
+ ],
+ "2205": [
+  "Seth"
+ ],
+ "2206": [
+  "Lilith",
+  "Succubus"
+ ],
+ "2207": [
+  "Seth"
+ ],
+ "2208": [
+  "Lilim",
+  "Lilith",
+  "Seth"
+ ],
+ "2210": [
+  "Decarabia",
+  "Flauros"
+ ],
+ "2211": [
+  "Decarabia",
+  "Flauros"
+ ],
+ "2212": [
+  "Barong",
+  "Decarabia",
+  "Skadi"
+ ],
+ "2213": [
+  "Barong",
+  "Decarabia",
+  "Flauros"
+ ],
+ "2214": [
+  "Jack Frost",
+  "Oberon",
+  "Silky"
+ ],
+ "2215": [
+  "Dakini",
+  "Kali",
+  "Rakshasa"
+ ],
+ "2216": [
+  "Hanuman",
+  "Kodama",
+  "Yurlungur"
+ ],
+ "2217": [
+  "Kodama",
+  "Yurlungur"
+ ]
+}

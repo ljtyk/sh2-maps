@@ -1,0 +1,767 @@
+[
+ {
+  "id": "EA13",
+  "title": "Arrow Sector Cleanup 5",
+  "title_jp": "第5次アロウエリア掃討",
+  "recommendLevel": 57,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3129,
+    "count": 5,
+    "name": "Cerberus",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 50
+   }
+  ]
+ },
+ {
+  "id": "EA33",
+  "title": "Target: Halphas",
+  "title_jp": "敵性体ハルパス",
+  "recommendLevel": 14,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2149,
+    "count": 3,
+    "name": "Halphas",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 0
+   }
+  ]
+ },
+ {
+  "id": "EA40",
+  "title": "Saizo Sector Cleanup 4",
+  "title_jp": "第4次サイゾーエリア掃討",
+  "recommendLevel": 42,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3051,
+    "count": 7,
+    "name": "Zhuque",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 30
+   }
+  ]
+ },
+ {
+  "id": "EA36",
+  "title": "Target: Muu Shuwuu",
+  "title_jp": "敵性体モー・ショボー",
+  "recommendLevel": 28,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2152,
+    "count": 1,
+    "name": "Muu Shuwuu",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 10
+   }
+  ]
+ },
+ {
+  "id": "EA45",
+  "title": "Target: Jack Frost",
+  "title_jp": "敵性体ジャックフロスト",
+  "recommendLevel": 64,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2161,
+    "count": 1,
+    "name": "Jack Frost",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 40
+   }
+  ]
+ },
+ {
+  "id": "EA18",
+  "title": "Target: Nozuchi",
+  "title_jp": "敵性体ノズチ",
+  "recommendLevel": 14,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2148,
+    "count": 1,
+    "name": "Nozuchi",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 0
+   }
+  ]
+ },
+ {
+  "id": "EA24",
+  "title": "Target: Quetzalcoatl",
+  "title_jp": "敵性体ケツアルカトル",
+  "recommendLevel": 39,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2154,
+    "count": 1,
+    "name": "Quetzalcoatl",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 20
+   }
+  ]
+ },
+ {
+  "id": "EA03",
+  "title": "Target: Mokoi",
+  "title_jp": "敵性体モコイ",
+  "recommendLevel": 10,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2147,
+    "count": 5,
+    "name": "Mokoi",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 0
+   }
+  ]
+ },
+ {
+  "id": "EA44",
+  "title": "Retrieve Orb Crystaloid Epsilon",
+  "title_jp": "物質・球状結晶体イプシロン回収",
+  "recommendLevel": 54,
+  "targets": [
+   {
+    "type": 0,
+    "id": 85,
+    "count": 10,
+    "name": "キーアイテム085",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA28",
+  "title": "Milady Sector Cleanup 5",
+  "title_jp": "第5次ミレディエリア掃討",
+  "recommendLevel": 56,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3099,
+    "count": 5,
+    "name": "Anubis",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 40
+   }
+  ]
+ },
+ {
+  "id": "EA08",
+  "title": "Retrieve Chain Crystaloid Gamma",
+  "title_jp": "物質・鎖状結晶体ガンマ回収",
+  "recommendLevel": 36,
+  "targets": [
+   {
+    "type": 0,
+    "id": 73,
+    "count": 8,
+    "name": "Chain Crystaloid Delta",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA42",
+  "title": "Target: Zenon",
+  "title_jp": "敵性体ゼノン",
+  "recommendLevel": 54,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2158,
+    "count": 1,
+    "name": "Zenon",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 30
+   }
+  ]
+ },
+ {
+  "id": "EA25",
+  "title": "Milady Sector Cleanup 4",
+  "title_jp": "第4次ミレディエリア掃討",
+  "recommendLevel": 39,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3145,
+    "count": 6,
+    "name": "Vouivre",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 30
+   }
+  ]
+ },
+ {
+  "id": "EA23",
+  "title": "Retrieve Needle Crystaloid Gamma",
+  "title_jp": "物質・針状結晶体ガンマ回収",
+  "recommendLevel": 31,
+  "targets": [
+   {
+    "type": 0,
+    "id": 78,
+    "count": 8,
+    "name": "Needle Crystaloid Delta",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA14",
+  "title": "Retrieve Chain Crystaloid Epsilon",
+  "title_jp": "物質・鎖状結晶体イプシロン回収",
+  "recommendLevel": 57,
+  "targets": [
+   {
+    "type": 0,
+    "id": 75,
+    "count": 10,
+    "name": "Needle Crystaloid Alpha",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA15",
+  "title": "Target: Raven",
+  "title_jp": "敵性体レイブン",
+  "recommendLevel": 64,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2159,
+    "count": 1,
+    "name": "Raven",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 50
+   }
+  ]
+ },
+ {
+  "id": "EA30",
+  "title": "Target: Skadi",
+  "title_jp": "敵性体スカディ",
+  "recommendLevel": 64,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2160,
+    "count": 1,
+    "name": "Skadi",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 40
+   }
+  ]
+ },
+ {
+  "id": "EA41",
+  "title": "Retrieve Orb Crystaloid Delta",
+  "title_jp": "物質・球状結晶体デルタ回収",
+  "recommendLevel": 42,
+  "targets": [
+   {
+    "type": 0,
+    "id": 84,
+    "count": 9,
+    "name": "Orb Crystaloid Epsilon",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA19",
+  "title": "Milady Sector Cleanup 2",
+  "title_jp": "第2次ミレディエリア掃討",
+  "recommendLevel": 20,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3048,
+    "count": 9,
+    "name": "Jack-o'-Lantern",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 10
+   }
+  ]
+ },
+ {
+  "id": "EA04",
+  "title": "Arrow Sector Cleanup 2",
+  "title_jp": "第2次アロウエリア掃討",
+  "recommendLevel": 21,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3127,
+    "count": 9,
+    "name": "Inugami",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 10
+   }
+  ]
+ },
+ {
+  "id": "EA39",
+  "title": "Target: Ippon-Datara",
+  "title_jp": "敵性体イッポンダタラ",
+  "recommendLevel": 39,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2155,
+    "count": 1,
+    "name": "Ippon-Datara",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 20
+   }
+  ]
+ },
+ {
+  "id": "EA07",
+  "title": "Arrow Sector Cleanup 3",
+  "title_jp": "第3次アロウエリア掃討",
+  "recommendLevel": 36,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3056,
+    "count": 9,
+    "name": "Nekomata",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 30
+   }
+  ]
+ },
+ {
+  "id": "EA16",
+  "title": "Milady Sector Cleanup 1",
+  "title_jp": "第1次ミレディエリア掃討",
+  "recommendLevel": 13,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3058,
+    "count": 9,
+    "name": "Jack Frost",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 0
+   }
+  ]
+ },
+ {
+  "id": "EA11",
+  "title": "Retrieve Chain Crystaloid Delta",
+  "title_jp": "物質・鎖状結晶体デルタ回収",
+  "recommendLevel": 42,
+  "targets": [
+   {
+    "type": 0,
+    "id": 74,
+    "count": 9,
+    "name": "Chain Crystaloid Epsilon",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA06",
+  "title": "Target: Inugami",
+  "title_jp": "敵性体イヌガミ",
+  "recommendLevel": 28,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2150,
+    "count": 1,
+    "name": "Inugami",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 10
+   }
+  ]
+ },
+ {
+  "id": "EA12",
+  "title": "Target: Succubus",
+  "title_jp": "敵性体サキュバス",
+  "recommendLevel": 50,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2156,
+    "count": 1,
+    "name": "Unicorn",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 40
+   }
+  ]
+ },
+ {
+  "id": "EA27",
+  "title": "Target: B Hawaii Frost",
+  "title_jp": "敵性体Bハワイフロスト",
+  "recommendLevel": 52,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2157,
+    "count": 1,
+    "name": "B Hawaii Frost",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 30
+   }
+  ]
+ },
+ {
+  "id": "EA20",
+  "title": "Retrieve Needle Crystaloid Beta",
+  "title_jp": "物質・針状結晶体ベータ回収",
+  "recommendLevel": 20,
+  "targets": [
+   {
+    "type": 0,
+    "id": 77,
+    "count": 7,
+    "name": "Needle Crystaloid Gamma",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA17",
+  "title": "Retrieve Needle Crystaloid Alpha",
+  "title_jp": "物質・針状結晶体アルファ回収",
+  "recommendLevel": 13,
+  "targets": [
+   {
+    "type": 0,
+    "id": 76,
+    "count": 6,
+    "name": "Needle Crystaloid Beta",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA29",
+  "title": "Retrieve Needle Crystaloid Epsilon",
+  "title_jp": "物質・針状結晶体イプシロン回収",
+  "recommendLevel": 56,
+  "targets": [
+   {
+    "type": 0,
+    "id": 80,
+    "count": 10,
+    "name": "Orb Crystaloid Alpha",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA37",
+  "title": "Saizo Sector Cleanup 3",
+  "title_jp": "第3次サイゾーエリア掃討",
+  "recommendLevel": 30,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3073,
+    "count": 9,
+    "name": "Lamia",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 20
+   }
+  ]
+ },
+ {
+  "id": "EA10",
+  "title": "Arrow Sector Cleanup 4",
+  "title_jp": "第4次アロウエリア掃討",
+  "recommendLevel": 42,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3103,
+    "count": 7,
+    "name": "Unicorn",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 40
+   }
+  ]
+ },
+ {
+  "id": "EA05",
+  "title": "Retrieve Chain Crystaloid Beta",
+  "title_jp": "物質・鎖状結晶体ベータ回収",
+  "recommendLevel": 21,
+  "targets": [
+   {
+    "type": 0,
+    "id": 72,
+    "count": 7,
+    "name": "Chain Crystaloid Gamma",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA34",
+  "title": "Saizo Sector Cleanup 2",
+  "title_jp": "第2次サイゾーエリア掃討",
+  "recommendLevel": 24,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3119,
+    "count": 6,
+    "name": "Archangel",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 10
+   }
+  ]
+ },
+ {
+  "id": "EA02",
+  "title": "Retrieve Chain Crystaloid Alpha",
+  "title_jp": "物質・鎖状結晶体アルファ回収",
+  "recommendLevel": 7,
+  "targets": [
+   {
+    "type": 0,
+    "id": 71,
+    "count": 6,
+    "name": "Chain Crystaloid Beta",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 0
+   }
+  ]
+ },
+ {
+  "id": "EA35",
+  "title": "Retrieve Orb Crystaloid Beta",
+  "title_jp": "物質・球状結晶体ベータ回収",
+  "recommendLevel": 24,
+  "targets": [
+   {
+    "type": 0,
+    "id": 82,
+    "count": 7,
+    "name": "Orb Crystaloid Gamma",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA22",
+  "title": "Milady Sector Cleanup 3",
+  "title_jp": "第3次ミレディエリア掃討",
+  "recommendLevel": 31,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3055,
+    "count": 9,
+    "name": "Apsaras",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 20
+   }
+  ]
+ },
+ {
+  "id": "EA38",
+  "title": "Retrieve Orb Crystaloid Gamma",
+  "title_jp": "物質・球状結晶体ガンマ回収",
+  "recommendLevel": 30,
+  "targets": [
+   {
+    "type": 0,
+    "id": 83,
+    "count": 8,
+    "name": "Orb Crystaloid Delta",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA31",
+  "title": "Saizo Sector Cleanup 1",
+  "title_jp": "第1次サイゾーエリア掃討",
+  "recommendLevel": 14,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3069,
+    "count": 9,
+    "name": "Mad Gasser",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 0
+   }
+  ]
+ },
+ {
+  "id": "EA43",
+  "title": "Saizo Sector Cleanup 5",
+  "title_jp": "第5次サイゾーエリア掃討",
+  "recommendLevel": 54,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3023,
+    "count": 5,
+    "name": "Titania",
+    "place": 1103,
+    "dun": "du103",
+    "floor": 40
+   }
+  ]
+ },
+ {
+  "id": "EA21",
+  "title": "Target: R.S.",
+  "title_jp": "敵性体R.S.",
+  "recommendLevel": 24,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2151,
+    "count": 1,
+    "name": "R.S.",
+    "place": 1102,
+    "dun": "du102",
+    "floor": 10
+   }
+  ]
+ },
+ {
+  "id": "EA09",
+  "title": "Target: Unicorn",
+  "title_jp": "敵性体ユニコーン",
+  "recommendLevel": 35,
+  "targets": [
+   {
+    "type": 2,
+    "id": 2153,
+    "count": 2,
+    "name": "Unicorn",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 30
+   }
+  ]
+ },
+ {
+  "id": "EA26",
+  "title": "Retrieve Needle Crystaloid Delta",
+  "title_jp": "物質・針状結晶体デルタ回収",
+  "recommendLevel": 39,
+  "targets": [
+   {
+    "type": 0,
+    "id": 79,
+    "count": 9,
+    "name": "Needle Crystaloid Epsilon",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA32",
+  "title": "Retrieve Orb Crystaloid Alpha",
+  "title_jp": "物質・球状結晶体アルファ回収",
+  "recommendLevel": 14,
+  "targets": [
+   {
+    "type": 0,
+    "id": 81,
+    "count": 6,
+    "name": "Orb Crystaloid Beta",
+    "place": 1000,
+    "dun": null,
+    "floor": null
+   }
+  ]
+ },
+ {
+  "id": "EA01",
+  "title": "Arrow Sector Cleanup 1",
+  "title_jp": "第1次アロウエリア掃討",
+  "recommendLevel": 7,
+  "targets": [
+   {
+    "type": 1,
+    "id": 3084,
+    "count": 9,
+    "name": "Gremlin",
+    "place": 1101,
+    "dun": "du101",
+    "floor": 0
+   }
+  ]
+ }
+]

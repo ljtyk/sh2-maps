@@ -1,0 +1,3258 @@
+{
+ "du001_0000": [
+  {
+   "name": "Gimmic_Warp（Fence1個目）①",
+   "pos": [
+    -49.16,
+    0.0,
+    -25.05
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence3個目）②",
+   "pos": [
+    -50.49,
+    0.0,
+    35.19
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence2個目）②",
+   "pos": [
+    -50.24,
+    0.0,
+    -3.1
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence3個目）①",
+   "pos": [
+    -49.38,
+    0.0,
+    35.19
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence2個目）①",
+   "pos": [
+    -49.17,
+    0.0,
+    -3.1
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（入口）",
+   "pos": [
+    -46.05,
+    0.0,
+    -37.57
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（ボス前）",
+   "pos": [
+    -34.28,
+    0.0,
+    34.31
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence1個目）②",
+   "pos": [
+    -50.25,
+    0.0,
+    -25.05
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence1個目）②",
+   "pos": [
+    -125.84,
+    0.0,
+    34.68
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（入口）",
+   "pos": [
+    15.58,
+    4.94,
+    -26.45
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（ボス前）",
+   "pos": [
+    -75.87,
+    0.0,
+    34.49
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence1個目）①",
+   "pos": [
+    -60.36,
+    6.57,
+    45.82
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence3個目）②",
+   "pos": [
+    -163.21,
+    -0.96,
+    195.92
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence2個目）②",
+   "pos": [
+    -15.18,
+    5.34,
+    -26.49
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence3個目）①",
+   "pos": [
+    -101.9,
+    15.2,
+    6.15
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（Fence2個目）①",
+   "pos": [
+    -42.44,
+    2.76,
+    -26.21
+   ]
+  }
+ ],
+ "du001_0010": [
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    101.83,
+    18.8,
+    -96.38
+   ]
+  }
+ ],
+ "du002_0000": [
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    4.5,
+    0.5,
+    55.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉_一方通行）",
+   "pos": [
+    -32.0,
+    0.5,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉）",
+   "pos": [
+    53.0,
+    0.5,
+    -45.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    -20.0,
+    0.5,
+    -13.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    8.0,
+    0.5,
+    55.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    -13.0,
+    0.5,
+    55.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    67.5,
+    0.5,
+    47.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    -60.6,
+    0.35,
+    -35.01
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（BOSS扉）",
+   "pos": [
+    49.5,
+    0.5,
+    -45.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    -57.0,
+    0.5,
+    -35.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉①）",
+   "pos": [
+    -9.5,
+    0.5,
+    -2.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉②）",
+   "pos": [
+    -13.0,
+    0.5,
+    -2.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉_一方通行）",
+   "pos": [
+    27.5,
+    0.35,
+    47.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    67.5,
+    0.5,
+    50.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉①）",
+   "pos": [
+    -9.5,
+    0.5,
+    55.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉_施錠扉）",
+   "pos": [
+    -36.22,
+    0.5,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    -20.0,
+    0.5,
+    -9.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉_施錠扉)",
+   "pos": [
+    27.5,
+    0.35,
+    50.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    0.0,
+    3.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    -55.9,
+    3.51,
+    56.58
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（BOSS扉）",
+   "pos": [
+    -43.5,
+    3.51,
+    -0.9
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉①）",
+   "pos": [
+    11.6,
+    3.51,
+    -16.43
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉②）",
+   "pos": [
+    -44.94,
+    3.15,
+    52.16
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉_一方通行）",
+   "pos": [
+    -2.77,
+    3.15,
+    20.09
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    0.06,
+    2.62,
+    -2.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉_施錠扉）",
+   "pos": [
+    27.5,
+    0.5,
+    1.09
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    -22.86,
+    1.85,
+    5.06
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    15.0,
+    0.5,
+    -18.09
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉_一方通行）",
+   "pos": [
+    12.57,
+    3.1,
+    -45.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    67.5,
+    5.4,
+    32.26
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉）",
+   "pos": [
+    34.1,
+    3.51,
+    -29.51
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    -72.5,
+    0.5,
+    -35.0
+   ]
+  }
+ ],
+ "du002_0010": [
+  {
+   "name": "Gimmic_Warp（6個目の扉②）",
+   "pos": [
+    -26.25,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉②）",
+   "pos": [
+    -43.75,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉②）",
+   "pos": [
+    -45.5,
+    0.5,
+    -32.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    31.5,
+    0.5,
+    10.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（12個目の扉_一方通行）",
+   "pos": [
+    -51.25,
+    0.5,
+    -77.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（12個目の扉_施錠扉）",
+   "pos": [
+    -45.5,
+    0.0,
+    -77.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    0.5,
+    0.0,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉①）",
+   "pos": [
+    -40.25,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉①）",
+   "pos": [
+    -57.7,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（11個目の扉_施錠扉）",
+   "pos": [
+    -4.75,
+    0.0,
+    7.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉①）",
+   "pos": [
+    20.24,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉①）",
+   "pos": [
+    -22.65,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    6.25,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉①）",
+   "pos": [
+    -51.25,
+    0.5,
+    -32.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    41.25,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（11個目の扉_一方通行）",
+   "pos": [
+    -10.5,
+    0.5,
+    7.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    51.25,
+    0.5,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉①）",
+   "pos": [
+    -40.25,
+    0.0,
+    7.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉②）",
+   "pos": [
+    -34.5,
+    0.5,
+    7.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉②）",
+   "pos": [
+    -61.25,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    37.75,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    47.75,
+    0.5,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    23.59,
+    0.5,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    25.5,
+    0.0,
+    10.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉①）",
+   "pos": [
+    -70.25,
+    12.94,
+    -32.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    0.0,
+    3.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（11個目の扉_一方通行）",
+   "pos": [
+    -70.73,
+    5.6,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    24.0,
+    2.14,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉①）",
+   "pos": [
+    -65.99,
+    5.4,
+    -77.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉②）",
+   "pos": [
+    20.45,
+    3.37,
+    -14.45
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉②）",
+   "pos": [
+    53.75,
+    0.67,
+    1.26
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    -33.52,
+    1.4,
+    -44.76
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    -57.5,
+    2.14,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    74.52,
+    3.27,
+    48.88
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    68.53,
+    1.27,
+    33.15
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉②）",
+   "pos": [
+    50.73,
+    5.6,
+    9.99
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉②）",
+   "pos": [
+    -33.77,
+    5.6,
+    7.54
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉②）",
+   "pos": [
+    -30.08,
+    9.02,
+    -139.54
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    -35.0,
+    6.33,
+    -95.36
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（12個目の扉_一方通行）",
+   "pos": [
+    -76.01,
+    12.88,
+    -32.53
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    -23.25,
+    0.5,
+    100.86
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉①）",
+   "pos": [
+    89.06,
+    5.1,
+    -43.24
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉①）",
+   "pos": [
+    -30.75,
+    6.33,
+    -137.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（11個目の扉_施錠扉）",
+   "pos": [
+    -40.63,
+    8.21,
+    -114.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉①）",
+   "pos": [
+    80.75,
+    6.58,
+    34.2
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    103.99,
+    5.1,
+    -51.09
+   ]
+  }
+ ],
+ "du002_0020": [
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    -2.0,
+    0.5,
+    27.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    2.5,
+    0.5,
+    -26.5
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    62.09,
+    1.0,
+    -12.73
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    62.5,
+    0.5,
+    0.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    2.5,
+    -0.0,
+    -32.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    -24.5,
+    0.5,
+    27.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    62.5,
+    0.0,
+    -5.5
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -63.76,
+    0.5,
+    18.84
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    -15.0,
+    0.5,
+    20.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    -15.0,
+    0.5,
+    16.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    -28.0,
+    0.5,
+    27.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉①）",
+   "pos": [
+    -5.5,
+    0.5,
+    27.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    22.86,
+    3.12,
+    49.57
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    69.76,
+    6.69,
+    -25.7
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    -7.95,
+    7.97,
+    -49.69
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    35.08,
+    3.18,
+    37.44
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    40.84,
+    3.51,
+    -52.66
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -7.92,
+    2.86,
+    -21.58
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉①）",
+   "pos": [
+    -9.7,
+    6.69,
+    -29.76
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -3.34,
+    0.87,
+    -11.58
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    -7.95,
+    7.97,
+    -39.76
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    47.25,
+    6.33,
+    -20.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    -9.08,
+    3.51,
+    6.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    -47.58,
+    3.18,
+    42.06
+   ]
+  }
+ ],
+ "du003_0000": [
+  {
+   "name": "Gimmic_Warp（3個目の扉①）",
+   "pos": [
+    35.75,
+    0.0,
+    -46.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉②）",
+   "pos": [
+    -36.25,
+    0.0,
+    -11.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（11個目の扉）",
+   "pos": [
+    -29.25,
+    0.0,
+    -38.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉①）",
+   "pos": [
+    -36.25,
+    0.0,
+    46.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    26.25,
+    0.0,
+    -14.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（ボス扉）",
+   "pos": [
+    -25.75,
+    0.0,
+    -38.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉①）",
+   "pos": [
+    -36.25,
+    0.0,
+    -8.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    26.25,
+    0.0,
+    -28.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉①）",
+   "pos": [
+    -36.25,
+    0.0,
+    -45.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    42.75,
+    -0.5,
+    -46.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    17.75,
+    -0.5,
+    53.75
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -7.88,
+    0.0,
+    -48.87
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉②）",
+   "pos": [
+    -36.25,
+    0.0,
+    43.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    6.25,
+    0.0,
+    46.0
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -13.16,
+    -0.0,
+    -18.72
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    6.25,
+    0.0,
+    49.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    26.25,
+    0.0,
+    -10.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉①）",
+   "pos": [
+    -36.25,
+    0.0,
+    9.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉②）",
+   "pos": [
+    -36.25,
+    0.0,
+    5.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉②）",
+   "pos": [
+    -36.25,
+    0.0,
+    -49.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉①）",
+   "pos": [
+    -25.75,
+    0.0,
+    53.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    26.25,
+    0.0,
+    -31.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉②）",
+   "pos": [
+    -29.25,
+    0.0,
+    53.52
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    10.75,
+    0.0,
+    53.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉②）",
+   "pos": [
+    17.66,
+    2.02,
+    67.12
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（5個目の扉①）",
+   "pos": [
+    -36.2,
+    -3.33,
+    -74.36
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉①）",
+   "pos": [
+    -43.84,
+    1.35,
+    50.76
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉②）",
+   "pos": [
+    -0.31,
+    2.75,
+    5.13
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉②）",
+   "pos": [
+    0.0,
+    3.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（8個目の扉①）",
+   "pos": [
+    33.25,
+    0.3,
+    -21.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉②）",
+   "pos": [
+    -36.25,
+    1.64,
+    -45.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（6個目の扉①）",
+   "pos": [
+    -36.25,
+    1.64,
+    5.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉②）",
+   "pos": [
+    0.0,
+    0.3,
+    -7.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉②）",
+   "pos": [
+    0.0,
+    0.3,
+    7.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（11個目の扉）",
+   "pos": [
+    16.53,
+    2.97,
+    53.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（10個目の扉①）",
+   "pos": [
+    -36.25,
+    5.0,
+    -69.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉①）",
+   "pos": [
+    31.25,
+    5.11,
+    -46.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（2個目の扉①）",
+   "pos": [
+    -16.0,
+    5.61,
+    -3.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（1個目の扉②）",
+   "pos": [
+    2.7,
+    1.6,
+    29.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（ボス扉）",
+   "pos": [
+    -9.75,
+    5.11,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（7個目の扉②）",
+   "pos": [
+    -12.5,
+    -0.0,
+    -0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -31.9,
+    -4.72,
+    -0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（3個目の扉②）",
+   "pos": [
+    35.0,
+    2.77,
+    -42.62
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（9個目の扉①）",
+   "pos": [
+    10.65,
+    2.54,
+    53.75
+   ]
+  },
+  {
+   "name": "Gimmic_Warp（4個目の扉①）",
+   "pos": [
+    32.5,
+    1.45,
+    -3.75
+   ]
+  }
+ ],
+ "du003_0010": [
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -68.36,
+    -1.0,
+    -28.61
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -58.64,
+    4.63,
+    -3.39
+   ]
+  }
+ ],
+ "du003_0020": [
+  {
+   "name": "Gimmic_DU003_Walls",
+   "pos": [
+    -0.0,
+    -1.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -68.36,
+    -1.0,
+    -28.61
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（4個目）",
+   "pos": [
+    152.2,
+    -0.5,
+    -95.25
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（3個目）",
+   "pos": [
+    56.95,
+    -0.5,
+    -65.65
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -30.41,
+    -0.5,
+    39.71
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -66.58,
+    2.52,
+    -81.25
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    71.45,
+    0.84,
+    46.28
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（4個目）",
+   "pos": [
+    -58.64,
+    4.63,
+    -3.39
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（3個目）",
+   "pos": [
+    -71.41,
+    1.96,
+    106.39
+   ]
+  }
+ ],
+ "du003_0030": [
+  {
+   "name": "Gimmic_Portal（3個目）",
+   "pos": [
+    56.95,
+    -0.5,
+    -65.65
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（4個目）",
+   "pos": [
+    152.2,
+    -0.5,
+    -95.25
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -30.41,
+    -0.5,
+    39.71
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -68.36,
+    -1.0,
+    -28.61
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（2個目）",
+   "pos": [
+    -43.66,
+    1.3,
+    119.96
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（1個目）",
+   "pos": [
+    -62.5,
+    -1.0,
+    -88.75
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（3個目）",
+   "pos": [
+    -48.38,
+    2.54,
+    88.75
+   ]
+  },
+  {
+   "name": "Gimmic_Portal（4個目）",
+   "pos": [
+    44.5,
+    4.64,
+    -71.25
+   ]
+  }
+ ],
+ "du003_0040": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    -138.75,
+    -7.5,
+    27.75
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    -168.48,
+    -5.81,
+    27.65
+   ]
+  }
+ ],
+ "du004_0000": [
+  {
+   "name": "Gimmic_ElevatorPanel",
+   "pos": [
+    21.86,
+    11.0,
+    -24.95
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    -33.62,
+    6.33,
+    31.93
+   ]
+  },
+  {
+   "name": "Gimmic_DU004_CorridorDoor",
+   "pos": [
+    -33.62,
+    15.92,
+    46.17
+   ]
+  }
+ ],
+ "du004_0010": [
+  {
+   "name": "Gimmic_DU004_LabDoor",
+   "pos": [
+    -33.42,
+    7.0,
+    32.31
+   ]
+  }
+ ],
+ "du004_0020": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    -34.96,
+    0.0,
+    -36.97
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    0.0,
+    3.0,
+    0.0
+   ]
+  }
+ ],
+ "du005_0000": [
+  {
+   "name": "Gimmic_Portal (スタート地点)",
+   "pos": [
+    -35.46,
+    -0.62,
+    -66.58
+   ]
+  },
+  {
+   "name": "Gimmic_Portal (アザゼル戦前)",
+   "pos": [
+    -95.91,
+    1.74,
+    61.25
+   ]
+  },
+  {
+   "name": "Gimmic_Portal (ファントム戦前)",
+   "pos": [
+    10.98,
+    1.74,
+    67.49
+   ]
+  }
+ ],
+ "du005_0010": [
+  {
+   "name": "Gimmic_DU005_WaterCurrents (2)",
+   "pos": [
+    -33.0,
+    1.11,
+    27.5
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (1)",
+   "pos": [
+    -2.43,
+    0.92,
+    -0.6
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents",
+   "pos": [
+    25.6,
+    1.05,
+    27.5
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (3)",
+   "pos": [
+    -88.6,
+    1.5,
+    83.56
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (4)",
+   "pos": [
+    82.22,
+    -1.03,
+    89.65
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (2)",
+   "pos": [
+    50.65,
+    -1.34,
+    -102.52
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (1)",
+   "pos": [
+    -98.07,
+    -0.39,
+    19.74
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (3)",
+   "pos": [
+    62.5,
+    -2.6,
+    111.3
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents",
+   "pos": [
+    26.63,
+    -0.23,
+    9.63
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_WaterCurrents (4)",
+   "pos": [
+    -29.13,
+    -0.44,
+    78.61
+   ]
+  }
+ ],
+ "du005_0030": [
+  {
+   "name": "Gimmic_Portal",
+   "pos": [
+    -2.5,
+    -0.44,
+    49.88
+   ]
+  },
+  {
+   "name": "Gimmic_Portal",
+   "pos": [
+    -15.36,
+    4.99,
+    -34.29
+   ]
+  }
+ ],
+ "du005_0050": [
+  {
+   "name": "Gimmic_DU005_OndaRoomBoll",
+   "pos": [
+    0.0,
+    -25.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_DU005_OndaRoomBoll",
+   "pos": [
+    40.89,
+    8.11,
+    14.46
+   ]
+  }
+ ],
+ "du007_0020": [
+  {
+   "name": "Gimmic_DU007_Trii",
+   "pos": [
+    -15.69,
+    -360.0,
+    -24.75
+   ]
+  },
+  {
+   "name": "Gimmic_DU007_Trii",
+   "pos": [
+    0.0,
+    -119.28,
+    19.04
+   ]
+  }
+ ],
+ "du101_0000": [
+  {
+   "name": "Gimmic_SpawnEnemy",
+   "pos": [
+    -90.33,
+    -9.95,
+    -27.72
+   ]
+  },
+  {
+   "name": "Gimmic_Portal_04_中央",
+   "pos": [
+    -21.47,
+    -13.93,
+    37.55
+   ]
+  }
+ ],
+ "du101_0020": [
+  {
+   "name": "Gimmic_GateLong",
+   "pos": [
+    0.0,
+    3.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    30.37,
+    -3.98,
+    -12.63
+   ]
+  },
+  {
+   "name": "Gimmic_RandomWarp",
+   "pos": [
+    -68.25,
+    0.0,
+    40.0
+   ]
+  },
+  {
+   "name": "Gimmic_GateLong",
+   "pos": [
+    -57.55,
+    -3.98,
+    37.5
+   ]
+  }
+ ],
+ "du101_0050": [
+  {
+   "name": "Gimmic_SpawnEnemy (1)",
+   "pos": [
+    37.5,
+    -21.89,
+    48.75
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (5)",
+   "pos": [
+    21.5,
+    -21.89,
+    40.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (3)",
+   "pos": [
+    42.5,
+    -21.89,
+    56.25
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (4)",
+   "pos": [
+    27.25,
+    -21.89,
+    34.25
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy",
+   "pos": [
+    50.0,
+    -21.89,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (2)",
+   "pos": [
+    22.5,
+    -21.89,
+    48.75
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（3個目）",
+   "pos": [
+    -5.0,
+    -13.93,
+    -92.5
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（2個目）",
+   "pos": [
+    -5.0,
+    -11.93,
+    17.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (5)",
+   "pos": [
+    100.0,
+    -17.91,
+    -102.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    120.0,
+    -17.91,
+    -112.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (3)",
+   "pos": [
+    110.0,
+    -17.91,
+    -112.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (9)",
+   "pos": [
+    65.0,
+    -17.91,
+    -122.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (11)",
+   "pos": [
+    55.0,
+    -17.91,
+    -122.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (6)",
+   "pos": [
+    75.0,
+    -17.91,
+    -102.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (8)",
+   "pos": [
+    65.0,
+    -17.91,
+    -112.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (10)",
+   "pos": [
+    55.0,
+    -17.91,
+    -112.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (2)",
+   "pos": [
+    110.0,
+    -17.91,
+    -102.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (7)",
+   "pos": [
+    65.0,
+    -17.91,
+    -102.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (4)",
+   "pos": [
+    110.0,
+    -17.91,
+    -122.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (1)",
+   "pos": [
+    120.0,
+    -17.91,
+    -122.5
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（ボス）",
+   "pos": [
+    90.0,
+    -21.89,
+    92.5
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（1個目）",
+   "pos": [
+    -35.0,
+    -7.96,
+    92.5
+   ]
+  }
+ ],
+ "du102_0030": [
+  {
+   "name": "Gimmic_Warp (34)",
+   "pos": [
+    0.0,
+    3.0,
+    0.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (37)",
+   "pos": [
+    2.7,
+    5.6,
+    80.62
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (8)",
+   "pos": [
+    59.6,
+    5.6,
+    43.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (18)",
+   "pos": [
+    -60.85,
+    -9.95,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (31)",
+   "pos": [
+    -22.5,
+    -15.92,
+    96.6
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (42)",
+   "pos": [
+    110.85,
+    -13.93,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (43)",
+   "pos": [
+    86.65,
+    -9.95,
+    53.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (39)",
+   "pos": [
+    95.0,
+    -13.93,
+    108.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (4)",
+   "pos": [
+    34.15,
+    0.0,
+    -20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (44)",
+   "pos": [
+    75.0,
+    -9.95,
+    81.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (29)",
+   "pos": [
+    -49.15,
+    -15.92,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp",
+   "pos": [
+    -93.35,
+    0.0,
+    -107.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (28)",
+   "pos": [
+    -52.5,
+    -15.92,
+    88.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (40)",
+   "pos": [
+    78.38,
+    -9.95,
+    88.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (3)",
+   "pos": [
+    68.35,
+    0.0,
+    -102.5
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (2)",
+   "pos": [
+    2.5,
+    -5.97,
+    -74.15
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (55)",
+   "pos": [
+    45.85,
+    -15.92,
+    85.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (56)",
+   "pos": [
+    42.5,
+    -15.92,
+    88.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (15)",
+   "pos": [
+    87.5,
+    -3.98,
+    -33.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (17)",
+   "pos": [
+    -105.85,
+    -13.93,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (49)",
+   "pos": [
+    57.5,
+    -15.92,
+    88.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (19)",
+   "pos": [
+    -32.5,
+    -13.93,
+    16.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (58)",
+   "pos": [
+    57.5,
+    -15.92,
+    103.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (32)",
+   "pos": [
+    -22.42,
+    -15.92,
+    81.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (46)",
+   "pos": [
+    40.85,
+    -13.93,
+    21.8
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (59)",
+   "pos": [
+    27.5,
+    -15.92,
+    103.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (51)",
+   "pos": [
+    24.2,
+    -15.92,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (10)",
+   "pos": [
+    -82.5,
+    -3.98,
+    -26.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (7)",
+   "pos": [
+    65.0,
+    -3.98,
+    -78.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (21)",
+   "pos": [
+    -70.0,
+    -9.95,
+    81.7
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (45)",
+   "pos": [
+    104.15,
+    -13.93,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (16)",
+   "pos": [
+    2.5,
+    -9.95,
+    -6.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (53)",
+   "pos": [
+    30.8,
+    -15.92,
+    85.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (23)",
+   "pos": [
+    -88.35,
+    -9.95,
+    50.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (12)",
+   "pos": [
+    -79.2,
+    -3.98,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (35)",
+   "pos": [
+    -40.85,
+    -15.92,
+    85.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (11)",
+   "pos": [
+    -60.0,
+    -3.98,
+    -78.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (34)",
+   "pos": [
+    -37.5,
+    -15.92,
+    88.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (24)",
+   "pos": [
+    -1.65,
+    -9.95,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (8)",
+   "pos": [
+    65.0,
+    -3.98,
+    -71.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (37)",
+   "pos": [
+    -52.5,
+    -15.92,
+    103.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (27)",
+   "pos": [
+    -55.8,
+    -15.92,
+    85.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (22)",
+   "pos": [
+    -35.85,
+    -13.93,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (26)",
+   "pos": [
+    10.0,
+    -9.95,
+    83.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (47)",
+   "pos": [
+    34.2,
+    -13.93,
+    21.8
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (20)",
+   "pos": [
+    -57.5,
+    -9.95,
+    16.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (50)",
+   "pos": [
+    54.15,
+    -15.92,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (61)",
+   "pos": [
+    10.0,
+    -13.93,
+    106.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (14)",
+   "pos": [
+    87.5,
+    -3.98,
+    -26.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (6)",
+   "pos": [
+    -56.7,
+    -3.98,
+    -75.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (33)",
+   "pos": [
+    -25.8,
+    -15.92,
+    85.25
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (13)",
+   "pos": [
+    90.85,
+    -3.98,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (48)",
+   "pos": [
+    13.35,
+    -13.93,
+    110.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (38)",
+   "pos": [
+    34.2,
+    -13.93,
+    17.45
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (41)",
+   "pos": [
+    98.35,
+    -13.93,
+    105.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (30)",
+   "pos": [
+    -19.2,
+    -15.92,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (25)",
+   "pos": [
+    -73.38,
+    -9.95,
+    88.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (57)",
+   "pos": [
+    42.5,
+    -15.92,
+    81.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (36)",
+   "pos": [
+    -37.5,
+    -15.92,
+    81.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (52)",
+   "pos": [
+    27.5,
+    -15.92,
+    96.65
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (9)",
+   "pos": [
+    -85.85,
+    -3.98,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (54)",
+   "pos": [
+    24.15,
+    -15.92,
+    85.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (60)",
+   "pos": [
+    71.65,
+    -9.95,
+    85.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (1)",
+   "pos": [
+    -6.7,
+    0.0,
+    -95.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (5)",
+   "pos": [
+    -35.85,
+    0.0,
+    -20.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (64)",
+   "pos": [
+    5.85,
+    -23.88,
+    55.0
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (63)",
+   "pos": [
+    17.5,
+    -19.9,
+    3.35
+   ]
+  },
+  {
+   "name": "Gimmic_Warp (62)",
+   "pos": [
+    -12.55,
+    -19.9,
+    3.35
+   ]
+  }
+ ],
+ "du102_0040": [
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (29)",
+   "pos": [
+    -30.0,
+    -43.78,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (16)",
+   "pos": [
+    50.0,
+    -43.78,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (33)",
+   "pos": [
+    -50.0,
+    -43.78,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (18)",
+   "pos": [
+    -10.0,
+    -43.78,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (6)",
+   "pos": [
+    30.0,
+    -43.78,
+    87.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (30)",
+   "pos": [
+    -45.0,
+    -43.78,
+    90.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (23)",
+   "pos": [
+    -35.0,
+    -43.78,
+    42.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (27)",
+   "pos": [
+    -50.0,
+    -43.78,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (14)",
+   "pos": [
+    42.5,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (4)",
+   "pos": [
+    20.0,
+    -43.78,
+    82.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (28)",
+   "pos": [
+    -40.0,
+    -43.78,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (10)",
+   "pos": [
+    42.5,
+    -43.78,
+    35.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (7)",
+   "pos": [
+    25.0,
+    -43.78,
+    95.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (24)",
+   "pos": [
+    -10.0,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (26)",
+   "pos": [
+    -30.0,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (19)",
+   "pos": [
+    -20.0,
+    -43.78,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (21)",
+   "pos": [
+    -15.0,
+    -43.78,
+    42.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (3)",
+   "pos": [
+    30.0,
+    -43.78,
+    77.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (31)",
+   "pos": [
+    -35.0,
+    -43.78,
+    90.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (12)",
+   "pos": [
+    50.0,
+    -43.78,
+    45.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (11)",
+   "pos": [
+    27.5,
+    -43.78,
+    35.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    25.0,
+    -43.78,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (15)",
+   "pos": [
+    27.5,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (35)",
+   "pos": [
+    -30.0,
+    -43.78,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (1)",
+   "pos": [
+    35.0,
+    -43.78,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (13)",
+   "pos": [
+    35.0,
+    -43.78,
+    45.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (9)",
+   "pos": [
+    45.0,
+    -43.78,
+    95.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (20)",
+   "pos": [
+    -30.0,
+    -43.78,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (32)",
+   "pos": [
+    -25.0,
+    -43.78,
+    90.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (5)",
+   "pos": [
+    40.0,
+    -43.78,
+    82.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (25)",
+   "pos": [
+    -20.0,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (22)",
+   "pos": [
+    -25.0,
+    -43.78,
+    42.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (8)",
+   "pos": [
+    35.0,
+    -43.78,
+    95.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (17)",
+   "pos": [
+    35.0,
+    -43.78,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (2)",
+   "pos": [
+    45.0,
+    -43.78,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (34)",
+   "pos": [
+    -40.0,
+    -43.78,
+    100.0
+   ]
+  }
+ ],
+ "du103_0000": [
+  {
+   "name": "Gimmic_Portal_02",
+   "pos": [
+    -41.5,
+    -7.96,
+    -6.0
+   ]
+  },
+  {
+   "name": "Gimmic_Portal_03",
+   "pos": [
+    -20.0,
+    -17.91,
+    102.5
+   ]
+  },
+  {
+   "name": "Gimmic_Portal_01",
+   "pos": [
+    -10.04,
+    0.0,
+    -91.56
+   ]
+  }
+ ],
+ "du103_0030": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    7.5,
+    0.0,
+    -9.5
+   ]
+  }
+ ],
+ "du103_0040": [
+  {
+   "name": "Gimmic_Gate（3個目）",
+   "pos": [
+    81.5,
+    45.1,
+    -106.5
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（1個目）",
+   "pos": [
+    -24.8,
+    14.7,
+    -123.4
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（ボス）",
+   "pos": [
+    0.0,
+    3.0,
+    -1.26
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（2個目）",
+   "pos": [
+    64.3,
+    -6.8,
+    133.79
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (5)",
+   "pos": [
+    -42.5,
+    -21.89,
+    182.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (3)",
+   "pos": [
+    55.0,
+    -21.89,
+    132.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (2)",
+   "pos": [
+    10.0,
+    -21.89,
+    172.75
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (4)",
+   "pos": [
+    -65.0,
+    -21.89,
+    167.75
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (1)",
+   "pos": [
+    71.4,
+    -21.89,
+    177.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (6)",
+   "pos": [
+    -37.75,
+    -21.89,
+    120.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (8)",
+   "pos": [
+    70.0,
+    -9.95,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (16)",
+   "pos": [
+    30.0,
+    -9.95,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (17)",
+   "pos": [
+    17.5,
+    -9.95,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (12)",
+   "pos": [
+    70.0,
+    -9.95,
+    40.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (9)",
+   "pos": [
+    55.0,
+    -9.95,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (3)",
+   "pos": [
+    30.0,
+    -9.95,
+    -20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    27.5,
+    -9.95,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (19)",
+   "pos": [
+    25.0,
+    -9.95,
+    72.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (4)",
+   "pos": [
+    45.0,
+    -9.95,
+    -20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (18)",
+   "pos": [
+    5.0,
+    -9.95,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (7)",
+   "pos": [
+    37.5,
+    -9.95,
+    -12.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (14)",
+   "pos": [
+    25.0,
+    -9.95,
+    47.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (20)",
+   "pos": [
+    10.0,
+    -9.95,
+    72.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (2)",
+   "pos": [
+    47.5,
+    -9.95,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (15)",
+   "pos": [
+    10.0,
+    -9.95,
+    47.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (10)",
+   "pos": [
+    75.0,
+    -9.95,
+    30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (1)",
+   "pos": [
+    37.5,
+    -9.95,
+    -27.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (5)",
+   "pos": [
+    27.5,
+    -9.95,
+    -10.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (13)",
+   "pos": [
+    55.0,
+    -9.95,
+    40.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (6)",
+   "pos": [
+    47.5,
+    -9.95,
+    -10.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (11)",
+   "pos": [
+    60.0,
+    -9.95,
+    30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy",
+   "pos": [
+    72.5,
+    -21.89,
+    157.5
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（2個目）",
+   "pos": [
+    -37.51,
+    -9.95,
+    90.02
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（ボス）",
+   "pos": [
+    -2.5,
+    -21.89,
+    155.0
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（1個目）",
+   "pos": [
+    2.5,
+    0.0,
+    -65.0
+   ]
+  },
+  {
+   "name": "Gimmic_Gate（3個目）",
+   "pos": [
+    37.5,
+    -9.95,
+    95.0
+   ]
+  }
+ ],
+ "fi001_0000": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    14.94,
+    9.49,
+    -35.79
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    48.94,
+    9.49,
+    -27.53
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    58.52,
+    12.3,
+    -21.37
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    37.44,
+    11.9,
+    -13.92
+   ]
+  }
+ ],
+ "fi003_0000": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    -4.11,
+    8.71,
+    42.11
+   ]
+  }
+ ],
+ "fi007_0000": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    -6.11,
+    0.2,
+    24.38
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    8.21,
+    16.85,
+    5.46
+   ]
+  }
+ ],
+ "fi009_0000": [
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    2.22,
+    0.1,
+    -44.34
+   ]
+  },
+  {
+   "name": "Gimmic_Warp",
+   "pos": [
+    25.25,
+    0.1,
+    -39.45
+   ]
+  },
+  {
+   "name": "Gimmic_Warp",
+   "pos": [
+    25.25,
+    0.1,
+    -42.17
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    82.74,
+    0.0,
+    -51.29
+   ]
+  },
+  {
+   "name": "Gimmic_Warp",
+   "pos": [
+    82.1,
+    10.82,
+    -37.87
+   ]
+  },
+  {
+   "name": "Gimmic_AreaJump",
+   "pos": [
+    61.28,
+    6.57,
+    -37.8
+   ]
+  }
+ ],
+ "fi010_0000": [
+  {
+   "name": "Gimmic_SafehouseDoor",
+   "pos": [
+    2.92,
+    0.0,
+    -0.26
+   ]
+  },
+  {
+   "name": "Gimmic_SafehouseDoor",
+   "pos": [
+    8.56,
+    1.7,
+    8.9
+   ]
+  }
+ ],
+ "fi010_0010": [
+  {
+   "name": "Gimmic_SafehouseDoor",
+   "pos": [
+    2.92,
+    0.0,
+    -0.26
+   ]
+  },
+  {
+   "name": "Gimmic_SafehouseDoor",
+   "pos": [
+    7.51,
+    1.57,
+    2.31
+   ]
+  }
+ ]
+}

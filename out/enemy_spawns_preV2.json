@@ -1,0 +1,538 @@
+{
+ "du004_0000": [
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    -33.62,
+    6.33,
+    31.93
+   ]
+  }
+ ],
+ "du101_0020": [
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    30.37,
+    -3.98,
+    -12.63
+   ]
+  }
+ ],
+ "du102_0040": [
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (29)",
+   "pos": [
+    -30.0,
+    -43.78,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (16)",
+   "pos": [
+    50.0,
+    -43.78,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (33)",
+   "pos": [
+    -50.0,
+    -43.78,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (18)",
+   "pos": [
+    -10.0,
+    -43.78,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (6)",
+   "pos": [
+    30.0,
+    -43.78,
+    87.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (30)",
+   "pos": [
+    -45.0,
+    -43.78,
+    90.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (23)",
+   "pos": [
+    -35.0,
+    -43.78,
+    42.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (27)",
+   "pos": [
+    -50.0,
+    -43.78,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (14)",
+   "pos": [
+    42.5,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (4)",
+   "pos": [
+    20.0,
+    -43.78,
+    82.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (28)",
+   "pos": [
+    -40.0,
+    -43.78,
+    80.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (10)",
+   "pos": [
+    42.5,
+    -43.78,
+    35.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (7)",
+   "pos": [
+    25.0,
+    -43.78,
+    95.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (24)",
+   "pos": [
+    -10.0,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (26)",
+   "pos": [
+    -30.0,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (19)",
+   "pos": [
+    -20.0,
+    -43.78,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (21)",
+   "pos": [
+    -15.0,
+    -43.78,
+    42.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (3)",
+   "pos": [
+    30.0,
+    -43.78,
+    77.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (31)",
+   "pos": [
+    -35.0,
+    -43.78,
+    90.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (12)",
+   "pos": [
+    50.0,
+    -43.78,
+    45.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (11)",
+   "pos": [
+    27.5,
+    -43.78,
+    35.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    25.0,
+    -43.78,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (15)",
+   "pos": [
+    27.5,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (35)",
+   "pos": [
+    -30.0,
+    -43.78,
+    100.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (1)",
+   "pos": [
+    35.0,
+    -43.78,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (13)",
+   "pos": [
+    35.0,
+    -43.78,
+    45.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (9)",
+   "pos": [
+    45.0,
+    -43.78,
+    95.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (20)",
+   "pos": [
+    -30.0,
+    -43.78,
+    32.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (32)",
+   "pos": [
+    -25.0,
+    -43.78,
+    90.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (5)",
+   "pos": [
+    40.0,
+    -43.78,
+    82.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (25)",
+   "pos": [
+    -20.0,
+    -43.78,
+    52.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (22)",
+   "pos": [
+    -25.0,
+    -43.78,
+    42.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (8)",
+   "pos": [
+    35.0,
+    -43.78,
+    95.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (17)",
+   "pos": [
+    35.0,
+    -43.78,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (2)",
+   "pos": [
+    45.0,
+    -43.78,
+    70.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (34)",
+   "pos": [
+    -40.0,
+    -43.78,
+    100.0
+   ]
+  }
+ ],
+ "du103_0040": [
+  {
+   "name": "Gimmic_SpawnEnemy (5)",
+   "pos": [
+    -42.5,
+    -21.89,
+    182.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (3)",
+   "pos": [
+    55.0,
+    -21.89,
+    132.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (2)",
+   "pos": [
+    10.0,
+    -21.89,
+    172.75
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (4)",
+   "pos": [
+    -65.0,
+    -21.89,
+    167.75
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (1)",
+   "pos": [
+    71.4,
+    -21.89,
+    177.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy (6)",
+   "pos": [
+    -37.75,
+    -21.89,
+    120.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (8)",
+   "pos": [
+    70.0,
+    -9.95,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (16)",
+   "pos": [
+    30.0,
+    -9.95,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (17)",
+   "pos": [
+    17.5,
+    -9.95,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (12)",
+   "pos": [
+    70.0,
+    -9.95,
+    40.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (9)",
+   "pos": [
+    55.0,
+    -9.95,
+    20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (3)",
+   "pos": [
+    30.0,
+    -9.95,
+    -20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround",
+   "pos": [
+    27.5,
+    -9.95,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (19)",
+   "pos": [
+    25.0,
+    -9.95,
+    72.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (4)",
+   "pos": [
+    45.0,
+    -9.95,
+    -20.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (18)",
+   "pos": [
+    5.0,
+    -9.95,
+    60.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (7)",
+   "pos": [
+    37.5,
+    -9.95,
+    -12.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (14)",
+   "pos": [
+    25.0,
+    -9.95,
+    47.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (20)",
+   "pos": [
+    10.0,
+    -9.95,
+    72.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (2)",
+   "pos": [
+    47.5,
+    -9.95,
+    -30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (15)",
+   "pos": [
+    10.0,
+    -9.95,
+    47.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (10)",
+   "pos": [
+    75.0,
+    -9.95,
+    30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (1)",
+   "pos": [
+    37.5,
+    -9.95,
+    -27.5
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (5)",
+   "pos": [
+    27.5,
+    -9.95,
+    -10.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (13)",
+   "pos": [
+    55.0,
+    -9.95,
+    40.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (6)",
+   "pos": [
+    47.5,
+    -9.95,
+    -10.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemyWrapAround (11)",
+   "pos": [
+    60.0,
+    -9.95,
+    30.0
+   ]
+  },
+  {
+   "name": "Gimmic_SpawnEnemy",
+   "pos": [
+    72.5,
+    -21.89,
+    157.5
+   ]
+  }
+ ]
+}

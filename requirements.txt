@@ -1,0 +1,6 @@
+UnityPy>=7
+Pillow
+numpy
+matplotlib
+texture2ddecoder
+pycryptodome

@@ -1,0 +1,1987 @@
+[
+ {
+  "gimmic_id": "du001_0000_GIMMIC_000",
+  "dun": "du001",
+  "area": "0000",
+  "group": 1,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -46.05,
+   0.0,
+   -37.57
+  ],
+  "label": "Gimmic_Portal（入口）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du001_0000_GIMMIC_001",
+  "dun": "du001",
+  "area": "0000",
+  "group": 1,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "North: Container Area",
+  "name_jp": "北側・コンテナ置き場前",
+  "pos": [
+   -34.28,
+   0.0,
+   34.31
+  ],
+  "label": "Gimmic_Portal（ボス前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du001_0010_GIMMICK_001",
+  "dun": "du001",
+  "area": "0010",
+  "group": 2,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   318.6,
+   -0.6,
+   -16.3
+  ],
+  "label": "Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du001_0010_GIMMICK_002",
+  "dun": "du001",
+  "area": "0010",
+  "group": 2,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "North: Iron Gates",
+  "name_jp": "北東側・鉄の扉前",
+  "pos": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "label": "Portal（2個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0000_GIMMICK_017",
+  "dun": "du002",
+  "area": "0000",
+  "group": 3,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Northwest Path",
+  "name_jp": "北東の通路",
+  "pos": [
+   -75.24,
+   5.4,
+   -35.1
+  ],
+  "label": "1個目のPortal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0000_GIMMICK_018",
+  "dun": "du002",
+  "area": "0000",
+  "group": 3,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "Southwest Path",
+  "name_jp": "南西の通路",
+  "pos": [
+   -52.5,
+   0.5,
+   -17.49
+  ],
+  "label": "2個目のPortal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0000_GIMMICK_019",
+  "dun": "du002",
+  "area": "0000",
+  "group": 3,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "Southeast Path",
+  "name_jp": "南東の通路",
+  "pos": [
+   11.6,
+   3.51,
+   -14.01
+  ],
+  "label": "3個目のPortal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0010_GIMMICK_026",
+  "dun": "du002",
+  "area": "0010",
+  "group": 3,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Subway Entrance",
+  "name_jp": "入口・地下鉄ホーム",
+  "pos": [
+   -31.52,
+   1.0,
+   -112.54
+  ],
+  "label": "1個目のPortal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0010_GIMMICK_027",
+  "dun": "du002",
+  "area": "0010",
+  "group": 3,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "Northeast Path",
+  "name_jp": "北東の通路",
+  "pos": [
+   13.33,
+   0.5,
+   99.09
+  ],
+  "label": "2個目のPortal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0010_GIMMICK_029",
+  "dun": "du002",
+  "area": "0010",
+  "group": 3,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Northwest Path",
+  "name_jp": "北西の通路",
+  "pos": [
+   -33.38,
+   0.5,
+   100.86
+  ],
+  "label": "3個目のPortal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0020_GIMMICK_012",
+  "dun": "du002",
+  "area": "0020",
+  "group": 3,
+  "menu": 7,
+  "subarea": 0,
+  "name_en": "Subway Entrance",
+  "name_jp": "入口・地下鉄ホーム",
+  "pos": [
+   -3.34,
+   0.87,
+   -11.58
+  ],
+  "label": "Gimmic_Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du002_0020_GIMMICK_013",
+  "dun": "du002",
+  "area": "0020",
+  "group": 3,
+  "menu": 8,
+  "subarea": 0,
+  "name_en": "Center Stairs",
+  "name_jp": "中層への階段前",
+  "pos": [
+   -7.92,
+   2.86,
+   -21.58
+  ],
+  "label": "Gimmic_Portal（2個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0000_GIMMICK_023",
+  "dun": "du003",
+  "area": "0000",
+  "group": 4,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -36.25,
+   -4.72,
+   -85.65
+  ],
+  "label": "Gimmic_Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0000_GIMMICK_024",
+  "dun": "du003",
+  "area": "0000",
+  "group": 4,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "West Path",
+  "name_jp": "西の通路",
+  "pos": [
+   0.0,
+   0.0,
+   0.0
+  ],
+  "label": "Gimmic_Portal（2個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0010_GIMMICK_028",
+  "dun": "du003",
+  "area": "0010",
+  "group": 4,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "On Rails",
+  "name_jp": "線路上",
+  "pos": [
+   -68.36,
+   -1.0,
+   -28.61
+  ],
+  "label": "Gimmic_Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_028",
+  "dun": "du003",
+  "area": "0020",
+  "group": 4,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "On Rails",
+  "name_jp": "線路上",
+  "pos": [
+   -68.36,
+   -1.0,
+   -28.61
+  ],
+  "label": "Gimmic_Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_029",
+  "dun": "du003",
+  "area": "0020",
+  "group": 4,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Past the Hidden Door",
+  "name_jp": "隠し扉の先",
+  "pos": [
+   -30.41,
+   -0.5,
+   39.71
+  ],
+  "label": "Gimmic_Portal（2個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_030",
+  "dun": "du003",
+  "area": "0020",
+  "group": 4,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "South Room",
+  "name_jp": "南の部屋",
+  "pos": [
+   56.95,
+   -0.5,
+   -65.65
+  ],
+  "label": "Gimmic_Portal（3個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0020_GIMMICK_031",
+  "dun": "du003",
+  "area": "0020",
+  "group": 4,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Southeast Path",
+  "name_jp": "南東の通路",
+  "pos": [
+   152.2,
+   -0.5,
+   -95.25
+  ],
+  "label": "Gimmic_Portal（4個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_028",
+  "dun": "du003",
+  "area": "0030",
+  "group": 4,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "On Rails",
+  "name_jp": "線路上",
+  "pos": [
+   -62.5,
+   -1.0,
+   -88.75
+  ],
+  "label": "Gimmic_Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_029",
+  "dun": "du003",
+  "area": "0030",
+  "group": 4,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Past the Hidden Door",
+  "name_jp": "隠し扉の先",
+  "pos": [
+   -43.66,
+   1.3,
+   119.96
+  ],
+  "label": "Gimmic_Portal（2個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_030",
+  "dun": "du003",
+  "area": "0030",
+  "group": 4,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "South Room",
+  "name_jp": "南の部屋",
+  "pos": [
+   -48.38,
+   2.54,
+   88.75
+  ],
+  "label": "Gimmic_Portal（3個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du003_0030_GIMMICK_031",
+  "dun": "du003",
+  "area": "0030",
+  "group": 4,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Southeast Path",
+  "name_jp": "南東の通路",
+  "pos": [
+   44.5,
+   4.64,
+   -71.25
+  ],
+  "label": "Gimmic_Portal（4個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_057",
+  "dun": "du004",
+  "area": "0000",
+  "group": 5,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   4.01,
+   0.0,
+   -30.37
+  ],
+  "label": "Portal（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_058",
+  "dun": "du004",
+  "area": "0000",
+  "group": 5,
+  "menu": 3,
+  "subarea": 1,
+  "name_en": "West Room",
+  "name_jp": "西の部屋",
+  "pos": [
+   -33.71,
+   4.55,
+   1.68
+  ],
+  "label": "Portal（2階イベントバトル前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_059",
+  "dun": "du004",
+  "area": "0000",
+  "group": 5,
+  "menu": 4,
+  "subarea": 2,
+  "name_en": "East Hallway",
+  "name_jp": "東の廊下",
+  "pos": [
+   18.0,
+   9.0,
+   4.22
+  ],
+  "label": "Portal（3階イベントバトル前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_060",
+  "dun": "du004",
+  "area": "0000",
+  "group": 5,
+  "menu": 5,
+  "subarea": 3,
+  "name_en": "Passageway",
+  "name_jp": "連絡通路前",
+  "pos": [
+   39.5,
+   13.4,
+   74.48
+  ],
+  "label": "Portal（4階ボス扉前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0000_GIMMICK_090",
+  "dun": "du004",
+  "area": "0000",
+  "group": 5,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "Electric Room",
+  "name_jp": "電気室前",
+  "pos": [
+   -25.84,
+   0.4,
+   49.45
+  ],
+  "label": "Portal（1階イベントバトル前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0010_GIMMICK_046",
+  "dun": "du004",
+  "area": "0010",
+  "group": 5,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Passageway",
+  "name_jp": "連絡通路前",
+  "pos": [
+   -21.89,
+   15.0,
+   21.68
+  ],
+  "label": "Portal（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0010_GIMMICK_047",
+  "dun": "du004",
+  "area": "0010",
+  "group": 5,
+  "menu": 7,
+  "subarea": 4,
+  "name_en": "Central Area",
+  "name_jp": "中央広間",
+  "pos": [
+   -10.77,
+   0.0,
+   10.63
+  ],
+  "label": "Portal（イベントバトル前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du004_0010_GIMMICK_048",
+  "dun": "du004",
+  "area": "0010",
+  "group": 5,
+  "menu": 8,
+  "subarea": 6,
+  "name_en": "Lab",
+  "name_jp": "研究所前",
+  "pos": [
+   33.24,
+   -5.0,
+   22.62
+  ],
+  "label": "Portal（研究所前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du005_0000_GIMMICK_018",
+  "dun": "du005",
+  "area": "0000",
+  "group": 6,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -35.46,
+   -0.62,
+   -66.58
+  ],
+  "label": "Gimmic_Portal (スタート地点)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du005_0000_GIMMICK_021",
+  "dun": "du005",
+  "area": "0000",
+  "group": 6,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "North Side",
+  "name_jp": "北側",
+  "pos": [
+   10.98,
+   1.74,
+   67.49
+  ],
+  "label": "Gimmic_Portal (ファントム戦前)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du005_0000_GIMMICK_019",
+  "dun": "du005",
+  "area": "0000",
+  "group": 6,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "Northwest Side",
+  "name_jp": "北西側",
+  "pos": [
+   -95.91,
+   1.74,
+   61.25
+  ],
+  "label": "Gimmic_Portal (アザゼル戦前)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du005_0020_GIMMICK_009",
+  "dun": "du005",
+  "area": "0020",
+  "group": 6,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Northeast Side",
+  "name_jp": "北東側",
+  "pos": null,
+  "label": null,
+  "in_gimmicks": false
+ },
+ {
+  "gimmic_id": "du005_0030_GIMMICK_009",
+  "dun": "du005",
+  "area": "0030",
+  "group": 6,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "Energy Stream Area",
+  "name_jp": "力の奔流前",
+  "pos": [
+   -15.36,
+   4.99,
+   -34.29
+  ],
+  "label": "Gimmic_Portal",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du005_0040_GIMMICK_001",
+  "dun": "du005",
+  "area": "0040",
+  "group": 6,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   7.7,
+   -0.0,
+   -155.93
+  ],
+  "label": "Portal01（骨エリア入口）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du005_0040_GIMMICK_002",
+  "dun": "du005",
+  "area": "0040",
+  "group": 6,
+  "menu": 7,
+  "subarea": 0,
+  "name_en": "190m",
+  "name_jp": "190m",
+  "pos": [
+   1.25,
+   -0.31,
+   24.59
+  ],
+  "label": "Portal01（骨エリアボス前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0000_GIMMICK_001",
+  "dun": "du007",
+  "area": "0000",
+  "group": 7,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   19.37,
+   0.01,
+   -26.91
+  ],
+  "label": "ポータル1個目 (本棟B1F)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0000_GIMMICK_002",
+  "dun": "du007",
+  "area": "0000",
+  "group": 7,
+  "menu": 2,
+  "subarea": 2,
+  "name_en": "Lab Entrance",
+  "name_jp": "研究施設前",
+  "pos": [
+   4.75,
+   -240.0,
+   22.65
+  ],
+  "label": "ポータル2個目 (本棟B3F)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0000_GIMMICK_016",
+  "dun": "du007",
+  "area": "0000",
+  "group": 7,
+  "menu": 3,
+  "subarea": 6,
+  "name_en": "Lab Entrance",
+  "name_jp": "研究施設前",
+  "pos": [
+   -4.0,
+   -720.0,
+   22.65
+  ],
+  "label": "ポータル3個目 (本棟B7F)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0010_GIMMICK_000",
+  "dun": "du007",
+  "area": "0010",
+  "group": 7,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Lab Alcove",
+  "name_jp": "研究施設脇",
+  "pos": [
+   -73.9,
+   0.01,
+   34.68
+  ],
+  "label": "ポータル4個目 (A棟B8F)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0020_GIMMICK_000",
+  "dun": "du007",
+  "area": "0020",
+  "group": 7,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "Altar Area",
+  "name_jp": "祭壇前",
+  "pos": [
+   -41.0,
+   0.01,
+   119.15
+  ],
+  "label": "ポータル5個目 (B棟B12)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0020_GIMMICK_001",
+  "dun": "du007",
+  "area": "0020",
+  "group": 7,
+  "menu": 6,
+  "subarea": 1,
+  "name_en": "Lab Alcove",
+  "name_jp": "研究施設脇",
+  "pos": [
+   -39.14,
+   -120.32,
+   -18.92
+  ],
+  "label": "ポータル6個目 (B13)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0020_GIMMICK_002",
+  "dun": "du007",
+  "area": "0020",
+  "group": 7,
+  "menu": 7,
+  "subarea": 3,
+  "name_en": "Torii Area",
+  "name_jp": "鳥居前",
+  "pos": [
+   -9.24,
+   -222.36,
+   -21.52
+  ],
+  "label": "ポータル7個目 (B15)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0050_GIMMICK_000",
+  "dun": "du007",
+  "area": "0050",
+  "group": 7,
+  "menu": 9,
+  "subarea": 0,
+  "name_en": "Altar Area",
+  "name_jp": "祭壇前",
+  "pos": [
+   -13.56,
+   -2.81,
+   115.87
+  ],
+  "label": "ポータル8個目 (B20)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du007_0040_GIMMICK_027",
+  "dun": "du007",
+  "area": "0040",
+  "group": 7,
+  "menu": 8,
+  "subarea": 0,
+  "name_en": "Northwest Stairs Area",
+  "name_jp": "北西階段前",
+  "pos": [
+   -77.21,
+   0.01,
+   69.63
+  ],
+  "label": "ポータル9個目(B18)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_004",
+  "dun": "du101",
+  "area": "0000",
+  "group": 100,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   120.0,
+   -0.0,
+   -63.5
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_005",
+  "dun": "du101",
+  "area": "0000",
+  "group": 100,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -56.19,
+   -5.97,
+   -15.93
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_006",
+  "dun": "du101",
+  "area": "0000",
+  "group": 100,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   65.25,
+   -15.92,
+   97.5
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0000_GIMMICK_009",
+  "dun": "du101",
+  "area": "0000",
+  "group": 100,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "Midpoint",
+  "name_jp": "中間地点",
+  "pos": [
+   -21.47,
+   -13.93,
+   37.55
+  ],
+  "label": "Gimmic_Portal_04_中央",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_004",
+  "dun": "du101",
+  "area": "0010",
+  "group": 100,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -74.0,
+   0.0,
+   -104.0
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_005",
+  "dun": "du101",
+  "area": "0010",
+  "group": 100,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   41.25,
+   -5.92,
+   -41.25
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_006",
+  "dun": "du101",
+  "area": "0010",
+  "group": 100,
+  "menu": 8,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   -67.5,
+   -17.91,
+   95.0
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0010_GIMMICK_007",
+  "dun": "du101",
+  "area": "0010",
+  "group": 100,
+  "menu": 7,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -56.5,
+   -13.93,
+   56.0
+  ],
+  "label": "Portal4個目（第2ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_005",
+  "dun": "du101",
+  "area": "0030",
+  "group": 100,
+  "menu": 9,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   3.53,
+   0.0,
+   -111.46
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_006",
+  "dun": "du101",
+  "area": "0030",
+  "group": 100,
+  "menu": 10,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   25.0,
+   -23.88,
+   -31.48
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_008",
+  "dun": "du101",
+  "area": "0030",
+  "group": 100,
+  "menu": 12,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   74.09,
+   -61.69,
+   100.96
+  ],
+  "label": "Portal4個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0030_GIMMICK_007",
+  "dun": "du101",
+  "area": "0030",
+  "group": 100,
+  "menu": 11,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -81.0,
+   -57.71,
+   118.5
+  ],
+  "label": "Portal3個目（第2ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_005",
+  "dun": "du101",
+  "area": "0040",
+  "group": 100,
+  "menu": 13,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -111.5,
+   0.0,
+   -114.01
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_006",
+  "dun": "du101",
+  "area": "0040",
+  "group": 100,
+  "menu": 14,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   117.51,
+   -19.9,
+   -25.0
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_007",
+  "dun": "du101",
+  "area": "0040",
+  "group": 100,
+  "menu": 17,
+  "subarea": 0,
+  "name_en": "Gate 4",
+  "name_jp": "第4ゲート前",
+  "pos": [
+   -26.98,
+   -39.8,
+   116.01
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_008",
+  "dun": "du101",
+  "area": "0040",
+  "group": 100,
+  "menu": 15,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   171.47,
+   -43.78,
+   51.47
+  ],
+  "label": "Portal4個目（第2ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0040_GIMMICK_009",
+  "dun": "du101",
+  "area": "0040",
+  "group": 100,
+  "menu": 16,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   -108.98,
+   -45.77,
+   82.71
+  ],
+  "label": "Portal5個目（第3ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_001",
+  "dun": "du101",
+  "area": "0050",
+  "group": 100,
+  "menu": 18,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -34.0,
+   0.0,
+   -114.05
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_002",
+  "dun": "du101",
+  "area": "0050",
+  "group": 100,
+  "menu": 19,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -32.0,
+   -7.96,
+   85.0
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_004",
+  "dun": "du101",
+  "area": "0050",
+  "group": 100,
+  "menu": 20,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   0.0,
+   3.0,
+   0.0
+  ],
+  "label": "Portal4個目（第2ゲート前） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_005",
+  "dun": "du101",
+  "area": "0050",
+  "group": 100,
+  "menu": 21,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   -12.5,
+   -13.93,
+   -95.5
+  ],
+  "label": "Portal5個目（第3ゲート前） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_023",
+  "dun": "du101",
+  "area": "0050",
+  "group": 100,
+  "menu": 22,
+  "subarea": 0,
+  "name_en": "Midpoint",
+  "name_jp": "中間地点",
+  "pos": [
+   42.55,
+   -21.89,
+   -29.75
+  ],
+  "label": "Portal6個目",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0050_GIMMICK_003",
+  "dun": "du101",
+  "area": "0050",
+  "group": 100,
+  "menu": 23,
+  "subarea": 0,
+  "name_en": "Gate 4",
+  "name_jp": "第4ゲート前",
+  "pos": [
+   81.75,
+   -21.89,
+   85.75
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0020_GIMMICK_001",
+  "dun": "du101",
+  "area": "0020",
+  "group": 100,
+  "menu": 24,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -106.0,
+   0.0,
+   36.5
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du101_0020_GIMMICK_002",
+  "dun": "du101",
+  "area": "0020",
+  "group": 100,
+  "menu": 25,
+  "subarea": 0,
+  "name_en": "Foot of Stairs",
+  "name_jp": "階段下",
+  "pos": [
+   39.0,
+   -39.8,
+   36.5
+  ],
+  "label": "Portal2個目（ボス前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0000_GIMMICK_003",
+  "dun": "du102",
+  "area": "0000",
+  "group": 101,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -53.8,
+   10.3,
+   -94.3
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0000_GIMMICK_004",
+  "dun": "du102",
+  "area": "0000",
+  "group": 101,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   101.03,
+   -9.95,
+   -56.05
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0000_GIMMICK_005",
+  "dun": "du102",
+  "area": "0000",
+  "group": 101,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   30.96,
+   -21.89,
+   89.08
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_004",
+  "dun": "du102",
+  "area": "0010",
+  "group": 101,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   35.98,
+   0.0,
+   -106.53
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_005",
+  "dun": "du102",
+  "area": "0010",
+  "group": 101,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -108.47,
+   -3.98,
+   -41.47
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_006",
+  "dun": "du102",
+  "area": "0010",
+  "group": 101,
+  "menu": 7,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   43.48,
+   -11.94,
+   71.41
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0010_GIMMICK_008",
+  "dun": "du102",
+  "area": "0010",
+  "group": 101,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   76.49,
+   -13.93,
+   11.0
+  ],
+  "label": "Portal4個目（第2ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_039",
+  "dun": "du102",
+  "area": "0020",
+  "group": 101,
+  "menu": 8,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -2.0,
+   0.0,
+   109.0
+  ],
+  "label": "Portal1個目（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_040",
+  "dun": "du102",
+  "area": "0020",
+  "group": 101,
+  "menu": 9,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -41.03,
+   -25.87,
+   21.49
+  ],
+  "label": "Portal2個目（第1ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_041",
+  "dun": "du102",
+  "area": "0020",
+  "group": 101,
+  "menu": 11,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   106.5,
+   -29.85,
+   -96.48
+  ],
+  "label": "Portal3個目（ボスゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0020_GIMMICK_042",
+  "dun": "du102",
+  "area": "0020",
+  "group": 101,
+  "menu": 10,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -82.5,
+   -43.78,
+   -2.03
+  ],
+  "label": "Portal4個目（第2ゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_005",
+  "dun": "du102",
+  "area": "0030",
+  "group": 101,
+  "menu": 12,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   2.5,
+   0.0,
+   -116.51
+  ],
+  "label": "Portal（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_006",
+  "dun": "du102",
+  "area": "0030",
+  "group": 101,
+  "menu": 13,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   2.49,
+   -5.97,
+   -62.88
+  ],
+  "label": "Portal (第1ゲート前)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_075",
+  "dun": "du102",
+  "area": "0030",
+  "group": 101,
+  "menu": 14,
+  "subarea": 0,
+  "name_en": "Midpoint",
+  "name_jp": "中間地点",
+  "pos": [
+   2.5,
+   -9.95,
+   66.81
+  ],
+  "label": "Portal (後半中間地点)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_009",
+  "dun": "du102",
+  "area": "0030",
+  "group": 101,
+  "menu": 17,
+  "subarea": 0,
+  "name_en": "Gate 4",
+  "name_jp": "第4ゲート前",
+  "pos": [
+   2.5,
+   -23.88,
+   62.55
+  ],
+  "label": "Portal (ボスゲート前)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_007",
+  "dun": "du102",
+  "area": "0030",
+  "group": 101,
+  "menu": 15,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -70.1,
+   -19.9,
+   -2.96
+  ],
+  "label": "Portal (第2ゲート前)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0030_GIMMICK_008",
+  "dun": "du102",
+  "area": "0030",
+  "group": 101,
+  "menu": 16,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   75.19,
+   -19.9,
+   -3.07
+  ],
+  "label": "Portal (第3ゲート前)",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_004",
+  "dun": "du102",
+  "area": "0040",
+  "group": 101,
+  "menu": 18,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   5.96,
+   0.0,
+   -114.05
+  ],
+  "label": "Portal1個目（スタート地点） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_005",
+  "dun": "du102",
+  "area": "0040",
+  "group": 101,
+  "menu": 19,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -32.55,
+   -15.92,
+   -59.05
+  ],
+  "label": "Portal2個目（第1ゲート前） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_007",
+  "dun": "du102",
+  "area": "0040",
+  "group": 101,
+  "menu": 20,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -111.75,
+   -35.82,
+   25.75
+  ],
+  "label": "Portal4個目（第2ゲート前） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_008",
+  "dun": "du102",
+  "area": "0040",
+  "group": 101,
+  "menu": 21,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   123.05,
+   -35.82,
+   25.29
+  ],
+  "label": "Portal5個目（第3ゲート前） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_039",
+  "dun": "du102",
+  "area": "0040",
+  "group": 101,
+  "menu": 22,
+  "subarea": 0,
+  "name_en": "Midpoint",
+  "name_jp": "中間地点",
+  "pos": [
+   1.51,
+   -47.76,
+   41.04
+  ],
+  "label": "Portal（6個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du102_0040_GIMMICK_006",
+  "dun": "du102",
+  "area": "0040",
+  "group": 101,
+  "menu": 23,
+  "subarea": 0,
+  "name_en": "Gate 4",
+  "name_jp": "第4ゲート前",
+  "pos": [
+   6.0,
+   -43.78,
+   85.75
+  ],
+  "label": "Portal3個目（ボスゲート前） ",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0000_GIMMICK_003",
+  "dun": "du103",
+  "area": "0000",
+  "group": 102,
+  "menu": 1,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -10.04,
+   0.0,
+   -91.56
+  ],
+  "label": "Gimmic_Portal_01",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0000_GIMMICK_004",
+  "dun": "du103",
+  "area": "0000",
+  "group": 102,
+  "menu": 2,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -41.5,
+   -7.96,
+   -6.0
+  ],
+  "label": "Gimmic_Portal_02",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0000_GIMMICK_005",
+  "dun": "du103",
+  "area": "0000",
+  "group": 102,
+  "menu": 3,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -20.0,
+   -17.91,
+   102.5
+  ],
+  "label": "Gimmic_Portal_03",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_004",
+  "dun": "du103",
+  "area": "0010",
+  "group": 102,
+  "menu": 4,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   -88.98,
+   0.0,
+   53.97
+  ],
+  "label": "Portal（入口）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_005",
+  "dun": "du103",
+  "area": "0010",
+  "group": 102,
+  "menu": 5,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   -20.96,
+   -3.98,
+   26.0
+  ],
+  "label": "Portal（中間）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_006",
+  "dun": "du103",
+  "area": "0010",
+  "group": 102,
+  "menu": 7,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   20.0,
+   -9.95,
+   -105.0
+  ],
+  "label": "Portal（終点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0010_GIMMICK_008",
+  "dun": "du103",
+  "area": "0010",
+  "group": 102,
+  "menu": 6,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -63.91,
+   -11.94,
+   -74.03
+  ],
+  "label": "Portal（ゲート付近）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_004",
+  "dun": "du103",
+  "area": "0020",
+  "group": 102,
+  "menu": 8,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   7.45,
+   0.0,
+   -135.03
+  ],
+  "label": "Portal（1個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_005",
+  "dun": "du103",
+  "area": "0020",
+  "group": 102,
+  "menu": 9,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   5.45,
+   -11.94,
+   -100.94
+  ],
+  "label": "Portal（2個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_006",
+  "dun": "du103",
+  "area": "0020",
+  "group": 102,
+  "menu": 11,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   -12.18,
+   -24.23,
+   119.52
+  ],
+  "label": "Portal（3個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0020_GIMMICK_007",
+  "dun": "du103",
+  "area": "0020",
+  "group": 102,
+  "menu": 10,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   12.67,
+   -39.8,
+   25.0
+  ],
+  "label": "Portal（4個目）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_005",
+  "dun": "du103",
+  "area": "0030",
+  "group": 102,
+  "menu": 12,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   11.51,
+   0.0,
+   -0.98
+  ],
+  "label": "Portal（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_006",
+  "dun": "du103",
+  "area": "0030",
+  "group": 102,
+  "menu": 13,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   61.89,
+   -23.88,
+   72.5
+  ],
+  "label": "Portal（1個目のゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_007",
+  "dun": "du103",
+  "area": "0030",
+  "group": 102,
+  "menu": 16,
+  "subarea": 0,
+  "name_en": "Gate 4",
+  "name_jp": "第4ゲート前",
+  "pos": [
+   -118.49,
+   -31.84,
+   -121.01
+  ],
+  "label": "Portal（ボス前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_008",
+  "dun": "du103",
+  "area": "0030",
+  "group": 102,
+  "menu": 14,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   57.5,
+   -43.78,
+   -87.5
+  ],
+  "label": "Portal（2個目のゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0030_GIMMICK_009",
+  "dun": "du103",
+  "area": "0030",
+  "group": 102,
+  "menu": 15,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   -77.5,
+   -47.76,
+   37.5
+  ],
+  "label": "Portal（3個目のゲート前）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_001",
+  "dun": "du103",
+  "area": "0040",
+  "group": 102,
+  "menu": 17,
+  "subarea": 0,
+  "name_en": "Entrance",
+  "name_jp": "入口",
+  "pos": [
+   0.0,
+   0.0,
+   -176.91
+  ],
+  "label": "Portal（スタート地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_002",
+  "dun": "du103",
+  "area": "0040",
+  "group": 102,
+  "menu": 18,
+  "subarea": 0,
+  "name_en": "Gate 1",
+  "name_jp": "第1ゲート前",
+  "pos": [
+   6.0,
+   0.0,
+   -71.49
+  ],
+  "label": "Portal（中間地点）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_003",
+  "dun": "du103",
+  "area": "0040",
+  "group": 102,
+  "menu": 19,
+  "subarea": 0,
+  "name_en": "Gate 2",
+  "name_jp": "第2ゲート前",
+  "pos": [
+   -44.03,
+   -9.95,
+   98.51
+  ],
+  "label": "Portal（2個目のゲート）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_004",
+  "dun": "du103",
+  "area": "0040",
+  "group": 102,
+  "menu": 20,
+  "subarea": 0,
+  "name_en": "Gate 3",
+  "name_jp": "第3ゲート前",
+  "pos": [
+   44.02,
+   -9.95,
+   98.49
+  ],
+  "label": "Portal（3個目のゲート）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_005",
+  "dun": "du103",
+  "area": "0040",
+  "group": 102,
+  "menu": 21,
+  "subarea": 0,
+  "name_en": "Midpoint",
+  "name_jp": "中間地点",
+  "pos": [
+   3.59,
+   -21.89,
+   88.59
+  ],
+  "label": "Portal（最終エリア）",
+  "in_gimmicks": true
+ },
+ {
+  "gimmic_id": "du103_0040_GIMMICK_006",
+  "dun": "du103",
+  "area": "0040",
+  "group": 102,
+  "menu": 22,
+  "subarea": 0,
+  "name_en": "Gate 4",
+  "name_jp": "第4ゲート前",
+  "pos": [
+   1.06,
+   -21.89,
+   148.55
+  ],
+  "label": "Portal（ボスゲート前）",
+  "in_gimmicks": true
+ }
+]

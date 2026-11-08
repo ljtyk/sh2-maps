@@ -1,0 +1,2108 @@
+{
+ "du101_0000": [
+  {
+   "itemId": "ea03_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     657,
+     658
+    ],
+    [
+     657,
+     658
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_101_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1153
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_101_arrow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1153
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_101_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9366
+    ]
+   ]
+  }
+ ],
+ "du101_0010": [
+  {
+   "itemId": "ea06_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     681,
+     366
+    ],
+    [
+     681,
+     682
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_201_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9218
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_201_arrow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9218
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_201_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9367
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_202_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9368
+    ]
+   ]
+  }
+ ],
+ "du101_0030": [
+  {
+   "itemId": "ea09_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     705,
+     706
+    ],
+    [
+     705,
+     706
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_301_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9222
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_301_arrow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9222
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_301_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9369
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_302_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9370
+    ]
+   ]
+  }
+ ],
+ "du101_0040": [
+  {
+   "itemId": "ea12_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     729,
+     730
+    ],
+    [
+     729,
+     730
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_401_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9227
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_401_arrow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9227
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_401_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9371
+    ]
+   ]
+  },
+  {
+   "itemId": "ev11_402_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9372
+    ]
+   ]
+  }
+ ],
+ "du101_0050": [
+  {
+   "itemId": "ea15_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     753,
+     754
+    ],
+    [
+     753,
+     754
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_501_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9232
+    ]
+   ]
+  },
+  {
+   "itemId": "ev01_501_arrow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9232
+    ]
+   ]
+  }
+ ],
+ "du101_0020": [
+  {
+   "itemId": "ed06_002_arrow",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1479
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_005_arrow_a",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1481,
+     1482
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_006_arrow_a",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1482,
+     1483
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_007_arrow_a",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1483,
+     1484
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_005_arrow_b",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1481,
+     1482
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_006_arrow_b",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1482,
+     1483
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_007_arrow_b",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1483,
+     1484
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_005_arrow_c",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1481,
+     1482
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_006_arrow_c",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1482,
+     1483
+    ]
+   ]
+  },
+  {
+   "itemId": "ed06_007_arrow_c",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1483,
+     1484
+    ]
+   ]
+  },
+  {
+   "itemId": "bm06_001_enemysymbol",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1437
+    ]
+   ]
+  },
+  {
+   "itemId": "bm06_001_arrow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1437
+    ]
+   ]
+  }
+ ],
+ "du102_0000": [
+  {
+   "itemId": "ea18_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     777,
+     778
+    ],
+    [
+     777,
+     778
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_101_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9256
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_101_milady_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9256
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_101_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9373
+    ]
+   ]
+  }
+ ],
+ "du102_0010": [
+  {
+   "itemId": "ea21_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     801,
+     802
+    ],
+    [
+     801,
+     802
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_201_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9260
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_201_milady_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9260
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_201_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9374
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_202_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9375
+    ]
+   ]
+  }
+ ],
+ "du102_0020": [
+  {
+   "itemId": "ea24_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     825,
+     826
+    ],
+    [
+     825,
+     826
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_301_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9264
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_301_milady_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9264
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_301_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9376
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_302_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9377
+    ]
+   ]
+  }
+ ],
+ "du102_0030": [
+  {
+   "itemId": "ea27_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     849,
+     850
+    ],
+    [
+     849,
+     850
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_401_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9269
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_401_milady_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9269
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_401_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9378
+    ]
+   ]
+  },
+  {
+   "itemId": "ev12_402_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9379
+    ]
+   ]
+  }
+ ],
+ "du102_0040": [
+  {
+   "itemId": "ea30_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     873,
+     874
+    ],
+    [
+     873,
+     874
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_501_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9274
+    ]
+   ]
+  },
+  {
+   "itemId": "ev02_501_milady_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9274
+    ]
+   ]
+  }
+ ],
+ "du103_0000": [
+  {
+   "itemId": "ea33_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     897,
+     898
+    ],
+    [
+     897,
+     898
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_101_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9286
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_101_psyzow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9286
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_101_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9380
+    ]
+   ]
+  }
+ ],
+ "du103_0010": [
+  {
+   "itemId": "ea36_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     921,
+     922
+    ],
+    [
+     921,
+     922
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_201_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9290
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_201_psyzow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9290
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_201_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9381
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_202_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9382
+    ]
+   ]
+  }
+ ],
+ "du103_0020": [
+  {
+   "itemId": "ea39_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     945,
+     946
+    ],
+    [
+     945,
+     946
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_301_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9294
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_301_psyzow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9294
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_301_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9383
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_302_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9384
+    ]
+   ]
+  }
+ ],
+ "du103_0030": [
+  {
+   "itemId": "ea42_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     969,
+     970
+    ],
+    [
+     969,
+     970
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_401_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9299
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_401_psyzow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9299
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_401_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9385
+    ]
+   ]
+  },
+  {
+   "itemId": "ev13_402_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9386
+    ]
+   ]
+  }
+ ],
+ "du103_0040": [
+  {
+   "itemId": "ea45_boss",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     993,
+     994
+    ],
+    [
+     993,
+     994
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_501_bossmodel",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9304
+    ]
+   ]
+  },
+  {
+   "itemId": "ev03_501_psyzow_noise",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     9304
+    ]
+   ]
+  }
+ ],
+ "du001_0000": [
+  {
+   "itemId": "em01_004_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1031
+    ]
+   ]
+  },
+  {
+   "itemId": "em01_004_blood",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1031
+    ]
+   ]
+  },
+  {
+   "itemId": "em01_004_comp",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1072
+    ]
+   ]
+  },
+  {
+   "itemId": "em01_009_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1031,
+     1034
+    ]
+   ]
+  },
+  {
+   "itemId": "er01_madgasser",
+   "quest": "ER01",
+   "kind": "npcs",
+   "flags": [
+    [
+     10246,
+     10247
+    ],
+    [
+     10246,
+     10247
+    ],
+    [
+     10247,
+     10248
+    ]
+   ]
+  },
+  {
+   "itemId": "er38_chris",
+   "quest": "ER38",
+   "kind": "npcs",
+   "flags": [
+    [
+     10340,
+     10341
+    ],
+    [
+     11132,
+     11150
+    ]
+   ]
+  },
+  {
+   "itemId": "er07_onmoraki",
+   "quest": "ER07",
+   "kind": "npcs",
+   "flags": [
+    [
+     10388,
+     10389
+    ],
+    [
+     10388,
+     10389
+    ],
+    [
+     10389,
+     10390
+    ]
+   ]
+  },
+  {
+   "itemId": "er26_frost1",
+   "quest": "ER26",
+   "kind": "npcs",
+   "flags": [
+    [
+     10860,
+     10842
+    ],
+    [
+     10861,
+     10862
+    ],
+    [
+     10842,
+     10861
+    ],
+    [
+     69,
+     10862
+    ]
+   ]
+  },
+  {
+   "itemId": "er33_lock",
+   "quest": "ER33",
+   "kind": "npcs",
+   "flags": [
+    [
+     11012,
+     11013
+    ],
+    [
+     11012,
+     11013
+    ],
+    [
+     11013,
+     11014
+    ]
+   ]
+  },
+  {
+   "itemId": "er92_summoner",
+   "quest": "ER92",
+   "kind": "npcs",
+   "flags": [
+    [
+     11706,
+     11708
+    ],
+    [
+     11725,
+     11726
+    ]
+   ]
+  },
+  {
+   "itemId": "br92_001_nana",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     11708,
+     11709
+    ]
+   ]
+  }
+ ],
+ "du001_0010": [
+  {
+   "itemId": "er32_makami",
+   "quest": "ER32",
+   "kind": "npcs",
+   "flags": [
+    [
+     10986,
+     11005
+    ],
+    [
+     10983,
+     11005
+    ],
+    [
+     11005,
+     11006
+    ]
+   ]
+  },
+  {
+   "itemId": "er41_rs_fellow",
+   "quest": "ER41",
+   "kind": "npcs",
+   "flags": [
+    [
+     11202,
+     11221
+    ],
+    [
+     11221,
+     11223
+    ]
+   ]
+  }
+ ],
+ "du002_0010": [
+  {
+   "itemId": "ed03_002_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1228,
+     1224
+    ]
+   ]
+  },
+  {
+   "itemId": "ed03_015_npc",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1228
+    ]
+   ]
+  },
+  {
+   "itemId": "er13_smiling_m",
+   "quest": "ER13",
+   "kind": "npcs",
+   "flags": [
+    [
+     10532,
+     10533
+    ]
+   ]
+  },
+  {
+   "itemId": "er27_frost2",
+   "quest": "ER27",
+   "kind": "npcs",
+   "flags": [
+    [
+     10885,
+     10886
+    ],
+    [
+     10884,
+     10866
+    ],
+    [
+     10866,
+     10885
+    ],
+    [
+     1227,
+     10886
+    ]
+   ]
+  },
+  {
+   "itemId": "er31_makami",
+   "quest": "ER31",
+   "kind": "npcs",
+   "flags": [
+    [
+     10981,
+     10982
+    ],
+    [
+     10962,
+     10981
+    ],
+    [
+     69,
+     10981
+    ]
+   ]
+  },
+  {
+   "itemId": "er42_sakuro",
+   "quest": "ER42",
+   "kind": "npcs",
+   "flags": [
+    [
+     11154,
+     11173
+    ],
+    [
+     11226,
+     11245
+    ],
+    [
+     11245,
+     11246
+    ],
+    [
+     11246,
+     11175
+    ]
+   ]
+  }
+ ],
+ "du002_0000": [
+  {
+   "itemId": "er02_doppel",
+   "quest": "ER02",
+   "kind": "npcs",
+   "flags": [
+    [
+     10272,
+     10273
+    ]
+   ]
+  },
+  {
+   "itemId": "er31_roa",
+   "quest": "ER31",
+   "kind": "npcs",
+   "flags": [
+    [
+     10962,
+     10964
+    ],
+    [
+     10962,
+     10964
+    ],
+    [
+     10964,
+     10965
+    ]
+   ]
+  },
+  {
+   "itemId": "er32_fenrir",
+   "quest": "ER32",
+   "kind": "npcs",
+   "flags": [
+    [
+     10986,
+     10988
+    ],
+    [
+     10988,
+     10989
+    ]
+   ]
+  },
+  {
+   "itemId": "er37_rose",
+   "quest": "ER37",
+   "kind": "npcs",
+   "flags": [
+    [
+     11109,
+     11110
+    ],
+    [
+     11110,
+     11111
+    ]
+   ]
+  }
+ ],
+ "du002_0020": [
+  {
+   "itemId": "er39_ren",
+   "quest": "ER39",
+   "kind": "npcs",
+   "flags": [
+    [
+     11156,
+     11173
+    ]
+   ]
+  }
+ ],
+ "du003_0000": [
+  {
+   "itemId": "er05_teruya",
+   "quest": "ER05",
+   "kind": "npcs",
+   "flags": [
+    [
+     10341,
+     10342
+    ]
+   ]
+  },
+  {
+   "itemId": "er08_lilim",
+   "quest": "ER08",
+   "kind": "npcs",
+   "flags": [
+    [
+     10412,
+     10413
+    ],
+    [
+     10413,
+     10414
+    ]
+   ]
+  },
+  {
+   "itemId": "er14_wild_m",
+   "quest": "ER14",
+   "kind": "npcs",
+   "flags": [
+    [
+     10556,
+     10557
+    ],
+    [
+     10557,
+     10559
+    ]
+   ]
+  },
+  {
+   "itemId": "er28_frost3",
+   "quest": "ER28",
+   "kind": "npcs",
+   "flags": [
+    [
+     10909,
+     10910
+    ],
+    [
+     10908,
+     10890
+    ],
+    [
+     10890,
+     10909
+    ],
+    [
+     133,
+     10910
+    ]
+   ]
+  }
+ ],
+ "du003_0010": [
+  {
+   "itemId": "ed04_005_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1298,
+     1299
+    ]
+   ]
+  }
+ ],
+ "du003_0020": [
+  {
+   "itemId": "er48_boss",
+   "quest": "ER48",
+   "kind": "npcs",
+   "flags": [
+    [
+     11370,
+     11372
+    ],
+    [
+     11370,
+     11372
+    ],
+    [
+     11372,
+     11373
+    ]
+   ]
+  }
+ ],
+ "du003_0030": [
+  {
+   "itemId": "em04_007_npc_tekkamen",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1312,
+     1270
+    ]
+   ]
+  },
+  {
+   "itemId": "em04_007_npc_zenon",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1312,
+     1270
+    ]
+   ]
+  },
+  {
+   "itemId": "er14_polite_m",
+   "quest": "ER14",
+   "kind": "npcs",
+   "flags": [
+    [
+     10556,
+     10558
+    ],
+    [
+     10557,
+     10559
+    ]
+   ]
+  },
+  {
+   "itemId": "er48_boss",
+   "quest": "ER48",
+   "kind": "npcs",
+   "flags": [
+    [
+     11370,
+     11372
+    ],
+    [
+     11370,
+     11372
+    ],
+    [
+     11372,
+     11373
+    ]
+   ]
+  }
+ ],
+ "du004_0000": [
+  {
+   "itemId": "bd05_002_enemysymbol",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1409
+    ]
+   ]
+  },
+  {
+   "itemId": "er29_frost4",
+   "quest": "ER29",
+   "kind": "npcs",
+   "flags": [
+    [
+     10933,
+     10934
+    ],
+    [
+     10932,
+     10914
+    ],
+    [
+     10914,
+     10933
+    ],
+    [
+     134,
+     10934
+    ]
+   ]
+  },
+  {
+   "itemId": "er43_natsuhiko",
+   "quest": "ER43",
+   "kind": "npcs",
+   "flags": [
+    [
+     11252,
+     11254
+    ],
+    [
+     11254,
+     11255
+    ]
+   ]
+  }
+ ],
+ "du004_0010": [
+  {
+   "itemId": "em05_011_bpc_ash",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1346
+    ]
+   ]
+  },
+  {
+   "itemId": "er09_mirai",
+   "quest": "ER09",
+   "kind": "npcs",
+   "flags": [
+    [
+     10436,
+     10439
+    ],
+    [
+     10439,
+     10440
+    ]
+   ]
+  },
+  {
+   "itemId": "er09_orthros",
+   "quest": "ER09",
+   "kind": "npcs",
+   "flags": [
+    [
+     10437,
+     10445
+    ],
+    [
+     10445,
+     10439
+    ]
+   ]
+  },
+  {
+   "itemId": "er35_jaaku",
+   "quest": "ER35",
+   "kind": "npcs",
+   "flags": [
+    [
+     11064,
+     11065
+    ],
+    [
+     11065,
+     11066
+    ]
+   ]
+  },
+  {
+   "itemId": "er49_boss2",
+   "quest": "ER49",
+   "kind": "npcs",
+   "flags": [
+    [
+     11394,
+     11405
+    ],
+    [
+     11405,
+     11397
+    ]
+   ]
+  }
+ ],
+ "du004_0020": [
+  {
+   "itemId": "er06_pazuzu",
+   "quest": "ER06",
+   "kind": "npcs",
+   "flags": [
+    [
+     10363,
+     10364
+    ],
+    [
+     10363,
+     10364
+    ],
+    [
+     10364,
+     10365
+    ]
+   ]
+  },
+  {
+   "itemId": "er40_mermaid",
+   "quest": "ER40",
+   "kind": "npcs",
+   "flags": [
+    [
+     69,
+     11179
+    ],
+    [
+     11179,
+     11197
+    ]
+   ]
+  },
+  {
+   "itemId": "er40_mermaid_2",
+   "quest": "ER40",
+   "kind": "npcs",
+   "flags": [
+    [
+     11197,
+     11198
+    ]
+   ]
+  },
+  {
+   "itemId": "er40_hans",
+   "quest": "ER40",
+   "kind": "npcs",
+   "flags": [
+    [
+     11197,
+     11198
+    ]
+   ]
+  }
+ ],
+ "du005_0000": [
+  {
+   "itemId": "er03_throne",
+   "quest": "ER03",
+   "kind": "npcs",
+   "flags": [
+    [
+     10296,
+     10297
+    ],
+    [
+     10297,
+     10298
+    ]
+   ]
+  },
+  {
+   "itemId": "er03_cult_m",
+   "quest": "ER03",
+   "kind": "npcs",
+   "flags": [
+    [
+     10296,
+     10297
+    ],
+    [
+     10297,
+     10311
+    ]
+   ]
+  },
+  {
+   "itemId": "er03_cult_f",
+   "quest": "ER03",
+   "kind": "npcs",
+   "flags": [
+    [
+     10296,
+     10297
+    ],
+    [
+     10297,
+     10311
+    ]
+   ]
+  },
+  {
+   "itemId": "er30_frost5",
+   "quest": "ER30",
+   "kind": "npcs",
+   "flags": [
+    [
+     10957,
+     10958
+    ],
+    [
+     10956,
+     10938
+    ],
+    [
+     10938,
+     10957
+    ],
+    [
+     1526,
+     10958
+    ]
+   ]
+  }
+ ],
+ "du005_0010": [
+  {
+   "itemId": "ed07_002_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_003_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_004_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_007_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     0
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_009_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1582,
+     0
+    ]
+   ]
+  },
+  {
+   "itemId": "er15_smiling_m",
+   "quest": "ER15",
+   "kind": "npcs",
+   "flags": [
+    [
+     10580,
+     10581
+    ]
+   ]
+  }
+ ],
+ "du005_0020": [
+  {
+   "itemId": "ed07_008_devil",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1582
+    ]
+   ]
+  }
+ ],
+ "du005_0040": [
+  {
+   "itemId": "em07_018_hozumi",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1528
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_011_mangetsu",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1584,
+     1585
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_014_onda",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1587,
+     1588
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_017_paul",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1590,
+     1591
+    ]
+   ]
+  },
+  {
+   "itemId": "ed07_020_raven",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     1593,
+     1594
+    ]
+   ]
+  },
+  {
+   "itemId": "em07_018_agent_a",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1528
+    ]
+   ]
+  },
+  {
+   "itemId": "em07_018_agent_b",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     0,
+     1528
+    ]
+   ]
+  }
+ ],
+ "du005_0030": [
+  {
+   "itemId": "er50_boss",
+   "quest": "ER50",
+   "kind": "npcs",
+   "flags": [
+    [
+     11418,
+     11420
+    ]
+   ]
+  }
+ ],
+ "du007_0010": [
+  {
+   "itemId": "er81_fuyuhiko",
+   "quest": "ER81",
+   "kind": "npcs",
+   "flags": [
+    [
+     11629,
+     11631
+    ],
+    [
+     11610,
+     11631
+    ],
+    [
+     11803,
+     11610
+    ]
+   ]
+  },
+  {
+   "itemId": "er81_sudama",
+   "quest": "ER81",
+   "kind": "npcs",
+   "flags": [
+    [
+     11610,
+     11613
+    ]
+   ]
+  }
+ ],
+ "du007_0020": [
+  {
+   "itemId": "er82_natsuki",
+   "quest": "ER82",
+   "kind": "npcs",
+   "flags": [
+    [
+     11634,
+     11653
+    ],
+    [
+     11803,
+     11653
+    ],
+    [
+     11653,
+     11655
+    ]
+   ]
+  },
+  {
+   "itemId": "er82_yamata",
+   "quest": "ER82",
+   "kind": "npcs",
+   "flags": [
+    [
+     11634,
+     11637
+    ]
+   ]
+  },
+  {
+   "itemId": "er83_elephant",
+   "quest": "ER83",
+   "kind": "npcs",
+   "flags": [
+    [
+     11660,
+     11662
+    ],
+    [
+     11662,
+     11664
+    ],
+    [
+     11664,
+     11665
+    ]
+   ]
+  },
+  {
+   "itemId": "er96_003_nana",
+   "quest": "ER96",
+   "kind": "npcs",
+   "flags": [
+    [
+     11802,
+     11806
+    ]
+   ]
+  },
+  {
+   "itemId": "er96_003_diary",
+   "quest": "ER96",
+   "kind": "npcs",
+   "flags": [
+    [
+     11802,
+     11806
+    ]
+   ]
+  }
+ ],
+ "du007_0000": [
+  {
+   "itemId": "er83_shogetsu",
+   "quest": "ER83",
+   "kind": "npcs",
+   "flags": [
+    [
+     11658,
+     11660
+    ],
+    [
+     11660,
+     11677
+    ],
+    [
+     11677,
+     11679
+    ]
+   ]
+  },
+  {
+   "itemId": "br95_001_enemy",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     11781,
+     11794
+    ]
+   ]
+  },
+  {
+   "itemId": "er95_005_zenon",
+   "quest": "ER95",
+   "kind": "npcs",
+   "flags": [
+    [
+     11794,
+     11784
+    ]
+   ]
+  },
+  {
+   "itemId": "acompany_nana",
+   "quest": null,
+   "kind": "npcs",
+   "flags": [
+    [
+     11847,
+     68
+    ]
+   ]
+  }
+ ],
+ "du007_0050": [
+  {
+   "itemId": "er83_shiva",
+   "quest": "ER83",
+   "kind": "npcs",
+   "flags": [
+    [
+     11664,
+     11669
+    ],
+    [
+     11669,
+     0
+    ],
+    [
+     0,
+     11664
+    ]
+   ]
+  },
+  {
+   "itemId": "er83_parvati",
+   "quest": "ER83",
+   "kind": "npcs",
+   "flags": [
+    [
+     11664,
+     0
+    ],
+    [
+     0,
+     11664
+    ]
+   ]
+  }
+ ]
+}

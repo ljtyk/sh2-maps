@@ -1,0 +1,26 @@
+{
+ "n_layers": 2,
+ "y_of_layer": [
+  0.0,
+  -120.0
+ ],
+ "labels": [
+  "B18",
+  "B19"
+ ],
+ "spacing": 120.0,
+ "obs_levels": [
+  -120,
+  0
+ ],
+ "matched": true,
+ "score": [
+  0.7666666666666667,
+  0.8095238095238095
+ ],
+ "support": [
+  30,
+  21
+ ],
+ "method": "label-corridor"
+}
